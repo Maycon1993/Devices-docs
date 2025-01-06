@@ -25,6 +25,8 @@
         items:
          - name: Surface power supplies and charging requirements
            href: https://support.microsoft.com/surface/surface-power-supplies-and-charging-requirements-0d9d51d4-594b-464d-9086-c90f35b80c01  
+         - name: Surface Reeves Dock
+           href: surface-reeves-overview.md   
          - name: What's new in Surface Thunderbolt 4 Dock
            href: surface-dock-whats-new.md  
          - name: Surface Dock 2 overview
