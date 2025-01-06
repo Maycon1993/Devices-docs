@@ -1,6 +1,6 @@
 ---
 title: PowerShell for Surface Hub (v1)
-description: This page includes PowerShell scripts intended for the original Surface Hub (v1)
+description: Learn to manage Surface Hub (v1) accounts with PowerShell scripts. Create, validate, and customize device accounts for seamless operation.
 ms.assetid: 3EF48F63-8E4C-4D74-ACD5-461F1C653784
 manager: frankbu
 ms.service: surface-hub
@@ -29,7 +29,7 @@ appliesto:
   - [Allowing device IDs for ActiveSync](#allowing-device-ids-for-activesync)
   - [Auto-accepting and declining meeting requests](#auto-accept-meetings-cmdlet)
   - [Accepting external meeting requests](#accept-ext-meetings-cmdlet)
-    
+
  > [!NOTE]
  > See also [Modern Auth and Unattended Scripts in Exchange Online PowerShell V2](https://techcommunity.microsoft.com/t5/exchange-team-blog/modern-auth-and-unattended-scripts-in-exchange-online-powershell/ba-p/1497387)
 
@@ -45,14 +45,14 @@ To successfully execute these PowerShell scripts, you  need to install the follo
 
 What do the scripts do?
 
--   Create device accounts for setups using pure single-forest on-premises (Microsoft Exchange and Skype 2013 and later only) or online (Microsoft Office 365), that are configured correctly for your Surface Hub.
--   Validate existing device accounts for any setup (on-premises or online) to make sure they're compatible with Surface Hub.
--   Provide a base template for anyone wanting to create their own device account creation or validation scripts.
+- Create device accounts for setups using pure single-forest on-premises (Microsoft Exchange and Skype 2013 and later only) or online (Microsoft Office 365), that are configured correctly for your Surface Hub.
+- Validate existing device accounts for any setup (on-premises or online) to make sure they're compatible with Surface Hub.
+- Provide a base template for anyone wanting to create their own device account creation or validation scripts.
 
 What do you need in order to run the scripts?
 
--   Remote PowerShell access to your organization's domain or tenant, Exchange servers, and Skype for Business servers.
--   Admin credentials for your organization's domain or tenant, Exchange servers, and Skype for Business servers.
+- Remote PowerShell access to your organization's domain or tenant, Exchange servers, and Skype for Business servers.
+- Admin credentials for your organization's domain or tenant, Exchange servers, and Skype for Business servers.
 
 > [!NOTE]
 > Whether you’re creating a new account or modifying an already-existing account, the validation script verifies that your device account is configured correctly. You should always run the validation script before adding a device account to Surface Hub.
@@ -61,120 +61,34 @@ What do you need in order to run the scripts?
 
 The account creation scripts perform the following tasks:
 
--   Ask for administrator credentials.
--   Create device accounts in your domain/tenant.
--   Create or assign a Surface Hub-compatible ActiveSync policy to the device accounts.
--   Set various attributes for the created accounts in Exchange and Skype for Business.
--   Assign licenses and permissions to the created accounts.
+- Ask for administrator credentials.
+- Create device accounts in your domain/tenant.
+- Create or assign a Surface Hub-compatible ActiveSync policy to the device accounts.
+- Set various attributes for the created accounts in Exchange and Skype for Business.
+- Assign licenses and permissions to the created accounts.
 
 These attributes are the attributes that are set by the scripts:
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Cmdlet</th>
-<th align="left">Attribute</th>
-<th align="left">Value</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left"><p>Set-Mailbox</p></td>
-<td align="left"><p>RoomMailboxPassword</p></td>
-<td align="left"><p>User-provided</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p></p></td>
-<td align="left"><p>EnableRoomMailboxAccount</p></td>
-<td align="left"><p>True</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p></p></td>
-<td align="left"><p>Type</p></td>
-<td align="left"><p>Room</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>Set-CalendarProcessing</p></td>
-<td align="left"><p>AutomateProcessing</p></td>
-<td align="left"><p>AutoAccept</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p></p></td>
-<td align="left"><p>RemovePrivateProperty</p></td>
-<td align="left"><p>False</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p></p></td>
-<td align="left"><p>DeleteSubject</p></td>
-<td align="left"><p>False</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p></p></td>
-<td align="left"><p>DeleteComments</p></td>
-<td align="left"><p>False</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p></p></td>
-<td align="left"><p>AddOrganizerToSubject</p></td>
-<td align="left"><p>False</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p></p></td>
-<td align="left"><p>AddAdditionalResponse</p></td>
-<td align="left"><p>True</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p></p></td>
-<td align="left"><p>AdditionalResponse</p></td>
-<td align="left"><p>&quot;This is a Surface Hub room!&quot;</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>New-MobileDeviceMailboxPolicy</p></td>
-<td align="left"><p>PasswordEnabled</p></td>
-<td align="left"><p>False</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p></p></td>
-<td align="left"><p>AllowNonProvisionableDevices</p></td>
-<td align="left"><p>True</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>Enable-CSMeetingRoom</p></td>
-<td align="left"><p>RegistrarPool</p></td>
-<td align="left"><p>User-provided</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p></p></td>
-<td align="left"><p>SipAddress</p></td>
-<td align="left"><p>Set to the User Principal Name (UPN) of the device account</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>Set-MsolUserLicense (O365 only)</p></td>
-<td align="left"><p>AddLicenses</p></td>
-<td align="left"><p>User-provided</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>Set-MsolUser (O365 only)</p></td>
-<td align="left"><p>PasswordNeverExpires</p></td>
-<td align="left"><p>True</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>Set-AdUser (On-premises only)</p></td>
-<td align="left"><p>Enabled</p></td>
-<td align="left"><p>True</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>Set-AdUser (On-premises only)</p></td>
-<td align="left"><p>PasswordNeverExpires</p></td>
-<td align="left"><p>True</p></td>
-</tr>
-</tbody>
-</table>
+| Cmdlet                          | Attribute                     | Value                                          |
+|---------------------------------|-------------------------------|------------------------------------------------|
+| Set-Mailbox                     | RoomMailboxPassword           | User-provided                                 |
+|                                 | EnableRoomMailboxAccount      | True                                          |
+|                                 | Type                          | Room                                          |
+| Set-CalendarProcessing          | AutomateProcessing            | AutoAccept                                    |
+|                                 | RemovePrivateProperty         | False                                         |
+|                                 | DeleteSubject                 | False                                         |
+|                                 | DeleteComments                | False                                         |
+|                                 | AddOrganizerToSubject         | False                                         |
+|                                 | AddAdditionalResponse         | True                                          |
+|                                 | AdditionalResponse            | "This is a Surface Hub room!"                |
+| New-MobileDeviceMailboxPolicy   | PasswordEnabled               | False                                         |
+|                                 | AllowNonProvisionableDevices  | True                                          |
+| Enable-CSMeetingRoom            | RegistrarPool                 | User-provided                                 |
+|                                 | SipAddress                    | Set to the User Principal Name (UPN) of the device account |
+| Set-MsolUserLicense (O365 only) | AddLicenses                   | User-provided                                 |
+| Set-MsolUser (O365 only)        | PasswordNeverExpires          | True                                          |
+| Set-AdUser (On-premises only)   | Enabled                       | True                                          |
+| Set-AdUser (On-premises only)   | PasswordNeverExpires          | True                                          |
 
 [!INCLUDE [Azure AD PowerShell deprecation note](includes/aad-powershell-deprecation-note.md)]
 
@@ -185,7 +99,6 @@ These scripts create a device account for you. You can use the [Account verifica
 The account creation scripts cannot modify an already existing account, but can be used to help you understand which cmdlets need to be run to configure the existing account correctly.
 
 ### <a href="" id="create-on-premises-ps-scripts"></a>Create an on-premises account
-
 
 ```PowerShell
 # SHAccountCreateOnPrem.ps1
@@ -1613,8 +1526,8 @@ In the following cmdlets, `$strPolicy` is the name of the ActiveSync policy, and
 
 In order to run the cmdlets, you need to set up a remote PowerShell session and:
 
--   Your admin account must be remote-PowerShell-enabled. This setting allows the admin to use the PowerShell cmdlets that are needed by the script. (This permission can be set using `set-user $admin -RemotePowerShellEnabled $true`)
--   Your admin account must have the "Reset Password" role if you plan to run the creation scripts. This role allows the admin to change the password of the account, which is needed for the script. The Reset Password Role can be enabled using the Exchange Admin Center.
+- Your admin account must be remote-PowerShell-enabled. This setting allows the admin to use the PowerShell cmdlets that are needed by the script. (This permission can be set using `set-user $admin -RemotePowerShellEnabled $true`)
+- Your admin account must have the "Reset Password" role if you plan to run the creation scripts. This role allows the admin to change the password of the account, which is needed for the script. The Reset Password Role can be enabled using the Exchange Admin Center.
 
 Create the policy.
 

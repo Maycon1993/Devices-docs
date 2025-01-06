@@ -1,6 +1,6 @@
 ---
 title: Create and test a device account on Surface Hub
-description: This article introduces how to create and test the device account that Microsoft Surface Hub uses to communicate with Microsoft Exchange and Skype.
+description: Set up a Surface Hub device account for seamless meeting scheduling and conferencing with Exchange and Teams integration.
 ms.assetid: C8605B5F-2178-4C3A-B4E0-CE32C70ECF67
 ms.reviewer: rikot
 manager: frankbu

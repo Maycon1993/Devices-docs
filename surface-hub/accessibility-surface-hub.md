@@ -1,6 +1,6 @@
 ---
 title: Adjust accessibility settings on Surface Hub 
-description: Users can adjust Ease of Access settings for Microsoft Surface Hub.
+description: Learn how to adjust Ease of Access settings on Surface Hub for personalized accessibility, including Magnifier, Narrator, and more.
 ms.assetid: 1D44723B-1162-4DF6-99A2-8A3F24443442
 ms.reviewer: dpandre
 manager: frankbu

@@ -1,6 +1,6 @@
 ---
 title: Connect other devices and display with Surface Hub
-description: You can connect other device to your Surface Hub to display content. 
+description: Learn how to connect devices & displays to Surface Hub. Use Guest Mode, Replacement PC Mode, Video Out, or Bluetooth for flexibility. 
 ms.assetid: 8BB80FA3-D364-4A90-B72B-65F0F0FC1F0D
 ms.reviewer: dpandre
 manager: frankbu

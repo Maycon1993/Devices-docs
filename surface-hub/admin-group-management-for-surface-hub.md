@@ -1,6 +1,6 @@
 ---
 title: Admin group management 
-description: Every Microsoft Surface Hub can be configured individually by opening the Settings app on the device.
+description: Manage admin accounts on Surface Hub with local, domain, or Microsoft Entra join options. Enhance security with tailored admin controls.
 ms.assetid: FA67209E-B355-4333-B903-482C4A3BDCCE
 ms.reviewer: 
 manager: frankbu

@@ -1,6 +1,6 @@
 ---
 title: Collect Surface Hub log files
-description: This page shows how admins can collect log files for use when troubleshooting Surface Hub. 
+description: Learn how to collect Surface Hub log files locally via USB or remotely through Teams Admin Center for troubleshooting and analysis.
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
