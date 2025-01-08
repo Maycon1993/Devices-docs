@@ -70,7 +70,7 @@ Surface Reeves Docking Station enhances IT efficiency with robust management and
 - **Firmware updates**: Keep your dock up to date seamlessly via automatic updates through Windows Update or with downloadable driver and firmware packs.
 - **MAC address passthrough**: Maintain consistent network identity across different docks for easy management in shared workspaces.
 - **Wake-on-LAN from Modern Standby**: IT administrators can remotely wake devices connected to Surface Reeves and perform management tasks automatically.
-- **Windows Management Instrumentation (WMI)**: Enables remote monitoring and management of firmware, policy settings, and related data for Surface Reeves Docking Stations. For details, see [Manage Surface Dock with WMI](https://learn.microsoft.com/surface/manage-surface-dock-wmi).
+- **Windows Management Instrumentation (WMI)**: Enables remote monitoring and management of firmware, policy settings, and related data for Surface Reeves Docking Stations. For details, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
 - **Centralized support and warranty service**: IT administrators can access direct support through the Surface Management Portal or Surface Support Portal.
 
 ---
