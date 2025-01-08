@@ -17,7 +17,7 @@ This article explains how to physically install Microsoft Surface Hub 2S 85" in 
 
 Before you begin, please review the Microsoft Surface Hub 2S 85" Unboxing and Set Up video:
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWwwgL]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=e9d69c84-279f-4643-a89f-52d90de2f8ac]
 
 ## Follow all safety precautions
 
