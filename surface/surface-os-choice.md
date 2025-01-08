@@ -50,7 +50,7 @@ This section explains how to manually downgrade an individual Surface device to 
 1. **Prepare your Surface device**:
    - Ensure that all important data on the device is backed up. To learn more, see [Back up your Windows PC](https://support.microsoft.com/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338#ID0EBF=Windows_11) and view the following video:
 
-   > [!VIDEO https://www.microsoft.com/videoplayer/embed/RW1g7Ie?]
+   > [!VIDEO https://learn-video.azurefd.net/vod/player?id=2c8732ba-bd70-4f43-9234-ef74c45975f0?]
 
 2. **Download the Windows 10 BMR file for your device**:
    - Go to [Surface Recovery Image Download](https://support.microsoft.com/surface-recovery-image), sign in, and select your device from the dropdown list.
@@ -60,7 +60,7 @@ This section explains how to manually downgrade an individual Surface device to 
    - After the setup is complete, verify that all device drivers are correctly installed and updated for Windows 10. To learn more, see [Update drivers manually in Windows](https://support.microsoft.com/windows/update-drivers-manually-in-windows-ec62f46c-ff14-c91d-eead-d7126dc1f7b6).
    - Restore any previously backed-up data to the device. Follow the [Restore a backup](https://support.microsoft.com/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338#ID0EBF=Windows_10) instructions and view the following video.
 
-   > [!VIDEO https://www.microsoft.com/videoplayer/embed/RW1ga0E?]
+   > [!VIDEO https://learn-video.azurefd.net/vod/player?id=9b0af443-38ff-44e8-a443-59a7fca2bc9e?]
 
 6. **Additional recommendations**:
    - Check for any available updates in Windows Update to ensure your Windows 10 installation is up to date. Go to **Start** > **Settings** > **Update & Security** > **Windows Update**.
