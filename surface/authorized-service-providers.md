@@ -214,7 +214,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
 | [Digital China (神州数码)](https://www.digitalchina.com/)| ✔    | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services                          |
-| [Double Rise (倍升互联)](https://www.doublerise.com/Microsoft.html)| -- |                                       |
+| [Double Rise (倍升互联)](https://www.doublerise.com/index/list?catid=1)| -- |                                       |
 
 #### Japan
 
