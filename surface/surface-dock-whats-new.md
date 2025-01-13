@@ -133,7 +133,7 @@ Optimize port access, save desk space, and use enhanced security capabilities wi
 | SEMM port access control[<sup>8</sup>](#references)   | Yes                                                                                                                                                 | Yes                                                                                                 | No                                                             |
 | Servicing support                  | Windows Update, Surface App, or MSI                                                                                                    | Windows Update or MSI                                                                               | MSI                                                            |
 
-## Connect multiple monitors to devices without USB4/Thunderbolt 4
+## Connect multiple monitors to devices 
 
 You can daisy chain up to eight monitors by connecting a series of display devices using a wired connection from monitor to monitor in a series, rather than connecting each monitor directly to Surface Thunderbolt 4 Dock.
 
