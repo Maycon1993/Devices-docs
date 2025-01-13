@@ -1,6 +1,6 @@
 ---
 title: Surface Reeves technical overview
-description:  Surface Reeves - connect peripherals, enjoy ultra-fast USB4 speeds, dual 4K monitors, 65 W power delivery, and a compact, sustainable design.
+description:  Surface Reeves - connect peripherals, enjoy ultra-fast USB4 speeds, dual 4K monitors, 65-W power delivery, and a compact, sustainable design.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
@@ -16,13 +16,13 @@ appliesto:
 
 # Surface Reeves technical overview
 
-As an affordable and efficient USB4 docking solution, Surface Reeves lets you connect and power devices and accessories with 65-watt power delivery, ensuring peak performance throughout the workday.
+As a full stationary USB4 docking solution, Surface Reeves lets you affordably connect and power devices and accessories with 65-watt power delivery, ensuring peak performance throughout the workday.
 
-- **Ultra-fast connectivity**: Enjoy 40Gbps data transfer via USB4, four times faster than USB 3.2.
-- **Power delivery**: Includes a 100-W power supply delivering 65 W passthrough charging for laptops and accessory charging.
-- **Dual screen support**: Supports 2 x 4K monitors with HDMI or USB-C output, enhancing multitasking.
-- **Compact and lightweight**: Dimensions of 120mm x 60 mm x 15mm and a weight of 206g, with tactile indicators for port wayfinding.
-- **Sustainable design**: Made with up to 90% recycled plastics and a focus on carbon reduction, adhering to Microsoft’s sustainability goals.
+- **Ultra-fast connectivity**: Get 40Gbps data transfer via USB4, four times faster than USB 3.2.
+- **Power delivery**: Includes a 100-W power supply delivering 65-W passthrough charging for laptops and accessory charging.
+- **Dual screen support**: Supports up to two 4K monitors with HDMI or USB-C output, enhancing multitasking.
+- **Compact and lightweight**: At 206 grams (7.2 ounces), Reeves includes with tactile indicators for port wayfinding.
+- **Sustainable design**: Made with up to 90% recycled plastics.
 
 :::image type="content" source="images/surface-usb4-dock.png" alt-text="Screenshot of Reeves Dock.":::
 
@@ -30,7 +30,7 @@ As an affordable and efficient USB4 docking solution, Surface Reeves lets you co
 
 ## Manageability and security
 
-Surface Reeves enhances IT efficiency with robust management and security features:
+Surface Reeves comes with the folowing management and security features:
 
 - **Firmware updates through Windows Update**: Keep your dock up to date with automatic updates  or downloadable driver and firmware packs.
 - **MAC address passthrough**: Maintain consistent network identity across different docks for easy management in shared workspaces.
@@ -40,18 +40,18 @@ Surface Reeves enhances IT efficiency with robust management and security featur
 
 ## General system requirements
 
-Surface Reeves is optimized for USB-C/USB4/Thunderbolt™ 4-enabled devices, including the following Surface devices.
+Surface Reeves is optimized for USB-C/USB4/Thunderbolt 4-enabled devices, including the following Surface devices.
 
-- Surface Winters
-- Surface Bancroft
-- Surface Pro, 11th Edition
-- Surface Laptop, 7th Edition
+- Surface Laptop 7th Edition with Intel Core Ultra Processor (Series 2)
+- Surface Pro 11th Edition with Intel Core Ultra Processor (Series 2)
+- Surface Pro 11th Edition with Snapdragon X Elite or Plus Processor
+- Surface Laptop 7th Edition with Snapdragon X Elite or Plus Processor
 - Surface Pro 10
 - Surface Laptop 6
 - Surface Pro 9 (Intel/Wi-Fi)
 - Surface Pro 8
 
-Surface  Reeves is compatible with the following Surface for Business devices with USB-C ports:
+Surface Reeves is compatible with the following Surface for Business devices with USB-C ports:
 
 - Surface Pro 7 and later
 - Surface Pro X (all generations)
@@ -77,9 +77,9 @@ For a full list of compatible devices and details, refer to the [USB-C and Fast 
 Surface Reeves is equipped with versatile ports to support modern workflows:
 
 - **One front-facing USB-A** (USB 3.2 Gen 2, 7.5W)
-- **One front-facing USB-C** (USB4 Gen 3, compatible with Thunderbolt™ 4, video enabled, 7.5W)
-- **One rear-facing USB-C** (USB4 Gen 3, compatible with Thunderbolt™ 4, video enabled, 7.5W)
-- **One rear-facing HDMI™ 2.1**
+- **One front-facing USB-C** (USB4 Gen 3, compatible with Thunderbolt 4, video enabled, 7.5W)
+- **One rear-facing USB-C** (USB4 Gen 3, compatible with Thunderbolt 4, video enabled, 7.5W)
+- **One rear-facing HDMI 2.1**
 - **One rear-facing USB-C for PSU only**
 - **One Ethernet port** (1Gbps)
 - **Security lock support** (Kensington compatible)
@@ -99,10 +99,10 @@ Microsoft’s commitment to sustainability is reflected in Surface Reeves:
 
 ## Compare Surface docks
 
-| Feature                   | Surface Reeves           | Surface Thunderbolt™ 4 Dock | Surface USB-C Travel Hub | Surface Dock 2          |
+| Feature                   | Surface Reeves           | Surface Thunderbolt 4 Dock | Surface USB-C Travel Hub | Surface Dock 2          |
 |---------------------------|--------------------------|-----------------------------|--------------------------|-------------------------|
 | Price                     | $199                    | $299                        | $99                     | $259.99                |
-| Type                      | Full stationary dock          | Most fully-featured dock          | Portable hub            | Legacy dock    |
+| Type                      | Full stationary dock          | Most fully featured dock          | Portable hub            | Legacy dock    |
 | Manageability features    | PXE boot, WMI, Wake-on-LAN | PXE boot, SEMM, WMI         | None                    | SEMM, WMI, Centralized Updates |
 | Host connection           | USB-C/USB4           | USB-C/USB4              | USB-C                 | Surface Connect         |
 | USB-A ports               | One                      | Three                           | One                       | Two                       |
