@@ -1,12 +1,12 @@
 ---
 title: Surface hardware environmental test results
-description: This article lists results of Surface hardware rugged testing, showing how recent Surface devices meet the current standard, MIL-STD-810H.  Earlier devices were tested under the previous standard, MIL-STD-810G.
+description: Discover Surface device durability with MIL-STD-810H rugged testing, ensuring reliability under extreme conditions like shock, vibration, and temperature.
 manager: frankbu
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 04/09/2024
+ms.date: 01/10/2025
 ms.localizationpriority: medium
 appliesto:
 - Windows 10
@@ -15,40 +15,40 @@ appliesto:
 
 # Surface hardware environmental test results
 
-Surface devices are built to withstand rigorous conditions that help ensure optimal reliability and lower cost of ownership. Recent Surface devices meet United States Military standards for ruggedness and durability of equipment under various environmental conditions including temperature, humidity, shock, vibration, and other stressors.
+Commercial Surface devices are built to withstand rigorous conditions that help ensure optimal reliability and lower cost of ownership. Recent models meet U.S. Military standards (MIL-STD-810H) for ruggedness and durability under various environmental conditions, including temperature, humidity, shock, vibration, and more.
 
 :::image type="content" source="images/surface-family.png" alt-text="Surface device family" :::
 
-The MIL-STD-810 test standards, maintained by the US Department of Defense, help organizations evaluate how devices perform in the field. The testing program outlines multiple test methods across a range of environmental stress conditions. This is designed to test equipment limits in various conditions where it's expected to be used (environment) or transported (shocks). An independent third-party laboratory has tested the Surface devices listed below using recommended test methods.
+MIL-STD-810, maintained by the U.S. Department of Defense, provides test methods for evaluating device performance in real-world conditions. These tests assess device limits under expected operational and transport environments. Independent third-party labs conducted the tests using recommended methods for the Surface devices listed on this page.
 
 ## MIL-STD-810 test results
 
-Operational tests pass if the unit remained operational during the entire test, and non-operational tests pass if a functional verification was performed immediately after the test exposure. Tests were conducted in accordance with the MIL-STD-810 standards effective at the time of product release. Surface commercial devices, including Surface Pro 10, Surface Laptop 6, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Go 4, Surface Pro 9, Surface Pro 9 with 5G, Surface Laptop 5, and Surface Laptop Go 2 meet the current standard, MIL-STD-810H. Earlier devices were tested under the previous standard, MIL-STD-810G.
+Operational tests were deemed successful if the unit remained functional throughout the test, while non-operational tests passed if functionality was verified immediately after exposure. All tests were conducted in compliance with the MIL-STD-810 standards effective at the time of the product's release. Recent Surface commercial devices for business, including Surface Pro 11th Edition, Surface Pro 11th Edition 5G, Surface Pro 10 5G, Surface Pro 10, Surface Laptop 6, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Go 4, Surface Pro 9, Surface Pro 9 with 5G, Surface Laptop 5, and Surface Laptop Go 2, meet the current MIL-STD-810H standard. Earlier devices were tested under the previous MIL-STD-810G standard.
 
 ## Current standard: MIL-STD-810H
 
 :::image type="content" source="images/surfacepro10-laptop6.png" alt-text="Surface Pro 10 and Surface Laptop 6.":::
 
-| Test                       | Surface Pro 10 | Surface Laptop 6 | Surface Laptop Go 3 | Surface Laptop Studio 2 | Surface Go 4 | Surface Pro 9 | Surface Pro 9 with 5G | Surface Laptop Go 2 |
-|----------------------------|----------------|------------------|---------------------|-------------------------|--------------|---------------|-----------------------|---------------------|
-| Altitude Operating         | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Altitude Storage           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Bench Handling Shock       | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Blowing Dust               | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Blowing Sand               | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Crash Safety Shock         | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Explosive Atmosphere       | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Freeze/Thaw                | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Functional Shock           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| High Temperature Operating | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| High Temperature Storage   | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Humidity                   | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Low Temperature Operating  | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Low Temperature Storage    | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Temperature Shock          | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Transit Drop               | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Vibration (Category 24)    | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| Vibration (Category 4)     | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| Test                  | Surface Pro 11th Edition | Surface Pro 11th Edition 5G | Surface Pro 10 5G  | Surface Pro 10 | Surface Laptop 6 | Surface Laptop Go 3 | Surface Laptop Studio 2 | Surface Go 4 | Surface Pro 9 | Surface Pro 9 with 5G | Surface Laptop Go 2 |
+|----------------------------|---------------------------|-----------------------------|-------------------------------|----------------|------------------|---------------------|-------------------------|--------------|---------------|-----------------------|---------------------|
+| **Altitude Operating**     | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Altitude Storage**       | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Bench Handling Shock**   | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Blowing Dust**           | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Blowing Sand**           | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Crash Safety Shock**     | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Explosive Atmosphere**   | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Freeze/Thaw**            | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Functional Shock**       | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **High Temperature Operating** | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **High Temperature Storage**   | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Humidity**               | Pass                     | N/A                        | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Low Temperature Operating**  | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Low Temperature Storage**    | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Temperature Shock**      | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Transit Drop**           | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Vibration (Category 24)**| Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Vibration (Category 4)** | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 
 ## Earlier standard: MIL-STD-810G
 
