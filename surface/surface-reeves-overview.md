@@ -20,6 +20,8 @@ The Surface Reeves Docking Station is a reliable, cost-effective solution for co
 
 Users will find Surface Reeves beneficial when working in a full desktop setup. They can connect Surface Reeves to dual 4K monitors through USB-C or HDMI, enhancing productivity and multitasking capabilities.
 
+:::image type="content" source="images/surface-usb4-dock.png" alt-text="Screenshot of Reeves Dock.":::
+
 ## Key features
 
 - **Ultra-fast connectivity**: Enjoy 40Gbps data transfer via USB4, four times faster than USB 3.2.
@@ -119,7 +121,6 @@ Microsoft’s commitment to sustainability is reflected in Surface Reeves:
 
 
 ## Tech specs
-
 
 
 | Dimensions                         | 4.72" x 2.36" x 0.59" (120mm x 60mm x 15mm)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
