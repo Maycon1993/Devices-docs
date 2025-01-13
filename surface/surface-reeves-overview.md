@@ -1,6 +1,6 @@
 ---
 title: Surface Reeves technical overview
-description:  Surface Reeves - connect peripherals, enjoy ultra-fast USB4 speeds, dual 4K monitors, 65-W power delivery, and a compact, sustainable design.
+description:  Surface Reeves - connect peripherals, get ultra-fast USB4 speeds, dual 4K monitors, 65-W power delivery in a compact, sustainable design.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
@@ -113,7 +113,26 @@ Microsoft’s commitment to sustainability is reflected in Surface Reeves:
 | Monitor support           | Dual 4K @ 60Hz          | Dual 4K @ 60Hz              | Single monitor          | Dual 4K @ 60Hz         |
 | Designed for              | USB-C/USB4 devices      | Performance USB-C devices   | Universal USB-C devices | Surface devices w/ Connect |
 
-## Tech specs
+## Connect multiple monitors to devices 
+
+You can daisy chain up to eight monitors by connecting a series of display devices using a wired connection from monitor to monitor in a series, rather than connecting each monitor directly to Surface Reeves.
+
+To daisy chain monitors, you need two or more monitors that support at least **DisplayPort 1.2** and **Multi-Stream Transport (MST).** Displays that function as a middle link in the chain must include **DisplayPort** output ports and input ports. You also need a video or graphics card (GPU) on your PC that supports **DisplayPort 1.2** and **MST.**
+
+> [!NOTE]
+> Resolution and refresh rate is reduced when daisy chaining two or more monitors.
+
+**To connect your PC to multiple monitors using DisplayPort MST:**
+
+1. Connect your PC to the **DisplayPort-In** connection on the first monitor.
+2. Connect the **DisplayPort-Out** connection on the first monitor to the **DisplayPort-In** connection on the second monitor. To daisy chain more than two monitors, follow a similar sequence: The first monitor connects to the second, the second monitor connects to the third, and so on.
+3. Use the On-Screen Display (OSD) menu, to enable **DisplayPort 1.2** on your monitor. To learn more, refer to the user manual of your monitor.
+
+## Place an order
+
+- [Surface Reeves](https://www.microsoft.com/en-us/store/b/business-accessories?icid=CNav_BusinessStore_Surface)
+
+## Appendix: Surface Reeves Tech specs
 
 | Dimensions                         | 4.72" x 2.36" x 0.59" (120mm x 60mm x 15mm)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
