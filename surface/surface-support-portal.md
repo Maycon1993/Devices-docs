@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 11/21/2024 
+ms.date: 01/10/2025
 ms.reviewer: cchauvet  
 manager: frankbu  
 appliesto:  
@@ -30,13 +30,21 @@ To learn more, see [Surface Support Portal delivers significant time savings for
 
 :::image type="content" source="images/surface-service-repair/m365-admincenter-repair-request.png" alt-text="Screenshot of Surface Support Portal.":::
 
+## Video demo
+
+This video provides an overview of the Surface Support Portal, showcasing its features for efficient device support and management:<br><br>
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=9b26120e-bdd1-401f-89c6-f5481a48a6de]
+
 ## Access Surface Support Portal
 
 If you already have access to the portal, skip to the [Prerequisites section](#prerequisites).
 
 ### How to access Surface Support Portal
 
-The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center.
+The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center. To get started, check out the following video:<br><br>
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0c600e9b-4b88-494a-abbd-c18f3ddbbea4]
 
 1. **Check if your organization has an existing tenant**  
    - Go to the [tenant validation page](https://aka.ms/wheres-my-tenant).  
@@ -66,7 +74,7 @@ The onboarding process includes steps to validate your organization’s Microsof
 
     > [!NOTE]  
     > The payment information links with your account, but you are not charged until you purchase a product from Microsoft. The Surface Support Portal on Microsoft 365 Admin Center does not require any subscription to access Surface support and services.
- 
+
 7. **Access the Microsoft 365 Admin Center**  
    - After completing the payment information, you will be redirected to the Admin Center homepage. Select **Finish**.  
    - Request access to the Surface Support Portal.  
