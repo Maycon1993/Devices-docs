@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 01/10/2025
+ms.date: 01/14/2025
 ms.reviewer: cchauvet  
 manager: frankbu  
 appliesto:  
@@ -34,7 +34,7 @@ To learn more, see [Surface Support Portal delivers significant time savings for
 
 This video provides an overview of the Surface Support Portal, showcasing its features for efficient device support and management:<br><br>
 
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=9b26120e-bdd1-401f-89c6-f5481a48a6de]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=1d9c2c00-4850-4444-af22-d73b7b0eee9d]
 
 ## Access Surface Support Portal
 
@@ -44,7 +44,7 @@ If you already have access to the portal, skip to the [Prerequisites section](#p
 
 The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center. To get started, check out the following video:<br><br>
 
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0c600e9b-4b88-494a-abbd-c18f3ddbbea4]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=6398fd7a-b673-4b0a-82b0-ecc1af77d00c]
 
 1. **Check if your organization has an existing tenant**  
    - Go to the [tenant validation page](https://aka.ms/wheres-my-tenant).  
@@ -138,7 +138,7 @@ Register your Surface devices through the Surface Support Portal to associate th
 
 ### Manage Surface device warranty and coverage
 
-Easily manage your Surface device warranties through the Surface Support Portal. You can view the coverage status of each device, track warranty timelines, and monitor the status of your service orders.
+Easily manage your Surface device warranties via the Surface Support Portal. You can view the coverage status of each device, track warranty timelines, and monitor the status of your service orders.
 
 - Select **Coverage** to view devices covered under warranty, the time remaining for each device under warranty, and related details.
 - Select **Warranty & service** to view the status of service orders.
