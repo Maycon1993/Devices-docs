@@ -204,7 +204,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [Comp Now](https://www.compnow.com.au/) | ✔         |                                       |
 | [Harvey Norman](https://www.harveynorman.com.au/techteam) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)         |
-| [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
+| [JB Hi-Fi](https://www.jbhifi.business/) | ✔         |        |
 | [KEH Partnership](https://technology.theschoollocker.com.au/) | -- |                                       |
 | [Stott &amp; Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
 | [Winthrop](https://www.winaust.com.au/) | ✔         |                                       |

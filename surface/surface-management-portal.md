@@ -95,8 +95,7 @@ To create and submit new requests for one or more devices:
 3. **Describe the issue**: Provide detailed information about the issue.
 4. **Enter contact details**: Provide your contact information and preferred communication method.
 5. **Review and submit**: Verify all information, then select **Submit**.
-6. **Track support requests**: Go to the Surface Management Portal home page and select **View all support requests**. 
-
+6. **Track support requests**: Go to the Surface Management Portal home page and select **View all support requests**.
 
 ### Create and track service requests for device replacement or repair
 
