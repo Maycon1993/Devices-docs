@@ -6,7 +6,7 @@ ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 01/10/2025
+ms.date: 01/15/2025
 ms.localizationpriority: medium
 appliesto:
 - Windows 10
@@ -42,7 +42,7 @@ Operational tests were deemed successful if the unit remained functional through
 | **Functional Shock**       | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 | **High Temperature Operating** | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 | **High Temperature Storage**   | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
-| **Humidity**               | Pass                     | N/A                        | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
+| **Humidity**               | Pass                     | Pass                        | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 | **Low Temperature Operating**  | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 | **Low Temperature Storage**    | Pass                 | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 | **Temperature Shock**      | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
