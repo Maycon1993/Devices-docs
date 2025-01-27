@@ -43,7 +43,7 @@ Surface USB4 Dock comes with the following management and security features:
   - Surface USB4 Dock doesn't currently support Wake-on-LAN with MAC address passthrough. 
   - Alternative pathways for Wake-on-LAN include using connected standby, instead of Wake-on-LAN from S4/S5, or targeting the dock for MAC address passthrough instead of the device.  
   - WOL isn't available for in-market devices but is expected to be available in future firmware updates (targeted for April 2025).
-- **PXE Boot:** IT admins can deploy operation systems, troubleshoot, and manage large numbers of devices in a network. 
+- **PXE Boot:** IT admins can deploy operating systems, troubleshoot, and manage large numbers of devices in a network. 
   - PXE boot is currently available with IPv4 for all supported devices, including Surface Pro 11th Edition and Surface Laptop 7th Edition.
   - PXE Boot with IPv6 is supported for all in-market devices. Support for IPv6 on new devices, including Surface Pro 11th Edition and Surface Laptop 7th Edition, is planned for a Windows Update targeted for April 2025
 - **Windows Management Instrumentation (WMI)**: IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface USB4 Dock and other Surface docks. For details, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
@@ -103,10 +103,10 @@ Surface USB4 Dock is equipped with versatile ports to support modern workflows:
 
 Microsoft’s commitment to sustainability is reflected in Surface USB4 Dock:
 
-- **Recycled materials**: Contains a minimum of 55.2% recycled content. Surface Reeves contains more recycled materials than any previous dock, including recycled tin, recycled gold, and recycled plastic.
+- **Recycled materials**: Contains a minimum of 55.2% recycled content. Surface USB4 Dock contains more recycled materials than any previous dock, including recycled tin, recycled gold, and recycled plastic.
 - **Thoughtful packaging:** 77% recycled content in wood-based fiber commercial packaging. 
-- **Carbon-free electricity**: To meet Microsoft’s goal of 100% carbon-free electricity by 20230, 40% of our key devices suppliers transitioned to CFE in 2024
-- **Electric vehicle delivery**: In 2024, we expanded truckload electric vehicle capabilities to cover both of our Unites States distribution centers, enabling full truckloads within a 100-mile range of the distribution centers to be delivered via EV.
+- **Carbon-free electricity**: To meet Microsoft’s goal of 100% carbon-free electricity by 2030, 40% of our key devices suppliers transitioned to CFE in 2024
+- **Electric vehicle delivery**: In 2024, we expanded truckload electric vehicle capabilities to cover both of our United States distribution centers, enabling full truckloads within a 100-mile range of the distribution centers to be delivered via EV.
 - **Sustainability goals**: Supporting Microsoft’s pledge to be carbon negative, water positive, and achieve zero waste by 2030. Learn more about [Microsoft Surface Sustainability](https://www.microsoft.com/corporate-responsibility/sustainability/).
 
 ---
