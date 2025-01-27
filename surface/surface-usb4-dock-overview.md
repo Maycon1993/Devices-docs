@@ -49,6 +49,8 @@ Surface USB4 Dock comes with the following management and security features:
 - **Windows Management Instrumentation (WMI)**: IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface USB4 Dock and other Surface docks. For details, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
 - **Centralized support and warranty service**: IT admins can access direct support from the [Surface Management Portal](surface-management-portal.md) or [Surface Support Portal](surface-support-portal.md).
 
+---
+
 ## Compatibility
 
 Surface USB4 Dock is optimized for numerous USB-C/USB4/Thunderbolt™ 4-enabled devices, including the following Surface devices.
@@ -124,8 +126,8 @@ Microsoft’s commitment to sustainability is reflected in Surface USB4 Dock:
 | Designed for              | USB-C/USB4 devices      | Performance USB-C devices   | Universal USB-C devices | Surface devices w/ Connect |
 | Manageability Features      |
 | Wake-on-LAN from Modern Standby | Yes                  | Yes                        | No                       | Yes                  |
-| Wake-on-LAN from S4/S5 sleep modes | ??                | Yes                        | No                       | No                   |
-| Network PXE boot              | Yes                  | Yes                        | Yes                      | Yes                  |
+| Wake-on-LAN from S4/S5 sleep modes | No                | Yes                        | No                       | No                   |
+| Network PXE boot[<sup>1</sup>](#references)              | Yes                  | Yes                        | Yes                      | Yes                  |
 | SEMM host access control      | No                   | Yes                        | No                       | No                   |
 | SEMM port access control      | No                   | Yes                        | No                       | No                   |
 | Servicing support             | Windows Update, Surface App, or MSI | Windows Update, Surface App, or MSI | Windows Update or MSI | MSI                  |
@@ -168,7 +170,7 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 
 1. Network PXE boot requires the latest UEFI update on host devices., pending availability anticipated for MSD. To learn more, see How to use Surface UEFI - Microsoft Support.
 1. Surface USB4 Dock is compatible with Surface devices that support USB-C charging (devices later than Surface Pro 7 and Surface Laptop 3). To learn more, see [USB-C and Fast Charging for Surface - Microsoft Support](https://support.microsoft.com/surface/usb-c-and-fast-charging-for-surface-d320ab19-e4ed-c36d-7458-7d7aec69d34a)
-1. Surface USB4 Dock is compatible with USB-C devices. However, when connected, it operates at the speeds and capabilities of the USB-C port. USB-C/USB 3.2 connection supports 1 external display up to 4K at 60Hz (when supported by device and display). Or you can daisy chain more monitors, as described in the section on this page: Connect multiple monitors to devices without USB4/Thunderbolt 4
+1. Surface USB4 Dock is compatible with USB-C devices. However, when connected, it operates at the speeds and capabilities of the USB-C port. USB-C/USB 3.2 connection supports 1 external display up to 4K at 60Hz (when supported by device and display). Or you can daisy chain more monitors, as described on this page.
 1. MAC address passthrough are available on select host devices and supported operating systems.
 1. TBD
 1. TBD
