@@ -20,10 +20,10 @@ Surface USB4 Dock is a full stationary docking solution, with a compact, sleek d
 
 - **Ultra-fast connectivity**: Get 40Gbps data transfer via USB4®, four times faster than USB 3.2.
 - **Power delivery**: Includes a 100W power supply delivering 65W passthrough charging for laptops and accessory charging.
-- **Dual screen support**: Supports up to two 4K monitors with HDMI or USB-C output, enhancing multitasking.
+- **Dual screen support**: Supports up to two 4K monitors with HDMI or USB-C® output, enhancing multitasking. Plus, single 8K monitor support at 30 HZ via USB-C.
 - **Reliable Ethernet connectivity**: Supports Gigabit Ethernet, ensuring fast and reliable network connections.
-- **Core commercial manageability features**: Equipped with essential capabilities such as PXE boot, WMI, and Wake-on-LAN for streamlined IT operations.
-- **Universal compatibility**: Designed to work with Surface devices[<sup>1</sup>](#references) and compatible with numerous USB-C®, USB4®, and Thunderbolt™ 4 devices.
+- **Core commercial manageability features**: Equipped with essential capabilities such as PXE boot,[<sup>1</sup>](#references) WMI, and Mac Address Passthrough for streamlined IT operations.
+- **Universal compatibility**: Designed to work with Surface devices[<sup>2</sup>](#references) and compatible with numerous USB-C®, USB4®, and Thunderbolt™ 4 devices.
 - **Compact and lightweight**: At 206 grams (7.2 ounces), USB4 Dock includes tactile indicators for port wayfinding.
 - **Designed with sustainability in mind:** - Made with more recycled materials than any previous Dock, including a minimum of 43.1% recycled content in the enclosure.
 
@@ -160,9 +160,10 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 
 ### References
 
-1. Surface USB4 Dock is compatible with Surface devices that support USB-C® charging (devices later than Surface Pro 7 and Surface Laptop 3)
-2. Surface USB4 Dock is compatible with USB-C devices. However, when connected, it operates at the speeds and capabilities of the USB-C port. USB-C/USB 3.2 connection supports 1 external display up to 4K at 60Hz (when supported by device and display). Or you can daisy chain more monitors, as described in the section on this page: Connect multiple monitors to devices without USB4/Thunderbolt 4
-3. MAC address passthrough are available on select host devices and supported operating systems.
-4. TBD
-5. TBD
-6. Microsoft’s Limited Warranty is in addition to your consumer law rights.
+1. Network PXE boot requires the latest UEFI update on host devices., pending availability anticipated for MSD. To learn more, see How to use Surface UEFI - Microsoft Support.
+1. Surface USB4 Dock is compatible with Surface devices that support USB-C charging (devices later than Surface Pro 7 and Surface Laptop 3). To learn more, see [USB-C and Fast Charging for Surface - Microsoft Support](https://support.microsoft.com/surface/usb-c-and-fast-charging-for-surface-d320ab19-e4ed-c36d-7458-7d7aec69d34a)
+1. Surface USB4 Dock is compatible with USB-C devices. However, when connected, it operates at the speeds and capabilities of the USB-C port. USB-C/USB 3.2 connection supports 1 external display up to 4K at 60Hz (when supported by device and display). Or you can daisy chain more monitors, as described in the section on this page: Connect multiple monitors to devices without USB4/Thunderbolt 4
+1. MAC address passthrough are available on select host devices and supported operating systems.
+1. TBD
+1. TBD
+1. Microsoft’s Limited Warranty is in addition to your consumer law rights.
