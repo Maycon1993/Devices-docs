@@ -28,7 +28,7 @@
          - name: Surface USB4 Dock
            href: surface-usb4-dock-overview.md   
          - name: What's new in Surface Thunderbolt 4 Dock
-           href: surface-dock-whats-new.md  
+           href: surface-thunderbolt4-dock.md  
          - name: Surface Dock 2 overview
            href: surface-dock2-overview.md
          - name: Surface Pro Flex Keyboard overview
@@ -184,7 +184,7 @@
       - name: Surface Dock
         items:
          - name: What's new in Surface Thunderbolt 4 Dock
-           href: surface-dock-whats-new.md
+           href: surface-thunderbolt4-dock.md
          - name: Manage USB ports on Surface devices
            href: manage-usb-ports-on-surface.md    
          - name: Manage Surface Docks with WMI

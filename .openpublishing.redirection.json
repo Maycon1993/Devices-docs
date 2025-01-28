@@ -424,6 +424,11 @@
             "source_path":  "surface/deploy-surface-app-with-windows-store-for-business.md",
             "redirect_url": "/surface/deploy-surface-app",
             "redirect_document_id":  false
-        }                                                                           						
+        },
+        {
+            "source_path":  "surface/surface-dock-whats-new.md",
+            "redirect_url": "/surface/surface-thunderbolt4-dock",
+            "redirect_document_id":  false
+        }                                                                            						
     ]
 }

@@ -444,7 +444,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 
 | Dock                                                        | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | HDMI | DisplayPort | Surface Connect |
 | ----------------------------------------------------------- |----------------------| ----------- | ----- | ---- | ----------- | --------------- |
-| Surface Thunderbolt 4 Dock (supports [one external monitor](surface-dock-whats-new.md) for Surface Go 4) |                      | ✓           |       |      |             |                 |
+| Surface Thunderbolt 4 Dock (supports [one external monitor](surface-thunderbolt4-dock.md) for Surface Go 4) |                      | ✓           |       |      |             |                 |
 | Surface Dock 2                                              |                      |             |       |      |             | ✓               |
 | Surface Dock 1                                              |                      |             |       |      |             | ✓               |
 | Kensington SD4845P Thunderbolt 4 Dock                       | ✓                    | ✓           |       |      |             |                 |
@@ -470,7 +470,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 
 | Dock                                                        | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | HDMI | DisplayPort | Surface Connect |
 | ----------------------------------------------------------- |----------------------| ----------- | ----- | ---- | ----------- | --------------- |
-| Surface Thunderbolt 4 Dock (supports [one external monitor](surface-dock-whats-new.md) for Surface Laptop Go 3) |                      | ✓           |       |      |             |                 |
+| Surface Thunderbolt 4 Dock (supports [one external monitor](surface-thunderbolt4-dock.md) for Surface Laptop Go 3) |                      | ✓           |       |      |             |                 |
 | Surface Dock 2                                              |                      |             |       |      |             | ✓               |
 | Surface Dock 1                                              |                      |             |       |      |             | ✓               |
 | Kensington SD4845P Thunderbolt 4 Dock                       | ✓                    | ✓           |       |      |             |                 |
@@ -577,14 +577,14 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 
 ## Surface Thunderbolt 4 Dock
 
-Surface Thunderbolt 4 Dock is tested extensively with popular in-market peripherals to bring you the best docking experience. For host device compatibility with Surface Thunderbolt 4 Dock, refer to [What's new in Surface Thunderbolt 4 Dock](surface-dock-whats-new.md).
+Surface Thunderbolt 4 Dock is tested extensively with popular in-market peripherals to bring you the best docking experience. For host device compatibility with Surface Thunderbolt 4 Dock, refer to [What's new in Surface Thunderbolt 4 Dock](surface-thunderbolt4-dock.md).
 
 ### Tested monitors for Surface Thunderbolt 4 Dock
 
 > [!NOTE]
 > We designed Surface Thunderbolt 4 Dock as the optimal dock for Surface devices with USB4/Thunderbolt 4 support. The Thunderbolt 4 connection on a host device supports two 4K external displays at up to 60 Hz (when supported by display).
 
-For devices without USB4/Thunderbolt 4 support, the USB-C connection supports one 4-K external display at up to 60 Hz (when supported by display). For more information on which Surface devices have USB4/Thunderbolt 4 support, see [What's new in Surface Thunderbolt 4 Dock](surface-dock-whats-new.md).
+For devices without USB4/Thunderbolt 4 support, the USB-C connection supports one 4-K external display at up to 60 Hz (when supported by display). For more information on which Surface devices have USB4/Thunderbolt 4 support, see [What's new in Surface Thunderbolt 4 Dock](surface-thunderbolt4-dock.md).
 
 | Monitor                                 | Thunderbolt | USB-C | DisplayPort | HDMI |
 |-----------------------------------------|-------------|-------|--------------|------|
