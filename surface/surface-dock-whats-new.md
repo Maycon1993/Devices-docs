@@ -1,12 +1,12 @@
 ---
 title: What’s new in Surface Thunderbolt 4 Dock
-description: Explore the new features of Surface Thunderbolt 4 Dock, including high-speed data transfer, enterprise management, security enhancements, and versatile connectivity options for modern devices.
+description: Discover Surface Thunderbolt 4 Dock - ultra-fast data transfer, dual 4K monitor support, enterprise security, and sustainable design innovations.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 08/23/2024
+ms.date: 01/30/2025
 ms.reviewer: dashap
 manager: frankbu
 appliesto:
@@ -15,11 +15,11 @@ appliesto:
 ---
 # What’s new in Surface Thunderbolt 4 Dock
 
-As the latest generation Surface dock, [Surface Thunderbolt™ 4 Dock](https://www.microsoft.com/d/surface-thunderbolt-4-dock-for-business/8svnb0c8j1qw) delivers ultra-high speed data transfer, built-in enterprise management, and security[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
+[Surface Thunderbolt™ 4 Dock](https://www.microsoft.com/d/surface-thunderbolt-4-dock-for-business/8svnb0c8j1qw) delivers ultra-high speed data transfer, built-in enterprise management, and security[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
 
 - **High-speed USB4®/Thunderbolt 4 on USB-C® ports.** Plug in one cable to power your device, connect two 4K monitors at up to 60 Hz[<sup>2</sup>](#references), and transfer data and files at up to 40 Gbps.
 - **The charging power you need for your devices and accessories.** Connect and power your laptop with up to 96 watts of power passthrough and extra charging power for your phone and accessories.[<sup>3</sup>](#references)
-- **More inclusive design with recycled materials.** Quickly access ports with raised tactile indicators for greater accessibility. The lightest Surface dock and power supply enclosures (excluding the AC cable) are attributed to 20% ocean-bound plastic.[<sup>4</sup>](#references) The packaging is ~99% recyclable in OECD regions and free of single-use plastics. The lightest Surface dock comes with 20% ocean-bound plastic and 99% recyclable packaging free of single-use plastics.[<sup>5</sup>](#references)
+- **Design innovations.** Incorporates 20% ocean-bound plastic[<sup>4</sup>](#references) and ~99% recyclable packaging free of single-use plastics.[<sup>5</sup>](#references) Raised tactile indicators on ports enhance accessibility. 
 
 :::image type="content" source="images/surface-dock/surface-dock-front.png" alt-text="Screenshot showing a front view of the dock.":::
 
@@ -27,24 +27,24 @@ As the latest generation Surface dock, [Surface Thunderbolt™ 4 Dock](https://w
 
 ## Simple management and security from anywhere
 
-Surface Thunderbolt 4 Dock helps improve IT efficiency and reduce overhead and support costs through optimization for Microsoft software.
+Surface Thunderbolt 4 Dock helps improve IT efficiency and reduce overhead and support costs through optimization for Microsoft software. It's Microsoft's most fully featured dock for IT administration, supporting Surface Enterprise Management Mode (SEMM) for Dock and Wake on LAN in S4/S5 sleep modes.
 
-- **Surface Enterprise Management Mode (SEMM) for Dock**. Designed to quickly lock down the ports of your dock in mission-critical environments and restrict functionality to specific devices, enabling organizations to simplify and secure IT management. For more information, see [Secure Surface Dock ports with Surface Enterprise Management Mode](secure-surface-dock-ports-semm.md).
+- **SEMM for Dock**. Designed to quickly lock down the ports of your dock in mission-critical environments and restrict functionality to specific devices, enabling organizations to simplify and secure IT management. For more information, see [Secure Surface Dock ports with Surface Enterprise Management Mode](secure-surface-dock-ports-semm.md).
 - **Firmware updates through Windows Update**. Seamlessly keep your dock up to date with automatic updates or downloadable update driver and firmware packs.
-- **MAC Address Passthrough.** [<sup>6</sup>](#references)Maintain device network identity from one dock to another for ease of management in shared workspaces or dock environments.
+- **MAC address passthrough.** [<sup>6</sup>](#references)Maintain device network identity from one dock to another for ease of management in shared workspaces or dock environments.
 - **Wake-on-LAN from Modern Standby.** IT admins can remotely wake up devices connected to Surface Thunderbolt 4 Dock and automatically perform management tasks.
 - **Windows Management Instrumentation (WMI) support**. IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface Thunderbolt 4 Dock devices. For more information, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
 - **Centralized support & warranty service**. IT admins can get direct support via the [Surface Management Portal](surface-management-portal.md) or [Surface Support Portal](https://admin.microsoft.com/adminportal/home).
 
-## General system requirements
+## Compatibility
 
 Surface Thunderbolt 4 Dock is optimized for devices with a USB4/Thunderbolt 4 port, including the following Surface for Business devices:
 
-- Surface Laptop (7th Edition)
+- Surface Laptop (7th Edition) available with Intel or Qualcomm processors
 - Surface Laptop 6
 - Surface Laptop 5 
 - Surface Laptop Studio (all generations)
-- Surface Pro (11th Edition)
+- Surface Pro (11th Edition) available with Intel or Qualcomm processors
 - Surface Pro 10
 - Surface Pro 10 with 5G
 - Surface Pro 9 (Intel/Wi-Fi)
@@ -95,11 +95,11 @@ Surface Thunderbolt 4 Dock is compatible with the following Surface for Business
 
 ### External Power supply
 
-- 165-W power supply and up to 96-W passthrough to connected PC. Supports 100V-240V.
+- 165-W power supply and up to 96-W passthrough to connected PC and support for 100V-240V.
 
 ## Cable Matters Desk Mount for Microsoft Surface Thunderbolt 4 Dock
 
-Optimize port access, save desk space, and use enhanced security capabilities with the [Cable Matters Mount,](https://www.cablematters.com/pc-1544-189-designed-for-surface-cable-matters-desk-mount-for-microsoft-surface-thunderbolt-4-dock.aspx) purpose-built for Surface Thunderbolt 4 Dock and Designed for Surface certified.
+Optimize port access, save desk space, and enhance security with the [Cable Matters Mount](https://www.cablematters.com/pc-1544-189-designed-for-surface-cable-matters-desk-mount-for-microsoft-surface-thunderbolt-4-dock.aspx) purpose-built for Surface Thunderbolt 4 Dock and Designed for Surface-certified accessory.
 
 - Facilitates single-handed interaction with Microsoft Surface Thunderbolt 4 Dock
 - Improves port access through stabilization
@@ -144,7 +144,7 @@ You can daisy chain up to eight monitors by connecting a series of display devic
 To daisy chain monitors, you need two or more monitors that support at least **DisplayPort 1.2** and **Multi-Stream Transport (MST).** Displays that function as a middle link in the chain must include **DisplayPort** output ports and input ports. You also need a video or graphics card (GPU) on your PC that supports **DisplayPort 1.2** and **MST.**
 
 > [!NOTE]
-> Resolution and refresh rate is reduced when daisy chaining two or more monitors.
+> Resolution and refresh rate are reduced when daisy chaining two or more monitors.
 
 **To connect your PC to multiple monitors using DisplayPort MST:**
 
@@ -164,7 +164,7 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 | Compatibility     | Designed for devices with USB-C with USB 4®/Thunderbolt 4 port:<br>Surface Laptop 5 <br>Surface Laptop 6<br>Surface Laptop (7th Edition)<br>Surface Laptop Studio <br>Surface Laptop Studio 2 <br>Surface Pro 8 <br>Surface Pro 9 (Intel/Wi-Fi)<br> Surface Pro 10 <br>Surface Pro 10 with 5G<br>Surface Pro (11th Edition) <br> Thunderbolt 4 connection supports two 4-K external displays at up to 60 Hz (when supported by device and display)<br><br>Compatible with devices with USB-C ports: <br>Surface Pro 9 with 5G<br>Surface Pro 7+<br>Surface Pro 7<br>Surface Pro X<br>Surface Laptop 4<br>Surface Laptop 3 *<br>Surface Laptop Go 2<br>Surface Laptop Go<br>Surface Go 3<br>Surface Go 2<br>Surface Book 3<br>Surface Studio 2+ (no charging)<br> <br>USB-C connection supports one 4-K external display at up to 60 Hz (when supported by device and display)[<sup>9</sup>](#references)|
 | Dimensions        | 5.91" x 2.95"x 0.84" (150 mm x 75 mm x 21.3 mm)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Weight            | 0.9 lb. (410 g)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Connections       | 165-W power supply (up to 96-W passthrough)<br>USB4/Thunderbolt 4 Cable with LED charging indicator (80 cm)<br>1 front-facing USB-A (USB 3.1 Gen 2, 7.5 W)<br>1 front-facing USB-C (USB4/Thunderbolt 4, video display enabled, 15 W)<br>2 rear-facing USB-A (USB 3.1 Gen 2, 7.5 W)<br>2 rear-facing USB-C (USB4/Thunderbolt 4, video display enabled, 15 W)<br>1 Ethernet (2.5 Gbit/s)<br>3.5-mm audio jack<br>Security lock support (Kensington compatible)<br>Screw nut for desk mounts<br>Compatible with Cable Matters Desk Mount for Microsoft Surface Thunderbolt 4 Dock[<sup>10</sup>](#references)                                                                                                                                           |
+| Connections       | 165-W power supply (up to 96-W passthrough)<br>USB4/Thunderbolt 4 Cable with LED charging indicator (80 cm)<br>1 front-facing USB-A (USB 3.1 Gen 2, 7.5 W)<br>1 front-facing USB-C (USB4/Thunderbolt 4, video display enabled, 15 W)<br>2 rear-facing USB-A (USB 3.1 Gen 2, 7.5 W)<br>2 rear-facing USB-C (USB4/Thunderbolt 4, video display enabled, 15 W)<br>1 Ethernet (2.5 Gbit/s)<br>3.5-mm audio jack<br>Security lock support (Kensington compatible)<br>Mounting screw for desk mounts<br>Compatible with Cable Matters Desk Mount for Microsoft Surface Thunderbolt 4 Dock[<sup>10</sup>](#references)                                                                                                                                           |
 | What’s in the box | Microsoft Surface Thunderbolt 4 Dock<br>165 W Power Supply                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Manageability     | For supported host devices:<br>Surface Enterprise Management Mode for Dock[<sup>11</sup>](#references) <br>Media Access Control (MAC) address emulation<br>Firmware update through Windows Update and Surface app<br>Wake-on-LAN from Modern Standby                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Accessibility     | Tactile indicators for port identification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -204,7 +204,7 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 4. Ocean-bound plastic is plastic waste recovered from oceans and waterways, cleaned, and processed into recycled plastic resin pellets. These recycled pellets are blended in with virgin plastic during the manufacturing process.
 5. In OECD countries/regions, Microsoft operates recycling programs either independently or through third parties covering Microsoft Devices. In addition, check local recycling programs for availability.
 6. Requires device with USB4/Thunderbolt 4 port.
-7. Surface Thunderbolt 4 Dock is supported on Surface Laptop 3 with Intel processor (System SKU: Surface_Laptop_3_1867:1868). For Surface Laptop 3 with AMD processor (System SKU: Surface_Laptop_3_1873), refer to [Known issues](#known-issues) on this page.
+7. Surface Thunderbolt 4 Dock is supported on Surface Laptop 3 with Intel processor (System SKU: Surface_Laptop_3_1867:1868). For Surface Laptop 3 with AMD processor (System SKU: Surface_Laptop_3_1873), refer to the [Known issues section](#known-issues) of this page.
 8. Software license required for some features. Sold separately.
 9. 4K @ 60 Hz via USB-C requires High Bit Rate 3 (HBR3) support on both display and host computer.
 10. Learn more at [Cable Matters Desk Mount for Microsoft Surface Thunderbolt 4 Dock](https://www.cablematters.com/pc-1544-189-designed-for-surface-cable-matters-desk-mount-for-microsoft-surface-thunderbolt-4-dock.aspx).
