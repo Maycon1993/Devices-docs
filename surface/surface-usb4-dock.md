@@ -42,8 +42,8 @@ Surface USB4 Dock comes with the following management and security features:
 - **Wake-on-LAN[<sup>4</sup>](#references) from Modern Standby**: IT admins can remotely wake devices connected to Surface USB4 Dock and automate management tasks.
   - Surface USB4 Dock doesn't support Wake-on-LAN with device targeted MAC address passthrough. 
   - Alternative pathways for Wake-on-LAN include using connected standby (Modern Standby), instead of Wake-on-LAN from S4/S5, or targeting the dock for MAC address passthrough instead of the device MAC address.  
-  - WOL isn't available for in-market devices but is expected to be available in future firmware updates (targeted for April 2025).
-- **PXE Boot:** IT admins can deploy operating systems, troubleshoot, and manage large numbers of devices in a network. 
+  - Wake-on-LAN alternatives are not available for in-market devices but are expected to be available in future firmware updates (targeted for April 2025).
+  **PXE Boot:** IT admins can deploy operating systems, troubleshoot, and manage large numbers of devices in a network. 
   - PXE boot is currently available with IPv4 for all supported devices, including Surface Pro 11th Edition and Surface Laptop 7th Edition.
   - PXE Boot with IPv6 is supported for all in-market devices. Support for IPv6 on new devices, including Surface Pro 11th Edition and Surface Laptop 7th Edition, is planned for a Windows Update targeted for April 2025
 - **Windows Management Instrumentation (WMI)**: IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface USB4 Dock and other Surface docks. For details, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
