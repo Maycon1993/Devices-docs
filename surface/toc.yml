@@ -25,8 +25,8 @@
         items:
          - name: Surface power supplies and charging requirements
            href: https://support.microsoft.com/surface/surface-power-supplies-and-charging-requirements-0d9d51d4-594b-464d-9086-c90f35b80c01  
-         - name: Surface USB4 Dock
-           href: surface-usb4-dock-overview.md   
+         - name: Surface USB4 Dock overview
+           href: surface-usb4-dock.md   
          - name: What's new in Surface Thunderbolt 4 Dock
            href: surface-thunderbolt4-dock.md  
          - name: Surface Dock 2 overview

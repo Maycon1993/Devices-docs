@@ -1,5 +1,5 @@
 ---
-title: What’s new in Surface Thunderbolt 4 Dock
+title: Surface Thunderbolt 4 Dock overview
 description: Discover Surface Thunderbolt 4 Dock - ultra-fast data transfer, dual 4K monitor support, enterprise security, and sustainable design innovations.
 ms.service: surface
 ms.localizationpriority: medium
@@ -13,7 +13,7 @@ appliesto:
 - Windows 10
 - Windows 11
 ---
-# What’s new in Surface Thunderbolt 4 Dock
+# Surface Thunderbolt 4 Dock overview
 
 [Surface Thunderbolt™ 4 Dock](https://www.microsoft.com/d/surface-thunderbolt-4-dock-for-business/8svnb0c8j1qw) delivers ultra-high speed data transfer, built-in enterprise management, and security[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
 

@@ -1,5 +1,5 @@
 ---
-title: Surface USB4 Dock technical overview
+title: Surface USB4 Dock overview
 description:  Surface USB4 Dock - connect peripherals, get ultra-fast USB4 speeds, dual 4K monitors, 65-W power delivery in a compact, sustainable design.
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-# Surface USB4 Dock technical overview
+# Surface USB4 Dock overview
 
 Surface USB4 Dock is a full stationary docking solution, with a compact, sleek design that keeps your desktop organized. The Surface USB4 Dock enables you to connect and power devices and accessories with 65-watt power delivery, ensuring peak performance throughout the workday.
 
