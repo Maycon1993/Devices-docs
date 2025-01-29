@@ -53,8 +53,8 @@ Surface USB4 Dock is optimized for numerous USB-C/USB4/Thunderbolt 4-enabled dev
 
 - Surface Laptop 7th Edition with Intel® Core™  Ultra processors (Series 2)
 - Surface Pro 11th Edition with Intel Core Ultra processors (Series 2)
-- Surface Laptop 7th Edition with Qualcomm Snapdragon processors
-- Surface Pro 11th Edition with Qualcomm® Snapdragon™ processors
+- Surface Laptop 7th Edition with Qualcomm® Snapdragon™ processors
+- Surface Pro 11th Edition with Qualcomm Snapdragon processors
 - Surface Pro 10
 - Surface Laptop 6
 - Surface Pro 9 (Intel/Wi-Fi)
