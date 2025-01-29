@@ -15,7 +15,7 @@ appliesto:
 ---
 # Surface Thunderbolt 4 Dock overview
 
-[Surface Thunderbolt™ 4 Dock](https://www.microsoft.com/d/surface-thunderbolt-4-dock-for-business/8svnb0c8j1qw) delivers ultra-high speed data transfer, built-in enterprise management, and security[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
+Surface Thunderbolt™ 4 Dock delivers ultra-high speed data transfer, built-in enterprise management, and security[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
 
 - **High-speed USB4®/Thunderbolt 4 on USB-C® ports.** Plug in one cable to power your device, connect two 4K monitors at up to 60 Hz[<sup>2</sup>](#references), and transfer data and files at up to 40 Gbps.
 - **The charging power you need for your devices and accessories.** Connect and power your laptop with up to 96 watts of power passthrough and extra charging power for your phone and accessories.[<sup>3</sup>](#references)
