@@ -27,7 +27,7 @@
            href: https://support.microsoft.com/surface/surface-power-supplies-and-charging-requirements-0d9d51d4-594b-464d-9086-c90f35b80c01  
          - name: Surface USB4 Dock overview
            href: surface-usb4-dock.md   
-         - name: What's new in Surface Thunderbolt 4 Dock
+         - name: Surface Thunderbolt 4 Dock overview
            href: surface-thunderbolt4-dock.md  
          - name: Surface Dock 2 overview
            href: surface-dock2-overview.md
@@ -183,7 +183,9 @@
           href: advanced-uefi-security-features-for-surface-pro-3.md 
       - name: Surface Dock
         items:
-         - name: What's new in Surface Thunderbolt 4 Dock
+         - name: Surface USB4 Dock overview
+           href: surface-usb4-dock.md
+         - name: Surface Thunderbolt 4 Dock overview
            href: surface-thunderbolt4-dock.md
          - name: Manage USB ports on Surface devices
            href: manage-usb-ports-on-surface.md    
