@@ -49,12 +49,12 @@ Surface USB4 Dock comes with the following management and security features:
 
 ## Compatibility
 
-Surface USB4 Dock is optimized for numerous USB-C/USB4/Thunderbolt 4-enabled devices,[<sup>3</sup>](#references) including the following Surface devices.
+Surface USB4 Dock is optimized for numerous USB-C/USB4/Thunderbolt 4-enabled devices,[<sup>3</sup>](#references) including the following Surface devices:
 
-- Surface Laptop 7th Edition with Intel® Core™  Ultra processors (Series 2)
-- Surface Pro 11th Edition with Intel Core Ultra processors (Series 2)
-- Surface Laptop 7th Edition with Qualcomm® Snapdragon™ processors
-- Surface Pro 11th Edition with Qualcomm Snapdragon processors
+- Surface Laptop 7th Edition, Intel® processor
+- Surface Pro 11th Edition, Intel processor
+- Surface Laptop 7th Edition, Qualcomm® processor
+- Surface Pro 11th Edition, Qualcomm processor
 - Surface Pro 10
 - Surface Laptop 6
 - Surface Pro 9 (Intel/Wi-Fi)
