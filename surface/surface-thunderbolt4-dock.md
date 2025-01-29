@@ -40,11 +40,13 @@ Surface Thunderbolt 4 Dock helps improve IT efficiency and reduce overhead and s
 
 Surface Thunderbolt 4 Dock is optimized for devices with a USB4/Thunderbolt 4 port, including the following Surface for Business devices:
 
-- Surface Laptop (7th Edition) available with Intel or Qualcomm processors
+- Surface Laptop 7th Edition with Intel® Core™  Ultra processors (Series 2)
+- Surface Pro 11th Edition with Intel Core Ultra processors (Series 2)
+- Surface Laptop 7th Edition with Qualcomm® Snapdragon™ processors
+- Surface Pro 11th Edition with Qualcomm Snapdragon processors
 - Surface Laptop 6
 - Surface Laptop 5 
 - Surface Laptop Studio (all generations)
-- Surface Pro (11th Edition) available with Intel or Qualcomm processors
 - Surface Pro 10
 - Surface Pro 10 with 5G
 - Surface Pro 9 (Intel/Wi-Fi)

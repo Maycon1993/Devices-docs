@@ -32,7 +32,7 @@ Surface USB4 Dock is a full stationary docking solution, with a compact, sleek d
 
 ---
 
-## Manageability and security
+## Manageability & security
 
 Surface USB4 Dock comes with the following management and security features:
 
@@ -51,8 +51,10 @@ Surface USB4 Dock comes with the following management and security features:
 
 Surface USB4 Dock is optimized for numerous USB-C/USB4/Thunderbolt 4-enabled devices,<sup>3</sup> including the following Surface devices.
 
-- Surface Laptop 7th Edition, available with Intel Core Ultra (Series 2) or Snapdragon X Elite/Plus processors
-- Surface Pro 11th Edition, available with Intel Core Ultra (Series 2) or Snapdragon X Elite/Plus processors
+- Surface Laptop 7th Edition with Intel® Core™  Ultra processors (Series 2)
+- Surface Pro 11th Edition with Intel Core Ultra processors (Series 2)
+- Surface Laptop 7th Edition with Qualcomm Snapdragon processors
+- Surface Pro 11th Edition with Qualcomm® Snapdragon™ processors
 - Surface Pro 10
 - Surface Laptop 6
 - Surface Pro 9 (Intel/Wi-Fi)
@@ -131,7 +133,7 @@ Microsoft’s commitment to sustainability is reflected in Surface USB4 Dock:
 
 ## Connect multiple monitors to devices 
 
-Surface USB4 Dock supports two 4K monitors at 60Hz via USB-C or HDMI 2.1 ports, or a single 8K monitor at 30Hz when connected over USB-C. Surface USB4 Dock  allows you to expand your visual workspace while working simultaneously on three screens. For dual 4k Monitor support you require a device with USB4/Thunderbolt 4 port and a supported device and display.
+Surface USB4 Dock supports two 4K monitors at 60Hz via USB-C or HDMI 2.1 ports, or a single 8K monitor at 30Hz when connected over USB-C. Surface USB4 Dock  allows you to expand your visual workspace while working simultaneously on three screens. For dual 4K Monitor support you require a device with USB4/Thunderbolt 4 port and a supported device and display.
 
 ### Daisy chain more monitors
 
