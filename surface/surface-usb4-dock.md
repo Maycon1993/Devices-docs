@@ -25,7 +25,7 @@ Surface USB4 Dock is a full stationary docking solution, with a compact, sleek d
 - **Core commercial manageability features**: Equipped with essential capabilities such as PXE boot,[<sup>1</sup>](#references) WMI, and MAC address passthrough[<sup>2</sup>](#references)  for streamlined IT operations.
 - **Universal compatibility**: Designed to work with Surface devices[<sup>3</sup>](#references) and compatible with numerous USB-C®, USB4®, and Thunderbolt™ 4 devices.
 - **Compact and lightweight**: At 206 grams (7.2 ounces), USB4 Dock includes tactile indicators for easier port wayfinding.
-- **Designed with sustainability in mind:** Contains more recycled materials than any previous Surface Dock, including **100% recycled tin, 100% recycled gold, and 50% recycled plastics**. 
+- **Designed with sustainability in mind:** Contains more recycled materials than any previous Surface Dock, including 100% recycled tin, 100% recycled gold, and 50% recycled plastics. 
 
 
 :::image type="content" source="images/surface-usb4-dock.png" alt-text="Screenshot of USB4 Dock.":::
@@ -99,9 +99,9 @@ Surface USB4 Dock is equipped with versatile ports to support modern workflows:
 
 Microsoft’s commitment to sustainability is reflected in Surface USB4 Dock:
 
-- **Recycled materials**: Contains a minimum of 55.2% recycled content. Surface USB4 Dock contains more recycled materials than any previous dock, including recycled tin, recycled gold, and recycled plastic.
+- **Recycled materials**: Contains a minimum of 55.2% recycled content. Surface USB4 Dock contains more recycled materials than any previous Surface dock, including 100% recycled tin, 100% recycled gold, and 50% recycled plastic.
 - **Thoughtful packaging:** 77% recycled content in wood-based fiber commercial packaging. 
-- **Carbon-free electricity**: To meet Microsoft’s goal of 100% carbon-free electricity by 2030, 40% of our key devices suppliers transitioned to CFE in 2024
+- **Carbon-free electricity**: To meet Microsoft’s goal of 100% carbon-free electricity by 2030, 40% of our key devices suppliers transitioned to CFE in 2024.
 - **Electric vehicle delivery**: In 2024, we expanded truckload electric vehicle capabilities to cover both of our United States distribution centers, enabling full truckloads within a 100-mile range of the distribution centers to be delivered via EV.
 - **Sustainability goals**: Supporting Microsoft’s pledge to be carbon negative, water positive, and achieve zero waste by 2030. Learn more about [Microsoft Surface Sustainability](https://www.microsoft.com/corporate-responsibility/sustainability/).
 
