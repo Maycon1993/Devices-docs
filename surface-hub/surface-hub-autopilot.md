@@ -38,7 +38,7 @@ Even if you're familiar with Autopilot in general, to understand nuances for Tea
 
 ## How Autopilot works
 
-Windows Autopilot uses Azure cloud services, including Microsoft Entra-ID (formerly known as Azure AD) and [Microsoft  Intune Admin Center](https://intune.microsoft.com). This cloud-based approach to device management and deployment allows for the automation and remote management capabilities that Autopilot delivers.
+Windows Autopilot uses Azure cloud services, including Microsoft Entra ID (formerly known as Azure AD) and [Microsoft  Intune Admin Center](https://intune.microsoft.com). This cloud-based approach to device management and deployment allows for the automation and remote management capabilities that Autopilot delivers.
 
 IT admins create deployment profiles in Intune or other mobile device management (MDM) service. These profiles contain the configuration settings for the devices, such as language, region, network configuration, and the steps required in the Windows Out-of-Box Experience (OOBE). Once profiles are created, they're assigned to the registered devices based on certain criteria, like device model or purchase order. To learn more, see [Configure Autopilot profiles](/autopilot/profiles).
 
