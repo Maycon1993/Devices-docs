@@ -17,7 +17,7 @@ appliesto:
 
 In an era where digital security is paramount, Surface Laptop 6 for Business offers an optional smart card reader on select 15" models. As a Secured-core PC with a discrete TPM 2.0 chip, Surface Laptop 6 offers advanced data protection.
 
-:::image type="content" source="images/smart-card-reader-surface-laptop-6.png" alt-text="Illustration of the optional smart card reader on 15" Surface Laptop.":::
+:::image type="content" source="images/smart-card-reader-surface-laptop-6.png" alt-text="Screenshot of optional smart card reader on Surface Laptop.":::
 
 *Optional smart card reader on Surface Laptop*
 
