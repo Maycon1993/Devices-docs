@@ -36,8 +36,8 @@ Dissolve boundaries for hybrid teams with a device designed to make meetings mor
 
 Surface Hub running Teams Rooms on Windows introduces **AI-powered Speaker Recognition**, enhancing the meeting experience by identifying individual voices in the room (for participants who have opted in through voice enrollment). With clear consent and privacy in mind, this feature ensures that meeting contributions are accurately attributed to each speaker, supporting better follow-up and collaboration. Background noise is suppressed, creating a clearer, more focused environment for all participants.
 
-- **Speaker Recognition**: Identifies participants' voices in the room by analyzing vocal characteristics, ensuring individual contributions are tracked. 
-  - **Voice enrollment**: End users can easily create a voice profile via [aka.ms/voiceprofile](https://aka.ms/voiceprofile), allowing their voice to be recognized in meetings. 
+- **Speaker Recognition**: Identifies participants' voices in the room by analyzing vocal characteristics, ensuring individual contributions are tracked.
+  - **Voice enrollment**: End users can easily create a voice profile via [aka.ms/voiceprofile](https://aka.ms/voiceprofile), allowing their voice to be recognized in meetings.
   - **IT administration**: Admins can manage voice and face enrollment for specific users, groups of users, or an entire organization, ensuring secure and accurate identification. To learn more, see [Overview of voice and face enrollment](/microsoftteams/rooms/voice-and-face-recognition).
 
 - **Facilitator integration**: Powered by Speaker Recognition, Facilitator<sup>1</sup> (targeted for public preview in Q1 2025) takes meeting notes in real time, tracks decisions, and automatically creates follow-up tasks, helping teams focus on discussions instead of manual follow-ups.
@@ -59,7 +59,7 @@ Microsoft announced in January 2025 that for the first time ever, Teams Rooms on
 
 ### Miracast support
 
-Microsoft also announced in January 2025 that for the first time ever, Teams Rooms on Windows – including Surface Hub 3 – will add support for Miracast wireless projection. Beyond simply sharing content, Miracast will also enable you to interact with the content on the Hub 3 display, with touch and pen input translated back to your PC. Of course, Hub 3 will be able to desktop share Miracast-projected content into Teams meetings. Together with wired content sharing from PCs via center-of-table consoles (see next section), as well as Teams Cast and desktop sharing from PC over a Teams meeting, customers will now have an even more versatile and flexible set of options for sharing and collaborating on content with Surface Hub. Miracast support is committed; stay tuned for upates on availability timing.
+Microsoft also announced in January 2025 that for the first time ever, Teams Rooms on Windows – including Surface Hub 3 – will add support for Miracast wireless projection. Beyond simply sharing content, Miracast will also enable you to interact with the content on the Hub 3 display, with touch and pen input translated back to your PC. Of course, Hub 3 will be able to desktop share Miracast-projected content into Teams meetings. Together with wired content sharing from PCs via center-of-table consoles (see next section), as well as Teams Cast and desktop sharing from PC over a Teams meeting, customers will now have an even more versatile and flexible set of options for sharing and collaborating on content with Surface Hub. Miracast support is committed; stay tuned for updates on availability timing.
 
 ### Center-of-table console support
 
@@ -99,13 +99,11 @@ Explore the different ways to get the new Surface Hub experience:
 - Upgrade from Surface Hub 2S to Surface Hub 3 with the [Surface Hub 3 Compute Cartridge](surface-hub-3-compute-cartridge-faq.md), delivering faster performance and enhanced graphics.
 - Migrate your Surface Hub 2S to the new experience following the instructions in [Migrate Surface Hub 2S to Microsoft Teams Rooms on Windows](surface-hub-2s-migrate-to-mtr-w.md).
 
-
 ## Surface Hub platform differences
 
 For customers with Surface Hub 2S (or Surface Hub v1) devices that have used the legacy Windows 10 Team edition experience previously in their organization, we understand that transitioning operating systems to the new Microsoft Teams Rooms on Windows platform introduces change management considerations. Many customers ask about the differences between the legacy Windows 10 Team edition on Surface Hub 2S and the new [Microsoft Teams Rooms on Windows platform](/microsoftteams/rooms/). This new platform provides Surface Hub with a modern, secure, integrated, and consistent Teams Rooms experience designed for hybrid collaboration. It powers new Surface Hub 3 devices, Surface Hub 2S devices upgraded with the **Surface Hub 3 Compute Cartridge,** and Surface Hub 2S devices that have been software-migrated from the legacy OS, to the new platform.
 
 ### Overview of key differences
-
 
 | Feature                                  | Surface Hub 2S running Windows 10 Team Edition                                    | Surface Hub running Teams Rooms on Windows                                                                                  |
 |----------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
