@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 09/21/2023
+ms.date: 01/30/2025
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -59,8 +59,8 @@ Surface Go for Business devices are equipped with support for near field communi
 
 - Our Designed for Surface partners have created protective cases with a built-in NFC range extender designed for a variety of industries. These solutions include:
 
-  - [aXtion Pro MPA/NFC](https://www.microsoft.com/en-us/surface/designed-for-surface/products/the-joy-factory-axtion-pro-mpa-nfc-for-surface-go-go-2-go-3/dc426547-655b-eb11-8fed-00155dd3d394?msockid=28a850520e226efc1ba245090f0f6f14)
-  - [aXtion Extreme MP NFC](https://www.microsoft.com/en-us/surface/designed-for-surface/products/the-joy-factory-axtion-extreme-mp-nfc-for-ms-surface-go-3-atex-zone-2/6c85a536-debc-ec11-bea1-00155dd3d776?msockid=28a850520e226efc1ba245090f0f6f14)
+  - [aXtion Pro MPA/NFC](https://www.microsoft.com/surface/designed-for-surface/products/the-joy-factory-axtion-pro-mpa-nfc-for-surface-go-go-2-go-3/dc426547-655b-eb11-8fed-00155dd3d394?msockid=28a850520e226efc1ba245090f0f6f14)
+  - [aXtion Extreme MP NFC](https://www.microsoft.com/surface/designed-for-surface/products/the-joy-factory-axtion-extreme-mp-nfc-for-ms-surface-go-3-atex-zone-2/6c85a536-debc-ec11-bea1-00155dd3d776?msockid=28a850520e226efc1ba245090f0f6f14)
 
 
 ## Learn more

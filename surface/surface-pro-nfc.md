@@ -1,36 +1,36 @@
 ---
-title: NFC support in Surface Pro
+title: NFC support in Surface Pro for Business
 description: Discover NFC support in Surface Pro 10 & 11th Edition for enhanced security, FIDO2 authentication, and more, ideal for enterprise use.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 12/20/2024
+ms.date: 01/30/2025
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
 - Windows 11
 ---
 
-# NFC support in Surface Pro
+# NFC support in Surface Pro for Business
 
-Near Field Communication (NFC) in commercial versions of Surface Pro 10 and Surface Pro (11th Edition)[<sup>1</sup>](#references) is designed to enhance security and convenience for users. It facilitates Microsoft Entra ID (formerly Azure AD) and Microsoft Account (MSA) authentication via FIDO 2.0 standards, enabling secure access and sign-in. Additionally, these devices are capable of reading and writing NFC tags.
+Near Field Communication (NFC) in commercial versions of Surface Pro 10 and Surface Pro 11th Edition [<sup>1</sup>](#references) is designed to enhance security and convenience for users. It facilitates Microsoft Entra ID and Microsoft Account (MSA) authentication via FIDO 2.0 standards, enabling secure access and sign-in. Additionally, these devices are capable of reading and writing NFC tags.
 
-Although NFC can read information stored on the magnetic stripe of a bank card, it doesn't support payment transactions on Surface Pro 10 or Surface Pro (11th Edition).
+Although NFC on Surface Pro can read information stored on the magnetic stripe of a bank card, it doesn't support payment transactions.
 
-We engineered NFC in Surface Pro 10 and Surface Pro (11th Edition) for enterprise customers where the primary applications of NFC technology extend to authentication, access control, and the exchange of information. These use cases are fundamental in environments that demand heightened security and streamlined operations, such as workplaces and educational institutions.
+We engineered NFC in Surface Pro 10 and Surface Pro 11th Edition for enterprise customers where the primary applications of NFC technology include authentication, access control, and the exchange of information. These use cases are fundamental in environments that demand heightened security and streamlined operations, such as workplaces and educational institutions.
 
 > [!NOTE]
-> **NFC support is available only on commercial Wi-Fi versions** of Surface Pro 10 and Surface Pro (11th Edition) for Business. The 5G models of Surface Pro 10 and Surface Pro (11th Edition) do not include NFC support. The consumer Wi-Fi version of Surface Pro (11th Edition) does not include NFC support.
+> **NFC support is available only on commercial Wi-Fi versions** of Surface Pro 10 and Surface Pro 11th Edition for Business. The 5G models of Surface Pro 10 and Surface Pro 11th Edition don't include NFC support. The consumer Wi-Fi version of Surface Pro 11th Edition doesn't include NFC support.
 
 ## Authenticate with NFC
 
 The NFC reader is located in the upper left bezel of the device, under the display.
 
-- To authenticate, align your NFC security key with the center of the Power button where the antenna is located.
+- To authenticate, align your NFC security key with the center of the Power button where the NFC antenna is located.
 
-:::image type="content" source="images/surface-pro-nfc-tap-example.png" alt-text="Screenshot of NFC reader location on Surface Pro 10 and Surface Pro (11th Edition) for Business.":::
+:::image type="content" source="images/surface-pro-nfc-tap-example.png" alt-text="Screenshot of NFC reader location on Surface Pro 10 and Surface Pro 11th Edition for Business.":::
 
 ## Supported end-user experiences
 
@@ -45,9 +45,21 @@ The NFC reader is located in the upper left bezel of the device, under the displ
 - **Tag writing:** You have the ability to write to an NFC tag by tapping it on the NFC reader of the device, using software apps that support this feature.
 - **Tag reading:** You can read from an NFC tag by tapping it on the NFC reader of the device. While no other applications are necessary to read the data from an NFC tag, there are third-party solutions that might enhance this experience.
 
+### Imprivata Enterprise Access Management (EAM)
+
+Certified Surface devices with built-in NFC enhance security and productivity by providing fast, seamless access to Imprivata workstations and applications. With Imprivata’s *No Click Access®*, users can tap their NFC-enabled badge to sign in or out of their Surface device.  
+
+Surface devices certified for Imprivata include:
+
+- Surface Pro 11th Edition, Intel® processor  
+- Surface Pro 10 for Business, Wi-Fi only  
+- Surface Go 4 for Business  
+
+To learn more, see [Surface for Business devices are now Imprivata Ready](https://techcommunity.microsoft.com/blog/surfaceitpro/surface-for-business-devices-are-now-imprivata-ready/4273481).  
+
 ### ID Verification
 
-- **Bank card reading:** You can tap your NFC-enabled bank card against the device to read information from it. This functionality requires specific software capable of reading from bank cards; specifically, a line of business application. (As indicated earlier, NFC on Surface Pro 10 and Surface Pro (11th Edition) can't process financial transactions.)
+- **Bank card reading:** You can tap your NFC-enabled bank card against the device to read information from it. This functionality requires specific software capable of reading from bank cards; specifically, a line of business application. (As indicated earlier, NFC on Surface Pro 10 and Surface Pro 11th Edition can't process financial transactions.)
 
 ### NFC wayfinding support
 
@@ -61,7 +73,7 @@ NFC wayfinding takes advantage of the simplicity and convenience of NFC technolo
 
 To help end users find the NFC reader on the device, a custom lock screen image is available to download and deploy to devices in your organization. See [Download NFC Lock Screens](#download-nfc-lock-screens) on this page.
 
-:::image type="content" source="images/nfc-lockscreen-example.png" alt-text="Screenshot showing an example of a custom lock screen image for Surface Pro 10 and Surface Pro (11th Edition) for Business.":::
+:::image type="content" source="images/nfc-lockscreen-example.png" alt-text="Screenshot showing an example of a custom lock screen image for Surface Pro 10 and Surface Pro 11th Edition for Business.":::
 
 ## Supported NFC tag types & standards
 
@@ -76,7 +88,7 @@ Our NFC solution is compatible with a broad range of standards, ensuring it can 
 
 ### Supported tag types for secure authentication
 
-NFC on Surface Pro 10 and Surface Pro (11th Edition) supports the use of FIDO2.0 keys, for secure authentication across various platforms, including Windows, Microsoft Entra ID, and MSA. For passwordless sign-in options, we use Microsoft Entra's passwordless sign-in capabilities. To learn more about FIDO key integration with Microsoft Entra, see [Microsoft Entra passwordless sign-in.](/entra/identity/authentication/concept-authentication-passwordless#fido2-security-keys)
+NFC on Surface Pro 10 and Surface Pro 11th Edition supports the use of FIDO2.0 keys, for secure authentication across various platforms, including Windows, Microsoft Entra ID, and MSA. For passwordless sign-in options, we leverage Microsoft Entra's authentication capabilities. To learn more about FIDO key integration with Microsoft Entra, see [Microsoft Entra passwordless sign-in.](/entra/identity/authentication/concept-authentication-passwordless#fido2-security-keys)
 
 The following FIDO2.0 keys are supported and recommended for use:
 
@@ -135,25 +147,29 @@ For a managed approach, IT admins can disable NFC using SEMM (Surface Enterprise
 
 **Does the NFC feature support waking up the device from sleep mode?**
 
-- No, the current NFC technology doesn't support waking up the device from sleep mode. Surface Pro 10 and Surface Pro (11th Edition) must be awake and active for NFC interactions to occur.
+- No, the current NFC technology doesn't support waking up the device from sleep mode. Surface Pro 10 and Surface Pro  11th Edition must be awake and active for NFC interactions to occur.
 
 **Do all Surface Pro devices support reading NFC?**
 
-- No, currently NFC reader is only in Surface Pro 10 and Surface Pro (11th Edition) for Business and on Surface Go for Business devices.
+- No, currently, the NFC reader is available only on commercial versions of Surface Pro 10, Surface Pro  11th Edition, and Surface Go for Business devices.
 
 **Is the NFC functionality different on Surface Pro 10 than Surface Go?**
 
-- NFC functionality on Surface Pro 10 and Surface Pro (11th Edition) includes support for more cards and tag types. To learn more, see [NFC support in Surface Go for Business](surface-go-nfc-support.md).
+- NFC functionality on Surface Pro 10 and Surface Pro 11th Edition includes support for more cards and tag types. To learn more, see [NFC support in Surface Go for Business](surface-go-nfc-support.md).
 
 ### References
 
-1. NFC is only available on commercial Wi-Fi configurations of Surface Pro 10 and Surface Pro (11th Edition). 
+1. NFC on Surface Pro is only available on commercial Wi-Fi configurations of: 
 
-## Download NFC Lock Screens 
+- Surface Pro 10 
+- Surface Pro, 11th Edition (Intel)
+- Surface Pro, 11th Edition (Qualcomm)
+
+## Download NFC Lock Screens
 
 To help end users find the NFC reader on the device, a custom lock screen image is available to download and deploy to devices in your organization.
 
-For the best user experience, we recommend modifying the following settings on Surface Pro 10 and Surface Pro (11th Edition):
+For the best user experience, we recommend modifying the following settings on Surface Pro 10 and Surface Pro 11th Edition:
 
 1. Navigate to **Settings** > **Personalization** > **Colors**.
 
