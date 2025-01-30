@@ -124,4 +124,4 @@ Surface Dock 2 is designed to simplify IT management, enabling admins to automat
 
 - [Secure Surface Dock 2 ports with Surface Enterprise Management Mode](https://techcommunity.microsoft.com/t5/surface-it-pro-blog/secure-surface-dock-2-ports-with-surface-enterprise-management/ba-p/1418999)
 - [Surface Enterprise Management Mode](surface-enterprise-management-mode.md)
-- [What’s new in Surface Thunderbolt 4 Dock](surface-dock-whats-new.md)
+- [What’s new in Surface Thunderbolt 4 Dock](surface-thunderbolt4-dock.md)
