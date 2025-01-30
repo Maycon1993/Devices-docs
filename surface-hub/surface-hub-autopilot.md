@@ -63,7 +63,7 @@ As shown in the following table, the process of enrolling a supported version of
 
 ### Enroll a new Surface Hub 3 
 
-New Surface Hub 3 devices are ready for Autopilot use. For devices with a 14 digit alphanumeric serial number, they can be enrolled by [certified partners on behalf of customers](/autopilot/partner-registration), including creating the requisite Autopilot profiles. For devices with a 12 digit alphanumeric serial number, they can be manually registered as documented below, and might initially need to be [deregistered from Autopilot](/autopilot/registration-overview#deregister-from-autopilot-using-intune).
+New Surface Hub 3 devices are ready for Autopilot use. For devices with a 14 digit alphanumeric serial number, they can be enrolled by [certified partners on behalf of customers](/autopilot/partner-registration), including creating the requisite Autopilot profiles. For devices with a 12 digit numeric serial number, they can be manually registered as documented below, and might initially need to be [deregistered from Autopilot](/autopilot/registration-overview#deregister-from-autopilot-using-intune).
 
 ### Manually register & enroll Surface Hub 2S devices upgraded with a Surface Hub 3 Compute Cartridge
 
