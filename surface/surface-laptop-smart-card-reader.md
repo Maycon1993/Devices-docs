@@ -29,21 +29,21 @@ An **integrated Smart Card Reader** is available on the following 15" commercial
 
 Available configurations:
 
-- Intel® Core™ Ultra 5 / 16GB / 512GB
-- Intel Core Ultra 5 / 32GB / 512GB
-- Intel Core Ultra 7 / 16GB / 256GB
-- Intel Core Ultra 7 / 16GB / 512GB
-- Intel Core Ultra 7 / 32GB / 512GB
-- Intel Core Ultra 7 / 32GB / 1TB (*TAA-compliant*)
+- Intel® Core™ Ultra 5 / 16 GB / 512 GB
+- Intel Core Ultra 5 / 32 GB / 512 GB
+- Intel Core Ultra 7 / 16 GB / 256 GB
+- Intel Core Ultra 7 / 16 GB / 512 GB
+- Intel Core Ultra 7 / 32 GB / 512 GB
+- Intel Core Ultra 7 / 32 GB / 1 TB (*TAA-compliant*)
 
 ### Surface Laptop 6
 
 Available configurations:
 
-- 15” Intel Core Ultra 5 / 16GB / 512GB
-- 15” Intel Core Ultra 7 / 16GB / 256GB
-- 15” Intel Core Ultra 7 / 16GB / 512GB
-- 15” Intel Core Ultra 7 / 32GB / 512GB
+- 15” Intel Core Ultra 5 / 16 GB / 512 GB
+- 15” Intel Core Ultra 7 / 16 GB / 256 GB
+- 15” Intel Core Ultra 7 / 16 GB / 512 GB
+- 15” Intel Core Ultra 7 / 32 GB / 512 GB
 
 ## Enhanced security and risk mitigation
 
@@ -59,7 +59,7 @@ The Smart Card Reader is engineered to accommodate both the [Common Access Card 
 
 ### Compliance and regulatory adherence
 
-For organizations operating in sectors where regulatory compliance is stringent (for example, government, defense, healthcare, and finance), the Smart Card Reader helps meet strict access control and data protection requirements. It helps ensure organizations adhere to laws and regulations such as HIPAA, FISMA, and GDPR, which mandate strong authentication measures to protect sensitive data. Compliance not only helps avoid penalties but also reinforces an organization's commitment to security and privacy.
+For organizations operating in sectors where regulatory compliance is stringent (for example, government, defense, healthcare, and finance), the Smart Card Reader helps meet strict access control and data protection requirements. It helps ensure organizations adhere regulations such as HIPAA, FISMA, and EU privacy laws, which mandate strong authentication measures to protect sensitive data. Compliance not only helps avoid penalties but also reinforces an organization's commitment to security and privacy.
 
 ### Operational efficiency and access management
 
