@@ -3,7 +3,7 @@ title: "Deploy Surface Hub with Windows Autopilot & Teams Rooms Auto-login"
 description: Deploy Surface Hub with Windows Autopilot & Teams Rooms Auto-login for seamless setup and management. Explore configuration and enrollment steps.
 ms.service: surface-hub
 author: coveminer
-ms.author: chauncel
+ms.author: dpandre
 manager: frankbu
 ms.topic: conceptual
 ms.date: 03/26/2024
@@ -61,9 +61,9 @@ As shown in the following table, the process of enrolling a supported version of
 | Surface Hub 3          | Hub 2S devices [upgraded with the Surface Hub 3 Compute Cartridge](install-manage-surface-hub-3-compute-cartridge.md)         | - Customer-driven directly in Intune     | [Manually register devices & enroll](#manually-register--enroll-surface-hub-2s-devices-upgraded-with-a-surface-hub-3-compute-cartridge) | [Manually register devices with Windows Autopilot](/autopilot/add-devices)           |
 | Surface Hub 2S         | Surface Hub 2S devices being [software-migrated to the Teams Rooms on Windows platform](surface-hub-2s-migrate-to-mtr-w.md) | - Customer-driven directly in Intune      | [Manually register devices & enroll](#manually-register--enroll-surface-hub-2s-devices-being-migrated-to-teams-rooms-on-windows-platform)  | [Manually register devices with Windows Autopilot](/autopilot/add-devices)         |
 
-### Enroll a new Surface Hub 3 shipped from factory  
+### Enroll a new Surface Hub 3 
 
-New Surface Hub 3 devices that ship from the factory are fully ready for Autopilot use. We recommend consulting with certified partners who can Autopilot enroll Surface Hub 3 (or other Autopilot-supporting) devices on behalf of customers, including creating the requisite Autopilot profiles. Learn more, including about how to set up the trust relationship with your partner, in this [documentation](/autopilot/partner-registration). Or see the list of [Surface partners enabled for Autopilot](/surface/windows-autopilot-and-surface-devices#surface-partners-enabled-for-windows-autopilot)
+New Surface Hub 3 devices are ready for Autopilot use. For devices with a 14 digit alphanumeric serial number, they can be enrolled by [certified partners on behalf of customers](/autopilot/partner-registration), including creating the requisite Autopilot profiles. For devices with a 12 digit alphanumeric serial number, they can be manually registered as documented below, and might initially need to be [deregistered from Autopilot](/autopilot/registration-overview#deregister-from-autopilot-using-intune).
 
 ### Manually register & enroll Surface Hub 2S devices upgraded with a Surface Hub 3 Compute Cartridge
 
