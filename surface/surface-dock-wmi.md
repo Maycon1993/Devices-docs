@@ -96,7 +96,7 @@ The following instructions apply to Surface Dock 2 and Surface Thunderbolt 4 Doc
 ## Learn more
 
 - [Secure Surface Dock ports with SEMM](secure-surface-dock-ports-semm.md)
-- [What's new in Surface Thunderbolt 4 Dock](surface-dock-whats-new.md)
+- [What's new in Surface Thunderbolt 4 Dock](surface-thunderbolt4-dock.md)
 - [Surface Dock 2 overview](surface-dock2-overview.md)
 - [Device Manager error codes](/windows-hardware/drivers/install/device-manager-error-messages)
 - [Working with WMI](/powershell/scripting/learn/ps101/07-working-with-wmi?&preserve-view=true)
