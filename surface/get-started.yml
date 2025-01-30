@@ -25,16 +25,14 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
+          - text: Fuel AI adoption with Surface Pro and Surface Laptop powered by Intel
+            url: https://techcommunity.microsoft.com/blog/surfaceitpro/fuel-ai-adoption-with-surface-pro-and-surface-laptop-powered-by-intel/4359782
           - text: Order Surface Pro for Business, Copilot+ PC (Intel)
             url: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc-intel/8qfmn9xp1rl9?ocid=oo_core_comm_DDS_dg_surftechblog_FY25WinterSurfaceVSB
           - text: Order Surface Laptop for Business, Copilot+ PC (Intel)
             url: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-intel/93dzmw6q4w2b?ocid=oo_core_comm_DDS_dg_surftechblog_FY25WinterSurfaceVSB
           - text: Surface USB4 Dock overview
             url: surface-usb4-dock.md 
-          - text: Accelerate AI transformation with Surface Pro and Surface Laptop
-            url: https://techcommunity.microsoft.com/t5/surface-it-pro-blog/accelerate-ai-transformation-with-surface-pro-and-surface-laptop/ba-p/4227521
-          - text: Tested peripherals for Surface devices
-            url: surface-tested-peripherals.md
           - text: NFC support in Surface Pro 
             url: surface-pro-nfc.md
           - text: Modernizing Surface support
