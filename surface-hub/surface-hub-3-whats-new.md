@@ -7,7 +7,7 @@ ms.service: surface-hub
 author: coveminer
 ms.author: dpandre
 ms.topic: how-to
-ms.date: 01/30/2024
+ms.date: 01/30/2025
 ms.localizationpriority: medium
 appliesto:
 - Surface Hub 3
@@ -40,7 +40,7 @@ Surface Hub running Teams Rooms on Windows introduces **AI-powered Speaker Recog
   - **Voice enrollment**: End users can easily create a voice profile via [aka.ms/voiceprofile](https://aka.ms/voiceprofile), allowing their voice to be recognized in meetings.
   - **IT administration**: Admins can manage voice and face enrollment for specific users, groups of users, or an entire organization, ensuring secure and accurate identification. To learn more, see [Overview of voice and face enrollment](/microsoftteams/rooms/voice-and-face-recognition).
 
-- **Facilitator integration**: Powered by Speaker Recognition, Facilitator<sup>1</sup> (targeted for public preview in Q1 2025) takes meeting notes in real time, tracks decisions, and automatically creates follow-up tasks, helping teams focus on discussions instead of manual follow-ups.
+- **Facilitator integration**: Powered by Speaker Recognition, Facilitator<sup>1</sup> (targeted for public preview in **Q1 2025**) takes meeting notes in real time, tracks decisions, and automatically creates follow-up tasks, helping teams focus on discussions instead of manual follow-ups.
 
 - **Biometric privacy and security** are a top priority. Microsoft encrypts voice and face data at rest and in transit, adhering to strict privacy guidelines and regulatory requirements for data protection. Users can unenroll their voice profiles at any time, and profiles are automatically deleted if unused for one year.
 
@@ -108,7 +108,7 @@ For customers with Surface Hub 2S (or Surface Hub v1) devices that have used the
 | Feature                                  | Surface Hub 2S running Windows 10 Team Edition                                    | Surface Hub running Teams Rooms on Windows                                                                                  |
 |----------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Center-of-table console support**          | Not available.                                                                       | Support is coming for **Teams Rooms Certified Universal Consoles** for controlling meetings and wired content sharing.<sup>3</sup> This feature will help facilitate deployments in front-of-room setups and provide a familiar experience across meeting spaces. Targeted for general availability in **Q2 2025**. [Learn more here](https://techcommunity.microsoft.com/blog/SurfaceITPro/enhancing-collaboration-with-microsoft-teams-rooms-and-surface-hub-3/4292453). |
-| **Facilitator AI Assistant**                 | Not available.                                                                       | Facilitator uses AI to take real-time notes, track decisions, and create follow-up tasks during meetings, powered by **Speaker Recognition**. Targeted for public preview in Q1 2025. [Learn more here](https://techcommunity.microsoft.com/blog/SurfaceITPro/enhancing-collaboration-with-microsoft-teams-rooms-and-surface-hub-3/4292453). |
+| **Facilitator AI Assistant**                 | Not available.                                                                       | Facilitator uses AI to take real-time notes, track decisions, and create follow-up tasks during meetings, powered by **Speaker Recognition**. Targeted for public preview in **Q1 2025**. [Learn more here](https://techcommunity.microsoft.com/blog/SurfaceITPro/enhancing-collaboration-with-microsoft-teams-rooms-and-surface-hub-3/4292453). |
 | **Plug and play third-party peripheral support** | Limited to seven specific items.                                                     | Supports all **Teams Rooms Certified peripherals**. For more information, see the [list of certified peripherals](surface-hub-certifications.md).                     |
 | **One-Touch Direct Guest Join**              | Requires launching Microsoft Edge from Teams, leading to a web experience.           | Direct integration within the **Teams Rooms** application, providing seamless guest join functionality with consistency to other Teams Rooms on Windows devices.      |
 | **Front Row layout**                         | Not available.                                                                       | Available and consistent with other Teams Rooms on Windows devices, offering a more immersive meeting experience.                                                    |
