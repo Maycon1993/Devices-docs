@@ -17,13 +17,13 @@ appliesto:
 
 In an era where digital security is paramount, Surface Laptop for Business offers an optional Smart Card Reader on select 15" models. 
 
-:::image type="content" source="images/smart-card-reader-surface-laptop-6.png" alt-text="Screenshot of optional Smart Card Reader on Surface Laptop.":::
+:::image type="content" source="images/surface-laptop-smart-card-reader.png" alt-text="Screenshot of optional Smart Card Reader on Surface Laptop.":::
 
 *Optional Smart Card Reader on Surface Laptop*
 
 ## Smart Card Reader availability
 
-An **integrated Smart Card Reader** is available on the following 15" commercial models of Surface Laptop, **only in Black** and **only in the U.S. and Canada**.
+An **integrated Smart Card Reader** is available in select markets<sup>1</sup> on the following 15" commercial models of Surface Laptop, **only in Black***.
 
 ### Surface Laptop 7th Edition (Intel)
 
@@ -65,3 +65,6 @@ For organizations operating in sectors where regulatory compliance is stringent 
 
 Implementing a Smart Card Reader streamlines access management across the organization. It simplifies the process of granting or revoking access rights, enhances user experience by consolidating multiple credentials into a single authentication mechanism, and supports a secure mobile workforce. This centralized access management improves operational efficiency, reduces administrative overhead, and enhances the overall security posture by ensuring consistent application of access policies.
 
+### References
+
+1. **Smart Card Reader available in the following markets:** United States, Canada; Australia, New Zealand, Japan; Austria, Germany, United Kingdom, Ireland, France, Switzerland, Denmark, Finland, Norway, Sweden, Belgium, Netherlands, Luxembourg, Italy, Portugal, Spain, Poland, Cyprus, Malta, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Hungary, Latvia, Lithuania, Romania, Slovakia, Slovenia.
