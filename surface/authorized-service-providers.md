@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 12/19/2024
+ms.date: 01/30/2025
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -56,7 +56,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Converge Technology Solutions](https://convergetp.com/)         | ✔             |                                         |
 | [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
 | [Hemmersbach Canada Ltd.](https://www.hemmersbach.com/fieldservices) | ✔           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [Insight](https://ca.insight.com/en_CA/home.html)                | --            |                                         |
+| [Insight](https://ca.insight.com/en_CA/home.html)                | ✔ |                                         |
 | [IT Mission](https://itmission.com/)                             | --            |                                         |
 | [Microserve](https://www.microserve.ca/)                         | ✔             |                                         |
 | [TD SYNNEX](https://www.synnexcorp.com/ca/)                      | --            |                                         |
@@ -79,7 +79,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [DXC Technology](https://dxc.com/us)                             | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [GlobalAsset](https://globalassetonline.com/)                    | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)  |
-| [Insight](https://www.insight.com/)                              | --            |                                         |
+| [Insight](https://www.insight.com/)                              | ✔            |                                         |
 | [Integration Technologies Group](https://www.itgonline.com/)     | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [IT savvy](https://www.itsavvy.com/)                             | --            |                                         |
 | [MCPC](https://www.mcpc.com/)                                    | ✔             |                                         |
