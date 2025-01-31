@@ -15,7 +15,7 @@ appliesto:
 
 # Surface Laptop Smart Card Reader Overview
 
-In an era where digital security is paramount, Surface Laptop for Business offers an optional Smart Card Reader on select 15" models. 
+In an era where digital security is paramount, Surface Laptop for Business, with Intel® Core™ Ultra processors, offers an optional Smart Card Reader on select 15" models. 
 
 :::image type="content" source="images/surface-laptop-smart-card-reader.png" alt-text="Screenshot of optional Smart Card Reader on Surface Laptop.":::
 
@@ -29,12 +29,12 @@ An **integrated Smart Card Reader** is available in select markets<sup>1</sup> o
 
 Available configurations:
 
-- Intel® Core™ Ultra 5 / 16 GB / 512 GB
+- Intel Core Ultra 5 / 16 GB / 512 GB
 - Intel Core Ultra 5 / 32 GB / 512 GB
 - Intel Core Ultra 7 / 16 GB / 256 GB
 - Intel Core Ultra 7 / 16 GB / 512 GB
 - Intel Core Ultra 7 / 32 GB / 512 GB
-- Intel Core Ultra 7 / 32 GB / 1 TB (*TAA-compliant*)
+- Intel Core Ultra 7 / 32 GB / 1 TB<sup>2</sup>  
 
 ### Surface Laptop 6
 
@@ -68,3 +68,4 @@ Implementing a Smart Card Reader streamlines access management across the organi
 ### References
 
 1. **Smart Card Reader available in the following markets:** United States, Canada; Australia, New Zealand, Japan; Austria, Germany, United Kingdom, Ireland, France, Switzerland, Denmark, Finland, Norway, Sweden, Belgium, Netherlands, Luxembourg, Italy, Portugal, Spain, Poland, Cyprus, Malta, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Hungary, Latvia, Lithuania, Romania, Slovakia, Slovenia.
+2. Available only in US; TAA compliant. 
