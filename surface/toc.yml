@@ -11,7 +11,7 @@
         items:
          - name: NFC support in Surface Pro
            href: surface-pro-nfc.md
-         - name: Surface Laptop 6 smart card reader overview
+         - name: Surface Laptop Smart Card Reader overview
            href: surface-laptop-smart-card-reader.md 
          - name: Set up Surface devices for SDR & HDR display measurements  
            href: configure-sdr-and-hdr-display.md
@@ -213,7 +213,7 @@
           href: surface-tested-peripherals.md
         - name: NFC support in Surface Go for Business
           href: surface-go-nfc-support.md
-        - name: NFC support in Surface Pro
+        - name: NFC support in Surface Pro for Business
           href: surface-pro-nfc.md
         - name: Optimize video conferencing on Surface devices
           href: optimize-video-conferencing-on-surface.md   

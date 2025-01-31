@@ -1,46 +1,71 @@
 ---
-title: Surface Laptop 6 smart card reader overview
-description: This article provides an overview of the optional smart card reader built into select models of Surface Laptop 6. 
+title: Surface Laptop Smart Card Reader overview
+description: Learn about the integrated Smart Card Reader on select Surface Laptop models, offering enhanced security and compliance for businesses.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 04/09/2024
+ms.date: 01/30/2025
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
 - Windows 11
 ---
 
-# Surface Laptop 6 smart card reader overview
+# Surface Laptop Smart Card Reader Overview
 
-In an era where digital security is paramount, Surface Laptop 6 for Business introduces an optional smart card reader on select 15" models. As a Secured-core PC equipped with a discrete TPM 2.0 chip, Surface Laptop 6 provides our strongest commitment to data protection.
+In an era where digital security is paramount, Surface Laptop for Business, with Intel® Core™ Ultra processors, offers an optional Smart Card Reader on select 15" models. 
 
-:::image type="content" source="images/smart-card-reader-surface-laptop-6.png" alt-text="Screenshot of optional smart card reader on Surface Laptop 6 15” model.":::
+:::image type="content" source="images/surface-laptop-smart-card-reader.png" alt-text="Screenshot of optional Smart Card Reader on Surface Laptop.":::
 
-*Optional smart card reader on Surface Laptop 6 15" model*
+*Optional Smart Card Reader on Surface Laptop*
+
+## Smart Card Reader availability
+
+An **integrated Smart Card Reader** is available in select markets<sup>1</sup> on the following 15" commercial models of Surface Laptop, **only in Black**.
+
+### Surface Laptop 7th Edition (Intel)
+
+Available configurations:
+
+- Intel Core Ultra 5 / 16 GB / 512 GB
+- Intel Core Ultra 5 / 32 GB / 512 GB
+- Intel Core Ultra 7 / 16 GB / 256 GB
+- Intel Core Ultra 7 / 16 GB / 512 GB
+- Intel Core Ultra 7 / 32 GB / 512 GB
+- Intel Core Ultra 7 / 32 GB / 1 TB<sup>2</sup>  
+
+### Surface Laptop 6
+
+Available configurations:
+
+- 15” Intel Core Ultra 5 / 16 GB / 512 GB
+- 15” Intel Core Ultra 7 / 16 GB / 256 GB
+- 15” Intel Core Ultra 7 / 16 GB / 512 GB
+- 15” Intel Core Ultra 7 / 32 GB / 512 GB
 
 ## Enhanced security and risk mitigation
 
-The smart card reader, included on select versions of 15" models<sup>1</sup>, delivers enhanced security via its implementation of two-factor authentication (2FA). By requiring both a physical card and a PIN, the smart card reader minimizes the risk of unauthorized access, protecting against sophisticated cyber threats, including phishing and social engineering attacks.
+The Smart Card Reader, available on select 15" models, enhances security through two-factor authentication (2FA). By requiring both a physical card and a PIN, the Smart Card Reader minimizes the risk of unauthorized access, protecting against sophisticated cyber threats, including phishing and social engineering attacks.
 
 ### Support for Common Access Card (CAC) and Personal Identity Verification (PIV) Card
 
-The smart card reader is engineered to accommodate both the [Common Access Card (CAC)](https://www.cac.mil/common-access-card/) and the [Personal Identity Verification (PIV) Card](https://www.idmanagement.gov/university/piv/), used by the United States Department of Defense (DoD) and other federal agencies.
+The Smart Card Reader is engineered to accommodate both the [Common Access Card (CAC)](https://www.cac.mil/common-access-card/) and the [Personal Identity Verification (PIV) Card](https://www.idmanagement.gov/university/piv/), used by the United States Department of Defense (DoD) and other federal agencies.
 
 - **CAC support**: The CAC provides secure two-factor authentication for active-duty military personnel, reserve personnel, civilian employees, and eligible contractor personnel. It facilitates authorized access to DoD computers, networks, and specific facilities, besides enabling the encryption and signing of emails.
 
-- **PIV card support**: Similarly, the PIV Card is used across various federal agencies for secure access to federal facilities and information systems, ensuring a standardized level of identity verification. PIV credentials have certificates, key pairs, pin numbers, biometrics, and other unique identifiers that enable two-factor authentication.
+- **PIV card support**: Similarly, the PIV Card is used across various federal agencies for secure access to federal facilities and information systems, ensuring a standardized level of identity verification. PIV credentials have certificates, key pairs, PIN numbers, biometrics, and other unique identifiers that enable two-factor authentication.
 
 ### Compliance and regulatory adherence
 
-For organizations operating in sectors where regulatory compliance is stringent (e.g., government, defense, healthcare, and finance), the smart card reader helps meet strict access control and data protection requirements. It helps ensure organizations adhere to laws and regulations such as HIPAA, FISMA, and GDPR, which mandate strong authentication measures to protect sensitive data. This compliance is not just about avoiding penalties but also about demonstrating to stakeholders and customers a commitment to maintaining high security and privacy standards.
+For organizations operating in sectors where regulatory compliance is stringent (for example, government, defense, healthcare, and finance), the Smart Card Reader helps meet strict access control and data protection requirements. It helps ensure organizations adhere regulations such as HIPAA, FISMA, and EU privacy laws, which mandate strong authentication measures to protect sensitive data. Compliance not only helps avoid penalties but also reinforces an organization's commitment to security and privacy.
 
 ### Operational efficiency and access management
 
-Implementing a smart card reader streamlines access management across the organization. It simplifies the process of granting or revoking access rights, enhances user experience by consolidating multiple credentials into a single authentication mechanism, and supports a secure mobile workforce. This centralized access management improves operational efficiency, reduces administrative overhead, and enhances the overall security posture by ensuring consistent application of access policies.
- 
+Implementing a Smart Card Reader streamlines access management across the organization. It simplifies the process of granting or revoking access rights, enhances user experience by consolidating multiple credentials into a single authentication mechanism, and supports a secure mobile workforce. This centralized access management improves operational efficiency, reduces administrative overhead, and enhances the overall security posture by ensuring consistent application of access policies.
+
 ### References
 
-1. Integrated smart card reader available only on Surface Laptop 6 in Black in one of these configurations: 15" 5/16/512, 7/16/256, 7/16/512, 7/32/512 and only in US and Canada.
+1. **Smart Card Reader available in the following markets:** United States, Canada; Australia, New Zealand, Japan; Austria, Germany, United Kingdom, Ireland, France, Switzerland, Denmark, Finland, Norway, Sweden, Belgium, Netherlands, Luxembourg, Italy, Portugal, Spain, Poland, Cyprus, Malta, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Hungary, Latvia, Lithuania, Romania, Slovakia, Slovenia.
+2. Available only in US; TAA compliant. 
