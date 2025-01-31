@@ -23,7 +23,7 @@ In an era where digital security is paramount, Surface Laptop for Business, with
 
 ## Smart Card Reader availability
 
-An **integrated Smart Card Reader** is available in select markets<sup>1</sup> on the following 15" commercial models of Surface Laptop, **only in Black***.
+An **integrated Smart Card Reader** is available in select markets<sup>1</sup> on the following 15" commercial models of Surface Laptop, **only in Black**.
 
 ### Surface Laptop 7th Edition (Intel)
 
