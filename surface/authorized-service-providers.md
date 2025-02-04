@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 01/30/2025
+ms.date: 02/04/2025
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -93,7 +93,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Trafera](https://www.trafera.com/)                              | --            |                                         |
 | [uBreakiFix](https://ubreakifix.com/repairs)                     | --            | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services |
 | [UDT](https://udtonline.com/)                                    | --            |                                         |
-| [Zones](https://www.zones.com/site/home/index.html)              | --            |                                         |
+| [Zones](https://www.zones.com/site/statics/static_page.html?name=it-lifecycle-services/it-depot-services)              | --            |                                         |
 
 </details>
 
