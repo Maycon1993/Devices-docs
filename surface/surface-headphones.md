@@ -106,5 +106,5 @@ The USB dongle and ear pads for Surface Headphones + are available as replacemen
 3. USB-A to USB-C adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length.
 4. AptX only works with Surface Headphones 2+ when not using the Surface USB Link.
 5. Microsoft’s Limited Warranty is in addition to your consumer law rights.
-6. USB-A to USB-C adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length
+6. USB-A to USB-C adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length. 
 7. To pair your replacement Surface USB Link to Surface Headphones 2+, you'll need the Surface App available on devices running Windows 10 or Windows 11. Or you can download the [Surface App](https://apps.microsoft.com/store/detail/surface/9WZDNCRFJB8P?hl=) from the Microsoft Store (version 61.5058.139 or later).
