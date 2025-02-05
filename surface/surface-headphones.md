@@ -22,7 +22,7 @@ Built for the hybrid workplace, [Surface Headphones 2+](https://www.microsoft.co
 
 Surface Headphones 2+ meets audio/video specification standards while using Teams software to ensure a high-quality call experience. A "Certified for Microsoft Teams" experience is enabled via one of the following methods: 
 
-- **Surface USB link dongle**. Use the included dongle for a dedicated connection when using multiple Bluetooth® devices.
+- **Surface USB link dongle**. Use the included dongle for a dedicated connection when using multiple Bluetooth devices.
 - **Bluetooth**. Now available for Windows 11, ensure you update the headphones to run the latest firmware, [as described below](#updating-firmware). A subsequent firmware update for the headphones to meet Teams certification standards on Windows 10 is coming soon. 
 
 Surface Headphones 2+ includes a Teams button to join calls or bring Teams to the forefront, integrated call controls, and an LED status indicator on the dongle to indicate mute status.
@@ -66,10 +66,10 @@ Firmware for the USB link dongle is maintained via Windows Update, which automat
 | Battery Life                | - Up to 18.5 hours of music listening time<sup>1</sup> or up to 15 hours of voice calling on Microsoft Teams<sup>2</sup>                                                                                                |
 | USB cord length             | - 1.5 m                                                                                                                                                                                                         |
 | Audio cable length          | - 1.2 m                                                                                                                                                                                                         |
-| Inputs                      | - Headphones: USB C® connector, 3.5-mm audio connector<br>- Surface USB Link: USB-A<sup>3</sup>                                                                                                                     |
+| Inputs                      | - Headphones: USB C connector, 3.5-mm audio connector<br>- Surface USB Link: USB-A<sup>3</sup>                                                                                                                     |
 | Sensors                     | - Wear detection sensors on ear cups<br>- Touch sensors on ear cups                                                                                                                                               |
 | Compatibility               | - Bluetooth (without Surface USB Link):  Windows 10/11, Android 11 / 10 / 9, iOS 14 / 13 / 12, macOS 11 / 10.14, Bluetooth 5.0 / 4.2 / 4.1<br>- With Surface USB Link: Windows 10, macOS 11 / 10.14, Bluetooth 5.0 |
-| Audio Codec       | - SBC and aptX™<sup>4</sup>                                                                                                                                             |
+| Audio Codec       | - SBC and aptX<sup>4</sup>                                                                                                                                             |
 | Buttons/controls  | - Power button, Microsoft Teams button, Volume dial (right ear), Noise Cancellation dial (left ear), Single ear cup tap (Mute)                                       |
 | What’s in the box | - Surface Headphones 2+<br>- Carrying case<br>- USB cable<br>- Audio cable<br>- Surface USB Link (USB-A)4<br>- Quick Start Guide<br>- Safety and warranty documents |
 | Warranty          | - 1-year limited hardware warranty<sup>5</sup>                                                                                                                          |
@@ -85,7 +85,7 @@ The USB dongle and ear pads for Surface Headphones + are available as replacemen
 | Dimensions            | - Length: 0.75” (19.0 mm) <br>- Width: 0.57” (14.4 mm) <br>- Depth: 0.27” (6.9 mm) |
 | Weight                | - 0.067 oz (1.9 g)                                                                 |
 | Exterior              | - Colors: Black                                                                    |
-| Wireless Platform     | - Bluetooth® 5.0                                                                   |
+| Wireless Platform     | - Bluetooth 5.0                                                                   |
 | Interface             | - USB-A<sup>6</sup> 2.0 full speed                                                     |
 | Compatibility         | - Windows 10/11, macOS 11 / 10.14,<sup>7</sup> Bluetooth 5.0                              |
 | Product Compatibility | - Surface Headphones 2+                                                            |
@@ -103,8 +103,8 @@ The USB dongle and ear pads for Surface Headphones + are available as replacemen
 
 1. Music listening testing conducted by Microsoft in Feb 2021 using prerelease Surface Headphones + Dongle package with prerelease software. The dongle was plugged into Surface Laptop 3 and/or Surface Pro 7. Playlist consisted of 44 songs transmitted using SBC encoding. Volume was set to 46% with maximum noise cancellation. Bluetooth A2DP profile was used. Testing consisted of full Surface Headphones battery discharge while playing audio until the Surface Headphones disconnected from the host device. Battery life depends on device settings, environment, usage, and many other factors.
 2. Voice calling testing conducted by Microsoft in Feb 2021 using prerelease Surface Headphones + Dongle package with prerelease software. The dongle was plugged into Surface Laptop 3 and/or Surface Pro 7. Volume was set to 52% with maximum noise cancellation. Bluetooth Hands-Free profile was used. Testing consisted of full Surface Headphones battery discharge with a Microsoft Teams call until the Surface Headphones disconnected from the host device. Battery life depends on device settings, environment, usage, and many other factors.
-3. USB-A to USB-C® adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length.
-4. AptX™ only works with Surface Headphones 2+ when not using the Surface USB Link.
+3. USB-A to USB-C adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length.
+4. AptX only works with Surface Headphones 2+ when not using the Surface USB Link.
 5. Microsoft’s Limited Warranty is in addition to your consumer law rights.
-6. USB-A to USB-C® adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length
+6. USB-A to USB-C adapter should work for a C-capable source. Performance varies based on the quality of the adapter and the cable length
 7. To pair your replacement Surface USB Link to Surface Headphones 2+, you'll need the Surface App available on devices running Windows 10 or Windows 11. Or you can download the [Surface App](https://apps.microsoft.com/store/detail/surface/9WZDNCRFJB8P?hl=) from the Microsoft Store (version 61.5058.139 or later).

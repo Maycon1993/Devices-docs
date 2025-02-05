@@ -32,7 +32,7 @@ Surface Hub devices will receive driver and firmware updates until the date list
 
 This update:
 
-* Addresses a potential security vulnerability related to Intel® Security Advisories INTEL-SA-00999, INTEL-SA-01083 & INTEL-SA-01071.
+* Addresses a potential security vulnerability related to Intel Security Advisories INTEL-SA-00999, INTEL-SA-01083 & INTEL-SA-01071.
 * Addresses data collection regulatory requirements and updates the consent experience for data transmission.
 
 This release contains the following components. The specific components installed are based on your device's configuration:
