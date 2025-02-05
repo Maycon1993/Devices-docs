@@ -22,7 +22,7 @@ All updates are cumulative, meaning installing the latest update  includes all i
 Surface Hub devices will receive driver and firmware updates until the date listed in the [Surface Hub devices driver and firmware lifecycle](surface-hub-driver-firmware-accessories-lifecycle.md).
 
 > [!TIP]
-> This page is refreshed as new updates are released. Please refer to the [Surface Hub Important Information](https://support.microsoft.com/products/surface-devices/surface-hub) page for related topics on current and past releases that may require your attention.
+> This page is refreshed as new updates are released.
 
 ## Improvements and fixes in the updates
 
