@@ -20,9 +20,9 @@ appliesto:
 | Pricing | Starting at $21,999 |
 | Size | 46.12” x 86.7” x 4.15” (1171.5mm x 2202.9mm x 105.4mm) |
 | Storage/RAM | SSD 128GB with 8GB RAM |
-| Processor | 4th Generation Intel® Core™ i7 |
+| Processor | 4th Generation Intel Core i7 |
 | Graphics | NVIDIA Quadro K2200 |
-| Ports | **Internal PC**<br>• (1) USB 3.0 (bottom) + (1) USB 3.0 (side access)<br>• (4) USB 2.0<br>•  Ethernet 1000 Base-T<br>• DisplayPort Video Output<br>• 3.5mm Stereo Out<br>• RJ11 Connector for system-level control<br>**Alternate PC**<br>• (2) USB 2.0 type B output<br>•  connection for Camera, Sensors, Microphone, Speakers<br>• (2) DisplayPort Video Input<br>**Guest PC**<br>• DisplayPort Video Input<br>• HDMI Video Input<br>• VGA Video Input<br>• 3.5mm Stereo Input<br>• (1) USB 2.0 type B Touchback™ Output |
+| Ports | **Internal PC**<br>• (1) USB 3.0 (bottom) + (1) USB 3.0 (side access)<br>• (4) USB 2.0<br>•  Ethernet 1000 Base-T<br>• DisplayPort Video Output<br>• 3.5mm Stereo Out<br>• RJ11 Connector for system-level control<br>**Alternate PC**<br>• (2) USB 2.0 type B output<br>•  connection for Camera, Sensors, Microphone, Speakers<br>• (2) DisplayPort Video Input<br>**Guest PC**<br>• DisplayPort Video Input<br>• HDMI Video Input<br>• VGA Video Input<br>• 3.5mm Stereo Input<br>• (1) USB 2.0 type B Touchback Output |
 | Sensors  | (2) Passive Infrared Presence Sensors, Ambient Light Sensors |
 | Speakers | (2) Front-facing stereo speakers |
 | Microphone | High-Performance, 4-Element Array |

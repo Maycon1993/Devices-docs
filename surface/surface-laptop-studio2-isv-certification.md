@@ -24,14 +24,14 @@ Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU is tested
 | **Autodesk Maya**               | Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM is tested and verified by Microsoft:<br><br>- RTX-accelerated ray tracing and AI denoising with the Arnold renderer.<br>- OpenGL viewport acceleration.<br>- Up to twice the performance on Maya workloads compared to the previous model with RTX A2000. |
 | **Autodesk Revit**              | Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM provides a smoother, more interactive design experience with GPU-accelerated viewports and supports non-Microsoft renderers like V-Ray and Enscape. |
 | **Bentley MicroStation**        | Bentley MicroStation is supported on Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM, as tested and verified by Microsoft. |
-| **McNeel & Associates Rhino 3D®** | Rhino 7 is supported on Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM, providing a smooth modeling experience with GPU-accelerated viewports and support for GPU-based 3D rendering. |
+| **McNeel & Associates Rhino 3D** | Rhino 7 is supported on Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM, providing a smooth modeling experience with GPU-accelerated viewports and support for GPU-based 3D rendering. |
 | **Siemens Solid Edge 2023**     | Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM is certified by Siemens for Solid Microsoft Edge. |
 | **Dassault Systèmes SOLIDWORKS** | Certified and recommended by Dassault Systèmes, the Surface Laptop Studio 2 provides enhanced performance on SOLIDWORKS with features such as GPU-accelerated ray tracing and AI denoising. Performance benchmarks show up to 80% improvement on SOLIDWORKS and up to 60% improvement on CATIA workloads compared to the RTX A2000 model. |
 | **PTC Creo**                    | Surface Laptop Studio 2 with NVIDIA RTX 2000 Ada Generation Laptop GPU and 8 GB GDDR6 VRAM is certified for PTC Creo, providing accelerated performance for real-time simulation tools built on CUDA, with up to 60% better performance than the RTX A2000 model. |
 
 ## Adobe applications
 
-Microsoft Surface engineering collaborates with Adobe to ensure that Surface Laptop Studio 2 is optimized for Adobe® Creative Cloud™ applications.
+Microsoft Surface engineering collaborates with Adobe to ensure that Surface Laptop Studio 2 is optimized for Adobe Creative Cloud applications.
 
 | App                         | Description                                                                                                                                                                                                                                       |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

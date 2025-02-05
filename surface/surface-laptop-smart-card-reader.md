@@ -15,7 +15,7 @@ appliesto:
 
 # Surface Laptop Smart Card Reader Overview
 
-In an era where digital security is paramount, Surface Laptop for Business, with Intel® Core™ Ultra processors, offers an optional Smart Card Reader on select 15" models. 
+In an era where digital security is paramount, Surface Laptop for Business, with Intel Core Ultra processors, offers an optional Smart Card Reader on select 15" models. 
 
 :::image type="content" source="images/surface-laptop-smart-card-reader.png" alt-text="Screenshot of optional Smart Card Reader on Surface Laptop.":::
 

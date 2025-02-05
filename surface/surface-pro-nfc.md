@@ -47,11 +47,11 @@ The NFC reader is located in the upper left bezel of the device, under the displ
 
 ### Imprivata Enterprise Access Management (EAM)
 
-Certified Surface devices with built-in NFC enhance security and productivity by providing fast, seamless access to Imprivata workstations and applications. With Imprivata’s *No Click Access®*, users can tap their NFC-enabled badge to sign in or out of their Surface device.  
+Certified Surface devices with built-in NFC enhance security and productivity by providing fast, seamless access to Imprivata workstations and applications. With Imprivata’s *No Click Access*, users can tap their NFC-enabled badge to sign in or out of their Surface device.  
 
 Surface devices certified for Imprivata include:
 
-- Surface Pro 11th Edition, Intel® processor  
+- Surface Pro 11th Edition, Intel processor  
 - Surface Pro 10 for Business, Wi-Fi only  
 - Surface Go 4 for Business  
 

@@ -53,9 +53,9 @@ Built for Thunderbolt 4 Docks, these PowerShell scripts offer policy creation, p
 
 | Script                                  | Summary                                                                                           |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------|
-| CreateSurfaceThunderbolt(TM)4DockCertificates | Generates self-signed certificates for testing SEMM with Surface Thunderbolt™ 4 Dock in nonproduction environments. |
-| ResetSEMM - Thunderbolt(TM)4Dock        | Creates a package to remove SEMM from a Surface Thunderbolt™ 4 Dock.                               |
-| VerifyDockSettings                      | Displays the settings currently applied to the connected Surface Thunderbolt™ 4 Dock.              |
+| CreateSurfaceThunderbolt(TM)4DockCertificates | Generates self-signed certificates for testing SEMM with Surface Thunderbolt 4 Dock in nonproduction environments. |
+| ResetSEMM - Thunderbolt(TM)4Dock        | Creates a package to remove SEMM from a Surface Thunderbolt 4 Dock.                               |
+| VerifyDockSettings                      | Displays the settings currently applied to the connected Surface Thunderbolt 4 Dock.              |
 
 ### Surface Dock 2 Scripts
 

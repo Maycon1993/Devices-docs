@@ -25,7 +25,7 @@ Surface devices are capable of Wake On LAN (WOL) from Modern Standby (also known
 
 Ethernet adapters with support for WOL:
 
-- Surface Thunderbolt™ 4 Dock
+- Surface Thunderbolt 4 Dock
 - Surface Dock 2
 - Surface Dock
 - Microsoft USB-C Travel Hub
