@@ -17,17 +17,17 @@ appliesto:
 
 ## Introduction
 
-Surface Book 3 integrates fully modernized compute and graphics capabilities into its famous detachable form factor.  Led by the quad-core 10th Gen Intel® Core™ i7 and NVIDIA® Quadro RTX™ 3000 graphical processing unit (GPU) on the 15-inch model, Surface Book 3 comes in a wide range of configurations for consumers, creative professionals, architects, engineers, and data scientists. This article explains the major differences between the GPU configurations across 13-inch and 15-inch models of Surface Book 3.
+Surface Book 3 integrates fully modernized compute and graphics capabilities into its famous detachable form factor.  Led by the quad-core 10th Gen Intel Core i7 and NVIDIA Quadro RTX 3000 graphical processing unit (GPU) on the 15-inch model, Surface Book 3 comes in a wide range of configurations for consumers, creative professionals, architects, engineers, and data scientists. This article explains the major differences between the GPU configurations across 13-inch and 15-inch models of Surface Book 3.
 
 A significant differentiator across Surface Book 3 models is the GPU configuration. In addition to the integrated Intel GPU built into all models, all but the entry-level 13.5-inch Core i5 device also features a discrete NVIDIA GPU with Max-Q Design, which incorporates features that optimize energy efficiency for mobile form factors.
 
-Built into the keyboard base, the extra NVIDIA GPU provides advanced graphics rendering capabilities and comes in two primary configurations: GeForce® GTX® 1650/1660 Ti for consumers or creative professionals and Quadro RTX 3000 for creative professionals, engineers, and other business professionals who need advanced graphics or deep learning capabilities. This article also describes how to optimize app utilization of GPUs by specifying which apps should use the integrated iGPU versus the discrete NVIDIA GPU.
+Built into the keyboard base, the extra NVIDIA GPU provides advanced graphics rendering capabilities and comes in two primary configurations: GeForce GTX 1650/1660 Ti for consumers or creative professionals and Quadro RTX 3000 for creative professionals, engineers, and other business professionals who need advanced graphics or deep learning capabilities. This article also describes how to optimize app utilization of GPUs by specifying which apps should use the integrated iGPU versus the discrete NVIDIA GPU.
 
 ## Surface Book 3 GPUs
 
 This section describes the integrated and discrete GPUs across Surface Book 3 models. For configuration details of all models, refer to [Appendix A: Surface Book 3 SKUs](#appendix-a-surface-book-3-skus).
 
-### Intel Iris™ Plus Graphics
+### Intel Iris Plus Graphics
 
 The integrated GPU (iGPU) included on all Surface Book 3 models incorporates a wider graphics engine and a redesigned memory controller with support for LPDDR4X. Installed as the secondary GPU on most Surface Book 3 models, Intel Iris Plus Graphics functions as the singular GPU in the Core i5, 13.5-inch model. Although nominally the entry-level device in the Surface Book 3 line, it delivers advanced graphics capabilities enabling consumers, hobbyists, and online creators to run the latest productivity software like Adobe Creative Cloud or enjoy gaming titles in 1080p.  
 
@@ -135,7 +135,7 @@ In some instances, the OS may assign a graphically demanding app to be iGPU; for
 
 | **Display**   | **Processor**                     | **GPU**                                                                                              | **RAM**    | **Storage** |
 | ------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------- | ----------- |
-| **13.5-inch** | Quad-core 10th Gen Core i5-1035G7 | Intel Iris™ Plus Graphics                                                                            | 16 LPDDR4x | 256 GB      |
+| **13.5-inch** | Quad-core 10th Gen Core i5-1035G7 | Intel Iris Plus Graphics                                                                            | 16 LPDDR4x | 256 GB      |
 | **13.5-inch** | Quad-core 10th Gen Core i7-1065G7 | Intel Iris Plus Graphics<br>NVIDIA GeForce GTX 1650. Max-Q Design with 4 GB GDDR5 graphics memory    | 16 LPDDR4x | 256 GB      |
 | **13.5-inch** | Quad-core 10th Gen Core i7-1065G7 | Intel Iris Plus Graphics<br>NVIDIA GeForce GTX 1650. Max-Q Design with 4 GB GDDR5 graphics memory    | 32 LPDDR4x | 512 GB      |
 | **13.5-inch** | Quad-core 10th Gen Core i7-1065G7 | Intel Iris Plus Graphics<br>NVIDIA GeForce GTX 1650. Max-Q Design with 4 GB GDDR5 graphics memory    | 32 LPDDR4x | 1 TB        |

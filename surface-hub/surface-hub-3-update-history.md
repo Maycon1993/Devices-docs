@@ -22,7 +22,7 @@ All updates are cumulative, meaning installing the latest update  includes all i
 Surface Hub devices will receive driver and firmware updates until the date listed in the [Surface Hub devices driver and firmware lifecycle](surface-hub-driver-firmware-accessories-lifecycle.md).
 
 > [!TIP]
-> This page is refreshed as new updates are released. Please refer to the [Surface Hub Important Information](https://support.microsoft.com/products/surface-devices/surface-hub) page for related topics on current and past releases that may require your attention.
+> This page is refreshed as new updates are released.
 
 ## Improvements and fixes in the updates
 
@@ -32,7 +32,7 @@ Surface Hub devices will receive driver and firmware updates until the date list
 
 This update:
 
-* Addresses a potential security vulnerability related to Intel® Security Advisories INTEL-SA-00999, INTEL-SA-01083 & INTEL-SA-01071.
+* Addresses a potential security vulnerability related to Intel Security Advisories INTEL-SA-00999, INTEL-SA-01083 & INTEL-SA-01071.
 * Addresses data collection regulatory requirements and updates the consent experience for data transmission.
 
 This release contains the following components. The specific components installed are based on your device's configuration:
