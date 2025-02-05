@@ -35,11 +35,11 @@ As the integrated GPU (iGPU) on Surface Laptop Studio, Intel Iris Xe Graphics is
 
 ### Comparing discrete GPUs
 
-NVIDIA GeForce RTX 30 Series and RTX professional GPUs accelerate games, 3D rendering, video editing, graphic design, AI-accelerated workflows, and other tasks. This is enabled by the NVIDIA Ampere architecture:
+NVIDIA GeForce RTX 30 Series and RTX professional GPUs accelerate games, 3D rendering, video editing, graphic design, AI-accelerated workflows, and other tasks.
 
 - Second generation RT Cores and DLSS, providing up to 2x performance boosts in top renderers, including Blender Cycles, Chaos V-Ray, and Autodesk Arnold.
 - Third generation Tensor Cores that accelerate AI features. Tensor Cores also bring AI to graphics with capabilities like DLSS, AI denoising, and enhanced editing for select applications.
-- The best-in-class video encoder (NVENC) and hardware acceleration for ray-traced motion blur, a common technique used in production rendering, is now boosted by up to 5x.
+- The best-in-class video encoder (NVENC) and hardware acceleration for ray-traced motion blur, a common technique used in production rendering.
 
 ### NVIDIA GeForce RTX 3050 Ti Laptop GPU
 
@@ -54,12 +54,12 @@ GeForce RTX 3050 Ti enables:
 
 ### NVIDIA RTX A2000 Laptop GPU
 
-The NVIDIA RTX A2000 offers professional graphics rendering and AI capabilities. This enables demanding professional workflows, including manufacturing and product design, media and entertainment modeling, animating and rendering, architecture, engineering and construction design.
+The NVIDIA RTX A2000 offers professional graphics rendering and AI capabilities. This enables demanding professional workflows, including manufacturing and product design, media and entertainment modeling, animating and rendering, architecture, engineering, and construction design.
 
 NVIDIA RTX A2000 builds on the GeForce RTX 3050 Ti features with the following capabilities:
 
 - Enterprise-grade reliability, including ISV certification for professional apps and enterprise drivers tuned for software compatibility and stability.
-- Enterprise-level hardware, drivers and support.
+- Enterprise-level hardware, drivers, and support.
 - Dedicated IT enterprise tools for remote management that help maximize uptime and minimize IT support requirements.
 - Enhanced support for professional applications using Open GL graphics.
 
@@ -68,7 +68,7 @@ NVIDIA RTX A2000 builds on the GeForce RTX 3050 Ti features with the following c
 | GPU                                         | NVIDIA GeForce RTX 3050 Ti Laptop GPU | NVIDIA RTX A2000 Laptop GPU |
 | ------------------------------------------- | ------------------------------------- | --------------------------- |
 | GPU memory                                  | 4 GB GDDR6                             | 4 GB GDDR6                   |
-| GPU boost clock                             | 1035 Mhz                               | 1207.5 Mhz                   |
+| GPU boost clock                             | 1,035 Mhz                               | 1207.5 Mhz                   |
 | Streaming multiprocessors                   | 2x FP32                               | 2x FP32                     |
 | NVIDIA CUDA processing cores                | 2560                                  | 2560                        |
 | NVIDIA RT cores                             | Second Gen / 20                          | Second Gen / 20                |
