@@ -80,8 +80,8 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 
 | Dock                                            | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |-------------------------------------------------|----------------------|-------------|-------|-----------------|
-| Surface Thunderbolt 4 Dock                         |                  |                    ✓  |  ✓     |                 |
-| Surface Dock 2                                  |                     |             |       | ✓               |
+| Surface Thunderbolt 4 Dock                      |                  |                    ✓  |  ✓     |                 |
+| Surface Dock 2                                  |                     |             |  ✓     | ✓               |
 | Brydge Stone Pro TB4 Dock                       |                     | ✓           |       |                 |
 | Kensington SD4845P Dock                         | ✓                    |             | ✓     |                 |
 | Kensington SD5750T Thunderbolt 4 Dock           | ✓                    | ✓           |       |                 |
@@ -155,7 +155,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Dock                                             | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |--------------------------------------------------|----------------------|-------------|-------|-----------------|
 | Surface Thunderbolt 4 Dock                       |                     | ✓           |   ✓    |                 |
-| Surface Dock 2                                   |                     |             |       | ✓               |
+| Surface Dock 2                                   |                     |             |  ✓     | ✓               |
 | Brydge Stone Pro TB4 Dock                        |                     | ✓           |       |                 |
 | Kensington SD4845P Dock                          | ✓                    |             | ✓     |                 |
 | Kensington SD5750T Thunderbolt 4 Dock            | ✓                    | ✓           |       |                 |
@@ -224,7 +224,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Dock                                                      | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |-----------------------------------------------------------|----------------------|-------------|-------|-----------------|
 | Surface Thunderbolt 4 Dock                                |                      | ✓           |   ✓     |                 |
-| Surface Dock 2                                            |                      |             |       | ✓               |
+| Surface Dock 2                                            |                      |             |    ✓   | ✓               |
 | Surface Dock 1                                            |                      |             |       | ✓               |
 | Brydge Stone Pro TB4 Dock                                 |                     | ✓           |       |                 |
 | Kensington SD4845P Thunderbolt 4 Dock                     | ✓                    | ✓           |       |                 |
@@ -349,7 +349,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Dock                                                      | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |-----------------------------------------------------------|----------------------|-------------|-------|-----------------|
 | Surface Thunderbolt 4 Dock                                |                      | ✓           |       |                 |
-| Surface Dock 2                                            |                      |             |       | ✓               |
+| Surface Dock 2                                            |                      |             |    ✓   | ✓               |
 | Surface Dock 1                                            |                      |             |       | ✓               |
 | Brydge Stone Pro TB4 Dock                                 |                    | ✓           |       |                 |
 | Kensington SD4845P Thunderbolt 4 Dock                     | ✓                    | ✓           |       |                 |
@@ -445,7 +445,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Dock                                                        | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | HDMI | DisplayPort | Surface Connect |
 | ----------------------------------------------------------- |----------------------| ----------- | ----- | ---- | ----------- | --------------- |
 | Surface Thunderbolt 4 Dock (supports [one external monitor](surface-thunderbolt4-dock.md) for Surface Go 4) |                      | ✓           |       |      |             |                 |
-| Surface Dock 2                                              |                      |             |       |      |             | ✓               |
+| Surface Dock 2                                              |                      |             |  ✓     |      |             | ✓               |
 | Surface Dock 1                                              |                      |             |       |      |             | ✓               |
 | Kensington SD4845P Thunderbolt 4 Dock                       | ✓                    | ✓           |       |      |             |                 |
 | Targus DOCK430USZ                                           |                      | ✓           | ✓     | ✓    | ✓           |                 |
