@@ -16,7 +16,7 @@ appliesto:
 
 # Surface for Business service and repair
 
-Built with integrity by design, many Microsoft Surface devices are now easier to repair<sup>1</sup> and maintain, providing commercial customers with greater flexibility while extending the use of devices. 
+Built with integrity by design, many Microsoft Surface devices are now easier to repair<sup>1</sup> and maintain, providing commercial customers with greater flexibility while extending the use of devices.
 
 Commercial customers can obtain service for Surface for Business devices in several ways. You can get service [directly from Microsoft](microsoft-in-region-same-unit-repair.md) or use a third party [Authorized Service Provider](authorized-service-providers.md). Or with skilled technicians, you can repair<sup>2</sup> devices yourself following the applicable [Surface Service Guide](https://www.microsoft.com/download/100440) or [article](https://support.microsoft.com/surface/replace-the-feet-on-surface-devices-791bcf1d-db4a-4807-816e-06d30072383d).
 
@@ -24,7 +24,7 @@ To learn more, see [Surface service options](surface-service-options.md).
 
 ## Surface devices and replacement components
 
-Microsoft recommends that only technically inclined individuals with the knowledge, experience, and requisite tools perform repairs following the relevant [Surface Service Guide instructions](https://www.microsoft.com/download/100440). 
+Microsoft recommends that only technically inclined individuals with the knowledge, experience, and requisite tools perform repairs following the relevant [Surface Service Guide instructions](https://www.microsoft.com/download/100440).
 
 > [!NOTE]
 > Replacement components may be new or refurbished. To learn more about Microsoft's commitment to replacement components, see our [Self-repair information FAQ](https://support.microsoft.com/surface/self-repair-information-for-your-surface-device-56655149-c27a-432a-9936-bacd609a4b03).
@@ -54,7 +54,7 @@ Microsoft recommends that only technically inclined individuals with the knowled
 
 ## Surface service guides & related documentation
 
-Downloadable service guides provide step-by-step instructions for servicing specific devices. This documentation is intended for use by skilled technicians and IT professionals. 
+Downloadable service guides provide step-by-step instructions for servicing specific devices. This documentation is intended for use by skilled technicians and IT professionals.
 
 - [Download service guides](https://www.microsoft.com/download/100440)
 - [Replace the feet on Surface devices](https://support.microsoft.com/surface/replace-the-feet-on-surface-devices-791bcf1d-db4a-4807-816e-06d30072383d)
@@ -83,4 +83,4 @@ Downloadable service guides provide step-by-step instructions for servicing spec
 1. Repairing your device with a replacement component doesn't impact Microsoft's Limited Warranty; however, any damage to the device resulting from a repair performed by someone other than Microsoft or an Authorized Service Provider won't be covered under Microsoft's warranty or protection plan.
 2. Customer self-repair is only available on Microsoft devices with a removable component per the product's technical specifications. Microsoft recommends that self-repair be performed by technically inclined individuals with the knowledge, experience, and required tools while following the applicable [Surface Service Guide](https://www.microsoft.com/download/100440) or [article](https://support.microsoft.com/surface/replace-the-feet-on-surface-devices-791bcf1d-db4a-4807-816e-06d30072383d). Opening or repairing your device can present various risks, such as electric shock, device damage, fire and personal injury risks, and other hazards. Use caution if undertaking do-it-yourself repairs. Further, any resulting damage caused won't be covered under Microsoft's Limited Hardware Warranty or purchased protection plan.
 3. Microsoft's Limited Hardware Warranty is in addition to any right you might have under consumer or other laws applicable to you.
-4. Enclosure for Surface Pro 9 with 5G is only available in select markets and is currently unavailable in the US. 
+4. Enclosure for Surface Pro 9 with 5G is only available in select markets and is currently unavailable in the US.
