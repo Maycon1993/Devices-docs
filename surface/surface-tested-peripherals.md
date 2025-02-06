@@ -109,17 +109,17 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 
 ### Tested cables for Surface Laptop 7th Edition, Intel processor
 
-| Cable                                                  | Designed for Surface <br>(3rd party)| USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI |HDMI to HDMI
-|--------------------------------------------------------|----------------------				|----------------|--------------|----------------------------|----------------------|---------------|---------------|
-| Cable Matters USB-C to USB-C 40 Gbps Cable (201504)     | ✓                    | ✓              | ✓            |                            |                                    |               |               |
-| Cable Matters USB-C to DP Cable (201536)              | ✓                    |                |              |                            | ✓                    |               |                |               |
-| Cable Matters USB-C to HDMI Cable (201562)            | ✓                    |                |              |                            |                      | ✓             |                |               |
-| BlueRigger HDMI Cable                                 |                  			    |             		   |                             |                      |              |                 |   ✓             | 
-| Cable Matters TBT4/USB4 40Gbps                        |                      |                |              | ✓                          |                      |               |                 |               |
-| CableMatters DP Cable (102025) - (DP1.4)                       |                      |                |              | ✓                          |                      |               |                 |               |
-| CalDigit TBTCable                                     |                      |                | ✓            |                            |                      |               |          |               |
-| Monoprice DP Cable  (42994) - (DP2.0)                                   |                      |                |              |                            | ✓                    |               |         |               |
-| StartTech USB C to DP 1.4 Cable(CDP2DP141MBD)                |                      |                |              |                            | ✓                    |               |          |               |
+| Cable                                                  | Designed for Surface (3rd party) | USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI | HDMI to HDMI |
+|--------------------------------------------------------|----------------------------------|----------------|--------------|----------------------------|----------------------|---------------|--------------|
+| Cable Matters USB-C to USB-C 40 Gbps Cable (201504)   | ✓                                | ✓              | ✓            |                            |                      |               |              |
+| Cable Matters USB-C to DP Cable (201536)              | ✓                                |                |              |                            | ✓                    |               |              |
+| Cable Matters USB-C to HDMI Cable (201562)            | ✓                                |                |              |                            |                      | ✓             |              |
+| BlueRigger HDMI Cable                                  |                                  |                |              |                            |                      |               | ✓            |
+| Cable Matters TBT4/USB4 40Gbps                        |                                  |                |              | ✓                          |                      |               |              |
+| Cable Matters DP Cable (102025) - (DP1.4)             |                                  |                |              | ✓                          |                      |               |              |
+| CalDigit TBT Cable                                     |                                  |                | ✓            |                            |                      |               |              |
+| Monoprice DP Cable (42994) - (DP2.0)                  |                                  |                |              |                            | ✓                    |               |              |
+| StarTech USB-C to DP 1.4 Cable (CDP2DP141MBD)         |                                  |                |              |                            | ✓                    |               |              |
 
 ## Surface Pro 11th Edition, Intel processor (Wi-Fi only) & Surface Pro 11th Edition, Intel processor (Wi-Fi + 5G)
 
