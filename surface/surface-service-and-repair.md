@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 09/06/2024
+ms.date: 02/06/2025
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -60,7 +60,7 @@ Downloadable service guides provide step-by-step instructions for servicing spec
 - [Replace the feet on Surface devices](https://support.microsoft.com/surface/replace-the-feet-on-surface-devices-791bcf1d-db4a-4807-816e-06d30072383d)
 
 > [!CAUTION]
-> Opening or repairing your device can present electric shock, device damage, fire and personal injury risks, and other hazards. Use caution if undertaking do-it-yourself repairs. Further, any resulting damage caused will not be covered under Microsoft's Limited Hardware Warranty or purchased protection plan.
+> Opening or repairing your device can present electric shock, device damage, fire and personal injury risks, and other hazards. Use caution if undertaking do-it-yourself repairs. Further, any resulting damage caused won't be covered under Microsoft's Limited Hardware Warranty or purchased protection plan.
 
 ## Support
 
@@ -80,7 +80,7 @@ Downloadable service guides provide step-by-step instructions for servicing spec
 
 ### References
 
-1. Repairing your device with a replacement component does not impact Microsoft's Limited Warranty; however, any damage to the device resulting from a repair performed by someone other than Microsoft or an Authorized Service Provider will not be covered under Microsoft's warranty or protection plan.
-2. Customer self-repair is only available on Microsoft devices with a removable component per the product's technical specifications. Microsoft recommends that self-repair be performed by technically inclined individuals with the knowledge, experience and required tools while following the applicable [Surface Service Guide](https://www.microsoft.com/download/100440) or [article](https://support.microsoft.com/surface/replace-the-feet-on-surface-devices-791bcf1d-db4a-4807-816e-06d30072383d). Opening or repairing your device can present various risks, such as electric shock, device damage, fire and personal injury risks, and other hazards. Use caution if undertaking do-it-yourself repairs. Further, any resulting damage caused will not be covered under Microsoft's Limited Hardware Warranty or purchased protection plan.
+1. Repairing your device with a replacement component doesn't impact Microsoft's Limited Warranty; however, any damage to the device resulting from a repair performed by someone other than Microsoft or an Authorized Service Provider won't be covered under Microsoft's warranty or protection plan.
+2. Customer self-repair is only available on Microsoft devices with a removable component per the product's technical specifications. Microsoft recommends that self-repair be performed by technically inclined individuals with the knowledge, experience, and required tools while following the applicable [Surface Service Guide](https://www.microsoft.com/download/100440) or [article](https://support.microsoft.com/surface/replace-the-feet-on-surface-devices-791bcf1d-db4a-4807-816e-06d30072383d). Opening or repairing your device can present various risks, such as electric shock, device damage, fire and personal injury risks, and other hazards. Use caution if undertaking do-it-yourself repairs. Further, any resulting damage caused won't be covered under Microsoft's Limited Hardware Warranty or purchased protection plan.
 3. Microsoft's Limited Hardware Warranty is in addition to any right you might have under consumer or other laws applicable to you.
 4. Enclosure for Surface Pro 9 with 5G is only available in select markets and is currently unavailable in the US. 
