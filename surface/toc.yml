@@ -231,14 +231,14 @@
           href: surface-pro-arm-app-management.md
         - name: Arm-based Surface devices FAQ
           href: surface-arm-faq.md
-    - name: Troubleshoot
+    - name: Troubleshoot commercial devices
       expanded: true
       items: 
-        - name: Surface portals overview
+        - name: Get help via Surface portals
           href: surface-portals.md
-        - name: Top support solutions for Surface devices
+        - name: Browse top support solutions
           href: support-solutions-surface.md
-        - name: Help for end-users
+        - name: Get help for a consumer device
           href: https://support.microsoft.com/products/surface-devices
         - name: Contact Surface Support for Business & Education
           href: contact-surface-business-education-support.md
