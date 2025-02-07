@@ -23,7 +23,7 @@
            href: surface-security.md    		   
       - name: Accessories
         items:
-         - name: Surface power supplies and charging requirements
+         - name: Surface power supplies & charging requirements
            href: https://support.microsoft.com/surface/surface-power-supplies-and-charging-requirements-0d9d51d4-594b-464d-9086-c90f35b80c01  
          - name: Surface USB4 Dock overview
            href: surface-usb4-dock.md   
@@ -203,8 +203,6 @@
            href: wake-on-lan-surface-dock2.md
          - name: Surface Dock 2 overview
            href: surface-dock2-overview.md          
-         - name: Surface Dock 1 Firmware Update
-           href: surface-dock-firmware-update.md
       - name: Remotely wake devices
         items: 
         - name: Wake-on-LAN for Surface devices
