@@ -53,15 +53,15 @@
         items:      
         - name: Find an authorized reseller
           href: https://www.microsoft.com/surface/business/where-to-buy-microsoft-surface
-        - name: Surface Pro for Business, Copilot+ PC | Intel 
+        - name: Surface Pro for Business, Copilot+ PC Intel 
           href: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc-intel/8qfmn9xp1rl9  
-        - name: Surface Pro for Business, Copilot+ PC | Snapdragon
+        - name: Surface Pro for Business, Copilot+ PC Snapdragon
           href: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc/8nl1w61jw8zm       
         - name: Surface Pro 10 for Business
           href: https://www.microsoft.com/d/surface-pro-10-for-business/8v73d6qwrss1 
-        - name: Surface Laptop for Business, Copilot+ PC | Intel
+        - name: Surface Laptop for Business, Copilot+ PC Intel
           href: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-intel/93dzmw6q4w2b
-        - name: Surface Laptop for Business, Copilot+ PC | Snapdragon
+        - name: Surface Laptop for Business, Copilot+ PC Snapdragon
           href: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-snapdragon/8tkcbz02bdvk        
         - name: Surface Laptop 6 for Business
           href: https://www.microsoft.com/d/surface-laptop-6-for-business/8pz3fvs57qcv        
