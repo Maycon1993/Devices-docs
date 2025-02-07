@@ -234,6 +234,8 @@
     - name: Troubleshoot
       expanded: true
       items: 
+        - name: Surface portals overview
+          href: surface-portals.md
         - name: Top support solutions for Surface devices
           href: support-solutions-surface.md
         - name: Help for end-users
