@@ -1,6 +1,6 @@
 ---
 title: Top support solutions for Surface devices in the enterprise
-description: Discover top support solutions for common issues with Surface devices in the enterprise. Access troubleshooting steps, technical support resources, and guidance for managing and deploying Surface devices effectively.
+description: Find Surface service & repair options for commercial devices, including warranty coverage, self-repair, and replacement services. Learn how to manage repairs efficiently with Microsoft support tools.
 ms.assetid: CF58F74D-8077-48C3-981E-FCFDCA34B34A
 ms.reviewer: alionita;cchauvet;ramakoni
 manager: frankbu
@@ -8,7 +8,7 @@ ms.service: surface
 author: coveminer
 ms.author: chauncel
 ms.topic: troubleshooting
-ms.date: 08/09/2024
+ms.date: 02/07/2025
 ms.localizationpriority: medium
 appliesto:
   - Windows 10
@@ -17,18 +17,14 @@ appliesto:
 
 # Top support solutions for Surface devices
 
-> [!NOTE]
-> **Home users**: This article is only intended for use by IT professionals and technical support agents, and applies only to Surface devices. If you're looking for help with a problem with your home device, please see [Surface Devices Help](https://support.microsoft.com/products/surface-devices).
+This page highlights common issues using Surface devices in an enterprise. If your issue isn't listed here, contact [Surface Support for Business and Education customers](https://surface.com/help).
 
-This page highlights support solutions for common issues you might experience using Surface devices in an enterprise. If your issue isn't listed here, contact [Surface Support for Business and Education customers](https://surface.com/help).
+## Surface Support Portal
 
-## Warranty and service
+The [Surface Support Portal](surface-support-portal.md) provides a centralized solution for commercial and education customers to create service requests, track the status of device repairs, and look up current warranty and protection plans. 
 
-### Self-serve via the Surface Support Portal
+Already have a Microsoft 365 tenant? Access the portal [here](https://admin.microsoft.com/adminportal#/homepage).
 
-The [Surface Support Portal](surface-support-portal.md) provides a centralized solution for commercial and education customers to look up current warranty and protection plans, create service requests, and track the status of device repairs. The portal can be accessed [here](https://admin.microsoft.com/adminportal#/homepage) and is subject to an initial access authorization.
-
-US and Canada Customers who don't currently have an Intune or Microsoft 365 subscription: an enhanced Support experience is now available for your region. To sign up, follow these onboarding steps: [Streamline access to Surface Support Portal](/surface/surface-support-portal#streamline-access-to-surface-support-portal)
 
 ## Technical support scenarios
 
@@ -38,6 +34,9 @@ US and Canada Customers who don't currently have an Intune or Microsoft 365 subs
 - [Download drivers and firmware for Surface](https://support.microsoft.com/surface/download-drivers-and-firmware-for-surface-09bb2e09-2a4b-cb69-0951-078a7739e120)
 - [Manage and deploy Surface driver and firmware updates](manage-surface-driver-and-firmware-updates.md)
 - [How to manage Surface driver updates in Configuration Manager](manage-surface-driver-updates-configuration-manager.md)
+
+> [!NOTE]
+> If you need help with a consumer device, see [Surface Devices Help](https://support.microsoft.com/products/surface-devices).
 
 ### Next troubleshooting steps
 
