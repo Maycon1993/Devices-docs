@@ -16,7 +16,7 @@ appliesto:
 
 # Surface service and repair options  
 
-Most newer Surface devices support [repair or replacement of key components]((surface-service-and-repair.md)) like the SSD, keyboard, or display. With a new Surface for Business device, you get service and repair[<sup>1</sup>](#references) options to extend its lifespan.  
+Most newer Surface devices support [repair or replacement of key components](surface-service-and-repair.md) like the SSD, keyboard, or display. With a new Surface for Business device, you get service and repair[<sup>1</sup>](#references) options to extend its lifespan.  
 
 If your Surface stops working, there are several ways to service, repair, or replace its components.  
 
