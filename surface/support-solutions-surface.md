@@ -1,6 +1,6 @@
 ---
 title: Top support solutions for Surface devices in the enterprise
-description: Discover top support solutions for common issues with Surface devices in the enterprise. Access troubleshooting steps, technical support resources, and guidance for managing and deploying Surface devices effectively.
+description: Find Surface service & repair options for commercial devices, including warranty coverage, self-repair, and replacement services. Learn how to manage repairs efficiently with Microsoft support tools.
 ms.assetid: CF58F74D-8077-48C3-981E-FCFDCA34B34A
 ms.reviewer: alionita;cchauvet;ramakoni
 manager: frankbu
@@ -8,7 +8,7 @@ ms.service: surface
 author: coveminer
 ms.author: chauncel
 ms.topic: troubleshooting
-ms.date: 08/09/2024
+ms.date: 02/07/2025
 ms.localizationpriority: medium
 appliesto:
   - Windows 10
