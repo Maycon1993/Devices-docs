@@ -47,6 +47,40 @@ The growing ASP network consists of over 160 locations and continues to expand a
 
 The Americas provide extensive repair services with ASPs available in Canada and the United States, supporting both consumers and businesses.
 
+#### United States
+
+| Authorized Service Provider                                      | Onsite Repair | Notes                                   |
+|------------------------------------------------------------------|--------------|-----------------------------------------|
+| [Applied Data Technologies](https://applieddatatech.com/)        | ✔            |                                         |
+| [Cell Tech](https://www.celltech-usa.com/services.html)          |              |                                         |
+| [Checkpoint Services](https://www.checkpoint.com/)               | ✔            |                                         |
+| [CompuCom](https://www.compucom.com/)                            | --           |                                         |
+| [Compugen](https://www.compugen.us/)                             | ✔            |                                         |
+| [Connection](https://www.connection.com/)                        | --           |                                         |
+| [Converge Technology Solutions](https://convergetp.com/digital-workplace/) | -- | |
+| [Coreio](https://www.coreio.com/)                                | ✔            |                                         |
+| [DHE](https://www.dhecs.com/)                                    | ✔            |                                         |
+| [DI Technology Group Inc](https://store.dataimpressions.com/)    | --           |                                         |
+| [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/) | -- | |
+| [DXC Technology](https://dxc.com/us)                             | --           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [GlobalAsset](https://globalassetonline.com/)                    | --           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)  |
+| [Insight](https://www.insight.com/)                              | ✔            |                                         |
+| [Integration Technologies Group](https://www.itgonline.com/)     | ✔            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [IT savvy](https://www.itsavvy.com/)                             | --           |                                         |
+| [MCPC](https://www.mcpc.com/)                                    | ✔            |                                         |
+| [MicroK12](https://microk12.com/)                                | ✔            |                                         |
+| [Mobile ME IT](https://mobilemeit.com/)                          | --           |                                         |
+| [Netsync Network Solutions](https://www.netsync.com/services/managed-services/microsoft-asp/) | ✔ | |
+| [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/) | ✔ | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [ProTech Computer Systems, Inc](https://www.protsys.com/)        | --           |                                         |
+| [Sterling](https://sterling.com/)                                | --           |                                         |
+| [TD SYNNEX](https://www.synnexcorp.com/us/)                      | --           |                                         |
+| [Trafera](https://www.trafera.com/)                              | --           |                                         |
+| [uBreakiFix](https://ubreakifix.com/repairs)                     | --           | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services |
+| [UDT](https://udtonline.com/)                                    | --           |                                         |
+| [Zones](https://www.zones.com/site/statics/static_page.html?name=it-lifecycle-services/it-depot-services) | -- | |
+
 #### Canada
 
 | Authorized Service Provider                                      | Onsite Repair | Notes                                   |
@@ -61,40 +95,6 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Microserve](https://www.microserve.ca/)                         | ✔             |                                         |
 | [TD SYNNEX](https://www.synnexcorp.com/ca/)                      | --            |                                         |
 | [WBM Technologies](https://www.wbm.ca/)                          | ✔             |                                         |
-
-#### United States
-
-| Authorized Service Provider                                      | Onsite Repair | Notes                                   |
-|------------------------------------------------------------------|---------------|-----------------------------------------|
-| [Applied Data Technologies](https://applieddatatech.com/)        | ✔             |                                         |
-| [Cell Tech](https://www.celltech-usa.com/services.html)               | ✔             |                                         |
-| [Checkpoint Services](https://www.checkpoint.com/)               | ✔             |                                         |
-| [CompuCom](https://www.compucom.com/)                            | --            |                                         |
-| [Compugen](https://www.compugen.us/)                             | ✔             |                                         |
-| [Connection](https://www.connection.com/)                        | --            |                                         |
-| [Converge Technology Solutions](https://convergetp.com/digital-workplace/) | --       |                                         |
-| [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
-| [DHE](https://www.dhecs.com/)                                    | ✔             |                                         |
-| [DI Technology Group Inc](https://store.dataimpressions.com/)    | --            |                                         |
-| [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/) | --     |                                         |
-| [DXC Technology](https://dxc.com/us)                             | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [GlobalAsset](https://globalassetonline.com/)                    | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)  |
-| [Insight](https://www.insight.com/)                              | ✔            |                                         |
-| [Integration Technologies Group](https://www.itgonline.com/)     | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [IT savvy](https://www.itsavvy.com/)                             | --            |                                         |
-| [MCPC](https://www.mcpc.com/)                                    | ✔             |                                         |
-| [MicroK12](https://microk12.com/)                                | ✔             |                                         |
-| [Mobile ME IT](https://mobilemeit.com/)                          | --            |                                         |
-| [Netsync Network Solutions](https://www.netsync.com/services/managed-services/microsoft-asp/) | ✔   |                                         |
-| [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/) | ✔   | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                         |
-| [ProTech Computer Systems, Inc](https://www.protsys.com/)        | --            |                                         |
-| [Sterling](https://sterling.com/)                                | --            |                                         |
-| [TD SYNNEX](https://www.synnexcorp.com/us/)                      | --            |                                         |
-| [Trafera](https://www.trafera.com/)                              | --            |                                         |
-| [uBreakiFix](https://ubreakifix.com/repairs)                     | --            | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services |
-| [UDT](https://udtonline.com/)                                    | --            |                                         |
-| [Zones](https://www.zones.com/site/statics/static_page.html?name=it-lifecycle-services/it-depot-services)              | --            |                                         |
 
 </details>
 
