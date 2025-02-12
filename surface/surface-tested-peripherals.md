@@ -32,9 +32,11 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 
 | Device                     | Tested Monitors            | Tested Docks              | Tested Cables             | Tested Adapters           |
 |----------------------------|----------------------------|---------------------------|---------------------------|---------------------------|
-| Surface Laptop (7th Edition)   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition) | [Docks](#tested-docks-for-surface-laptop-7th-edition) | [Cables](#tested-cables-for-surface-laptop-7th-edition) | [Adapters](#tested-adapters-for-surface-laptop-7th-edition)|
-| Surface Pro (11th Edition - Wi-Fi only)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition) | [Docks](#tested-docks-for-surface-pro-11th-edition) | [Cables](#tested-cables-for-surface-pro-11th-edition) |[Adapters](#tested-adapters-for-surface-pro-11th-edition)  |
-| Surface Pro (11th Edition – Wi-Fi + 5G)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition) | [Docks](#tested-docks-for-surface-pro-11th-edition) | [Cables](#tested-cables-for-surface-pro-11th-edition) |[Adapters](#tested-adapters-for-surface-pro-11th-edition)  |
+| Surface Laptop 7th Edition, Intel processor (Wi-Fi only)   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-intel-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-intel-processor) | |
+| Surface Pro 11th Edition, Intel processor   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-cables-for-surface-pro-11th-edition-intel-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-intel-processor) | |
+| Surface Laptop 7th Edition, Qualcomm processor   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-qualcomm-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-qualcomm-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-qualcomm-processor) | [Adapters](#tested-adapters-for-surface-laptop-7th-edition-qualcomm-processor)|
+| Surface Pro 11th Edition, Qualcomm processor (Wi-Fi only)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-qualcomm-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-qualcomm-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-qualcomm-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-qualcomm-processor)  |
+| Surface Pro 11th Edition, Qualcomm processor (Wi-Fi + 5G)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-qualcomm-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-qualcomm-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-qualcomm-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-qualcomm-processor)  |
 | Surface Pro 10              | [Monitors](#tested-monitors-for-surface-pro-10)          | [Docks](#tested-docks-for-surface-pro-10)          | [Cables](#tested-cables-for-surface-pro-10) | |
 | Surface Pro 10 with 5G   | [Monitors](#tested-monitors-for-surface-pro-10-with-5g) | [Docks](#tested-docks-for-surface-pro-10-with-5g) | [Cables](#tested-cables-for-surface-pro-10-with-5g) | |
 | Surface Laptop 6   | [Monitors](#tested-monitors-for-surface-laptop-6) | [Docks](#tested-docks-for-surface-laptop-6) | [Cables](#tested-cables-for-surface-laptop-6) |  |
@@ -45,10 +47,159 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | Surface Pro 9 with 5G      | [Monitors](#tested-monitors-for-surface-pro-9-with-5g)  | [Docks](#tested-docks-for-surface-pro-9-with-5g)  | [Cables](#tested-cables-for-surface-pro-9-with-5g) | [Adapters](#tested-adapters-for-surface-pro-9--surface-pro-9-with-5g) |
 | Surface Thunderbolt 4 Dock | [Monitors](#tested-monitors-for-surface-thunderbolt-4-dock) |                          | [Cables](#tested-cables-for-surface-thunderbolt-4-dock) | [Adapters](#tested-adapters-for-surface-thunderbolt-4-dock) |
 
+## Surface Laptop 7th Edition, Intel processor
 
-## Surface Laptop (7th Edition)
+### Tested monitors for Surface Laptop 7th Edition, Intel processor
 
-### Tested monitors for Surface Laptop (7th Edition)
+| Monitors            | Designed for Surface (3rd party) | Thunderbolt | USB-C | DisplayPort | HDMI |
+| ----------------------- | -------------------------------- | ----------- | ----- | ----------- | ---- |
+| ViewSonic(DFS) VG245    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VG275    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VP275-4K | ✓                                |             | ✓     | ✓           | ✓    |
+| Acer Predator X27U      |                                  |             |       | ✓           | ✓    |
+| Acer SB272 EBI          |                                  |             |       | ✓           | ✓    |
+| Asus PA247CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA278CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA329CRV           |                                  |             | ✓     | ✓           | ✓    |
+| ASUS PA32UCX-PK         |                                  | TBT3        |       | ✓           | ✓    |
+| Dell C2422HE            |                                  |             |       | ✓           | ✓    |
+| Dell E2424HS            |                                  |             |       | ✓           | ✓    |
+| Dell P2425HE            |                                  |             |       | ✓           | ✓    |
+| Dell P2720DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P2723QE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P3223DE            |                                  |             | ✓    | ✓           | ✓    |
+| Dell S2722DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U2722DE            |                                  | TBT4        | ✓     | ✓           | ✓    |
+| Dell U2724D             |                                  | TBT4        |       | ✓           | ✓    |
+| Dell U2724DE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U3224KB            |                                  |             | ✓  (no DP Alt Mode)   | ✓           | ✓    |
+| Dell U3421WE            |                                  |             |       | ✓           | ✓    |
+| Dell U3423WE            |                                  |             |       | ✓           | ✓    |
+| Dell U4323QE            |                                  |             |       | ✓           | ✓    |
+| Dell UP2720Q            |                                  | TBT3        |       | ✓           | ✓    |
+| Lenovo P27U-20          |                                  | TBT4        |       | ✓           | ✓    |
+| LG 27BN85UN-B           |                                  |             |       | ✓           | ✓    |
+| LG 27GP95U-B            |                                  |             |       | ✓           | ✓    |
+| Samsung F24T454GYN      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung F32TU870VC      |                                  | TBT3        |       | ✓           | ✓    |
+| Samsung S27B800PXC      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S34C650VA       |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D600E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D600U        |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D700E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800U        |                                  |             | ✓     | ✓           | ✓    |
+| Viewsonic VA2447-MH     |                                  |             |       | ✓           | ✓    |
+
+### Tested docks for Surface Laptop 7th Edition, Intel processor
+
+
+| Dock                                        | Designed for Surface | Thunderbolt | USB-C | Surface Connect | DisplayPort | HDMI |
+| ------------------------------------------- | -------------------- | ----------- | ----- | --------------- | ----------- | ---- |
+| Surface Thunderbolt 4 Dock                  |                      | ✓           | ✓     |                 |             |      |
+| Surface Dock 2                              |                      |             | ✓     | ✓               |             |      |
+| Brydge Stone Pro TB4 Dock (DFS)             | ✓                    | ✓           |       |                 |             |      |
+| Kensington SD4845P Dock (DFS)               | ✓                    |             |       |                 | ✓         | ✓  |
+| Kensington SD5750T Thunderbolt 4 Dock (DFS) | ✓                    | ✓        |       |                 |             |      |
+| Dell Dock WD19DC USB-C                      |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell UD22 USB-C Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD19S 180W Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD22TB4 Dock                           |                      | ✓        | ✓     |                   | ✓         | ✓  |
+| Plugable TBT4-UDZ                           |                      |             |       |                 | ✓         | ✓  |
+
+
+### Tested cables for Surface Laptop 7th Edition, Intel processor
+
+| Cable                                                  | Designed for Surface (3rd party) | USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI | HDMI to HDMI |
+|--------------------------------------------------------|----------------------------------|----------------|--------------|----------------------------|----------------------|---------------|--------------|
+| Cable Matters USB-C to USB-C 40 Gbps Cable (201504)   | ✓                                | ✓              | ✓            |                            |                      |               |              |
+| Cable Matters USB-C to DP Cable (201536)              | ✓                                |                |              |                            | ✓                    |               |              |
+| Cable Matters USB-C to HDMI Cable (201562)            | ✓                                |                |              |                            |                      | ✓             |              |
+| BlueRigger HDMI Cable                                  |                                  |                |              |                            |                      |               | ✓            |
+| Cable Matters TBT4/USB4 40Gbps                        |                                  |                |              | ✓                          |                      |               |              |
+| Cable Matters DP Cable (102025) - (DP1.4)             |                                  |                |              | ✓                          |                      |               |              |
+| CalDigit TBT Cable                                     |                                  |                | ✓            |                            |                      |               |              |
+| Monoprice DP Cable (42994) - (DP2.0)                  |                                  |                |              |                            | ✓                    |               |              |
+| StarTech USB-C to DP 1.4 Cable (CDP2DP141MBD)         |                                  |                |              |                            | ✓                    |               |              |
+
+## Surface Pro 11th Edition, Intel processor (Wi-Fi only) & Surface Pro 11th Edition, Intel processor (Wi-Fi + 5G)
+
+This section includes test results for both Surface Pro (11th Edition Wi-Fi only) and Surface Pro (11th Edition – Wi-Fi + 5G).
+
+### Tested monitors for Surface Pro 11th Edition, Intel processor
+
+| Monitors            | Designed for Surface (3rd party) | Thunderbolt | USB-C | DisplayPort | HDMI |
+| ----------------------- | -------------------------------- | ----------- | ----- | ----------- | ---- |
+| ViewSonic(DFS) VG245    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VG275    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VP275-4K | ✓                                |             | ✓     | ✓           | ✓    |
+| Acer Predator X27U      |                                  |             |       | ✓           | ✓    |
+| Acer SB272 EBI          |                                  |             |       | ✓           | ✓    |
+| Asus PA247CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA278CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA329CRV           |                                  |             | ✓     | ✓           | ✓    |
+| ASUS PA32UCX-PK         |                                  | TBT3        |       | ✓           | ✓    |
+| Dell C2422HE            |                                  |             |       | ✓           | ✓    |
+| Dell E2424HS            |                                  |             |       | ✓           | ✓    |
+| Dell P2425HE            |                                  |             |       | ✓           | ✓    |
+| Dell P2720DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P2723QE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P3223DE            |                                  |             | ✓    | ✓           | ✓    |
+| Dell S2722DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U2722DE            |                                  | TBT4        | ✓     | ✓           | ✓    |
+| Dell U2724D             |                                  | TBT4        |       | ✓           | ✓    |
+| Dell U2724DE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U3224KB            |                                  |             | ✓  (no DP Alt Mode)   | ✓           | ✓    |
+| Dell U3421WE            |                                  |             |       | ✓           | ✓    |
+| Dell U3423WE            |                                  |             |       | ✓           | ✓    |
+| Dell U4323QE            |                                  |             |       | ✓           | ✓    |
+| Dell UP2720Q            |                                  | TBT3        |       | ✓           | ✓    |
+| Lenovo P27U-20          |                                  | TBT4        |       | ✓           | ✓    |
+| LG 27BN85UN-B           |                                  |             |       | ✓           | ✓    |
+| LG 27GP95U-B            |                                  |             |       | ✓           | ✓    |
+| Samsung F24T454GYN      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung F32TU870VC      |                                  | TBT3        |       | ✓           | ✓    |
+| Samsung S27B800PXC      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S34C650VA       |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D600E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D600U        |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D700E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800U        |                                  |             | ✓     | ✓           | ✓    |
+| Viewsonic VA2447-MH     |                                  |             |       | ✓           | ✓    |
+
+### Tested docks for Surface Pro 11th Edition, Intel processor
+
+| Dock                                        | Designed for Surface | Thunderbolt | USB-C | Surface Connect | DisplayPort | HDMI |
+| ------------------------------------------- | -------------------- | ----------- | ----- | --------------- | ----------- | ---- |
+| Surface Thunderbolt 4 Dock                  |                      | ✓           | ✓     |                 |             |      |
+| Surface Dock 2                              |                      |             | ✓     | ✓               |             |      |
+| Brydge Stone Pro TB4 Dock (DFS)             | ✓                    | ✓           |       |                 |             |      |
+| Kensington SD4845P Dock (DFS)               | ✓                    |             |       |                 | ✓         | ✓  |
+| Kensington SD5750T Thunderbolt 4 Dock (DFS) | ✓                    | ✓          |       |                 |             |      |
+| Dell Dock WD19DC USB-C                      |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell UD22 USB-C Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD19S 180W Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD22TB4 Dock                           |                      | ✓           | ✓     |                   | ✓         | ✓  |
+| Plugable TBT4-UDZ                           |                      |             |       |                 | ✓         | ✓  |
+
+### Tested cables for Surface Pro 11th Edition, Intel processor
+
+| Cable                                               | Designed for Surface <br>(3rd party)| USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI |
+|-----------------------------------------------------|----------------------|----------------|--------------|----------------------------|----------------------|---------------|
+| Cable Matters USB-C to USB-C 40 Gbps Cable (201504)  | ✓                    | ✓              | ✓            |                            |                      |               |
+| Cable Matters USB-C to DP Cable (201536)           | ✓                    |                |              |                            | ✓                    |               |
+| Cable Matters USB-C to HDMI Cable (201562)         | ✓                    |                |              |                            |                      | ✓             |
+| Belkin F2CD084bt0.5MBK                              |                      | ✓              |              |                            |                      |               |
+| Cable Matters 107032-BLK-0.8m                      |                      |                |              | ✓                          |                      |               |
+| Cal Digit TBTCable                                  |                      |                | ✓            |                            |                      |               |
+| Club3D DP Cable                                     |                      |                |              |                            | ✓                    |               |
+| Monoprice DP Cable                                  |                      |                |              |                            | ✓                    |               |
+| Moshi USB-C to DP Cable (99MO084102)                |                      |                |              |                            | ✓                    |               |
+
+## Surface Laptop 7th Edition, Qualcomm processor
+
+### Tested monitors for Surface Laptop 7th Edition, Qualcomm processor
 
 | Monitor                               | Designed for Surface <br>(3rd party)| USB-C | DisplayPort | HDMI |
 |---------------------------------------|----------------------|-------|-------------|------|
@@ -76,12 +227,12 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | Samsung S34C650VA                     |                      | ✓     | ✓           | ✓    |
 | ViewSonic VA2447-MH                   |                      |       |             | ✓    |
 
-### Tested docks for Surface Laptop (7th Edition)
+### Tested docks for Surface Laptop 7th Edition, Qualcomm processor
 
 | Dock                                            | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |-------------------------------------------------|----------------------|-------------|-------|-----------------|
-| Surface Thunderbolt 4 Dock                      |                  |                    ✓  |  ✓     |                 |
-| Surface Dock 2                                  |                     |             |  ✓     | ✓               |
+| Surface Thunderbolt 4 Dock |                    |                      |       |                 |
+| Surface Dock 2                                  |                      |             |       | ✓               |
 | Brydge Stone Pro TB4 Dock                       |                     | ✓           |       |                 |
 | Kensington SD4845P Dock                         | ✓                    |             | ✓     |                 |
 | Kensington SD5750T Thunderbolt 4 Dock           | ✓                    | ✓           |       |                 |
@@ -91,8 +242,7 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | HP Thunderbolt Dock 120 W - G2 6HP48AA#ABL      |                      | ✓           |       |                 |
 | Plugable ULT-CDL                                |                      |             | ✓     |                 |
 
-### Tested cables for Surface Laptop (7th Edition)
-
+### Tested cables for Surface Laptop 7th Edition, Qualcomm processor
 
 | Cable                                                  | Designed for Surface <br>(3rd party)| USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI |
 |--------------------------------------------------------|----------------------|----------------|--------------|----------------------------|----------------------|---------------|
@@ -105,7 +255,7 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | Monoprice DP Cable                                    |                      |                |              |                            | ✓                    |               |
 | Moshi USB-C to DP Cable (99MO084102)                  |                      |                |              |                            | ✓                    |               |
 
-### Tested adapters for Surface Laptop (7th Edition)
+### Tested adapters for Surface Laptop 7th Edition, Qualcomm processor
 
 | Adapter                                           | USB-C to DisplayPort | USB-C to HDMI |
 |---------------------------------------------------|----------------------|---------------|
@@ -113,11 +263,11 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | Club-3D USB-C to DP Adapter (CAC-1507)            | ✓                    |               |
 | MSFT USB-C to DP Adapter                          | ✓                    |               |
 
-## Surface Pro (11th Edition - Wi-Fi only) & Surface Pro (11th Edition – Wi-Fi + 5G)
+## Surface Pro 11th Edition, Qualcomm processor (Wi-Fi only) & Surface Pro 11th Edition, Qualcomm processor (Wi-Fi + 5G)
 
 This section includes test results for both Surface Pro (11th Edition Wi-Fi only) and Surface Pro (11th Edition – Wi-Fi + 5G).
 
-### Tested monitors for Surface Pro (11th Edition)
+### Tested monitors for Surface Pro 11th Edition, Qualcomm processor
 
 | Monitor                               | Designed for Surface <br>(3rd party)| USB-C | DisplayPort | HDMI |
 |---------------------------------------|----------------------|-------|-------------|------|
@@ -150,12 +300,12 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Samsung S34C650VA                     |                      | ✓     | ✓           | ✓    |
 | ViewSonic VA2447-MH                   |                      |       |             | ✓    |
 
-### Tested docks for Surface Pro (11th Edition)
+### Tested docks for Surface Pro 11th Edition, Qualcomm processor
 
 | Dock                                             | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |--------------------------------------------------|----------------------|-------------|-------|-----------------|
-| Surface Thunderbolt 4 Dock                       |                     | ✓           |   ✓    |                 |
-| Surface Dock 2                                   |                     |             |  ✓     | ✓               |
+| Surface Thunderbolt 4 Dock|                      | ✓           |       |                 |
+| Surface Dock 2                                   |                      |             |       | ✓               |
 | Brydge Stone Pro TB4 Dock                        |                     | ✓           |       |                 |
 | Kensington SD4845P Dock                          | ✓                    |             | ✓     |                 |
 | Kensington SD5750T Thunderbolt 4 Dock            | ✓                    | ✓           |       |                 |
@@ -165,7 +315,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | HP Thunderbolt Dock 120 W - G2 6HP48AA#ABL       |                      | ✓           |       |                 |
 | Plugable ULT-CDL                                 |                      |             | ✓     |                 |
 
-### Tested adapters for Surface Pro (11th Edition)
+### Tested adapters for Surface Pro 11th Edition, Qualcomm processor
 
 | Adapter                                           | USB-C to DisplayPort | USB-C to HDMI |
 |---------------------------------------------------|----------------------|---------------|
@@ -173,7 +323,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Club-3D USB-C to DP Adapter (CAC-1507)            | ✓                    |               |
 | MSFT USB-C to DP Adapter                          | ✓                    |               |
 
-### Tested cables for Surface Pro (11th Edition)
+### Tested cables for Surface Pro 11th Edition, Qualcomm processor
 
 | Cable                                               | Designed for Surface <br>(3rd party)| USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI |
 |-----------------------------------------------------|----------------------|----------------|--------------|----------------------------|----------------------|---------------|
