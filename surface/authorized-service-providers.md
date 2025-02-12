@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 02/04/2025
+ms.date: 02/12/2025
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -67,6 +67,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | Authorized Service Provider                                      | Onsite Repair | Notes                                   |
 |------------------------------------------------------------------|---------------|-----------------------------------------|
 | [Applied Data Technologies](https://applieddatatech.com/)        | ✔             |                                         |
+| [Cell Tech](https://www.celltech-usa.com/services)               | ✔             |                                         |
 | [Checkpoint Services](https://www.checkpoint.com/)               | ✔             |                                         |
 | [CompuCom](https://www.compucom.com/)                            | --            |                                         |
 | [Compugen](https://www.compugen.us/)                             | ✔             |                                         |
