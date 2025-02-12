@@ -72,7 +72,7 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | Dell U2722DE            |                                  | TBT4        | ✓     | ✓           | ✓    |
 | Dell U2724D             |                                  | TBT4        |       | ✓           | ✓    |
 | Dell U2724DE            |                                  |             | ✓     | ✓           | ✓    |
-| Dell U3224KB            |                                  |             | ✓  (no DP Alt Mode)   | ✓           | ✓    |
+| Dell U3224KB            |                                  |             | ✓  <br>(no DP Alt Mode)   | ✓           | ✓    |
 | Dell U3421WE            |                                  |             |       | ✓           | ✓    |
 | Dell U3423WE            |                                  |             |       | ✓           | ✓    |
 | Dell U4323QE            |                                  |             |       | ✓           | ✓    |
