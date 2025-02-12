@@ -6,7 +6,7 @@ ms.localizationpriority: high
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 10/10/2024
+ms.date: 02/12/2025
 ms.reviewer: gregfr
 manager: frankbu
 appliesto:
@@ -73,11 +73,12 @@ The following table shows the release and end-of-servicing dates for Surface dev
 | Surface Laptop Studio 2                | October 3, 2023     | October 3, 2029                              |
 | Surface Laptop 6 for Business          | April 9, 2024       | April 9, 2030                                |
 | Surface Pro 10 for Business            | April 9, 2024       | April 9, 2030                                |
-| Surface Pro (11th Edition)             | June 18, 2024       | September 10, 2030                           |
-| Surface Laptop (7th Edition)           | June 18, 2024       | September 10, 2030                           |
-| Surface Pro (11th Edition) 5G          | September 3, 2024   | September 26, 2030                           |
-| Surface Pro 10 with 5G                      | October 11, 2024    | October 11, 2030                             |
-
+| Surface Pro 11th Edition (Qualcomm)    | June 18, 2024       | September 10, 2030                           |
+| Surface Laptop 7th Edition (Qualcomm)  | June 18, 2024       | September 10, 2030                           |
+| Surface Pro 11th Edition 5G          | September 3, 2024   | September 26, 2030                           |
+| Surface Pro 10 with 5G                 | October 11, 2024    | October 11, 2030                             |
+| Surface Pro 11th Edition (Intel)       | February 18, 2025   | February 18, 2031                           |
+| Surface Laptop 7th Edition (Intel)     | Feburary 18, 2025   | February 18, 2031                          |
 
 ## Legacy products
 
