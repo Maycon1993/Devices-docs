@@ -51,61 +51,62 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 
 ### Tested monitors for Surface Laptop 7th Edition, Intel processor
 
-| **Monitors**            | Designed for Surface <br>(3rd party) | USB-C | DisplayPort | HDMI |
-| ----------------------- | ------------------------------------ | ----- | ----------- | ---- |
-| ViewSonic(DFS) VG245    | ✓                                    | ✓     | ✓           | ✓    |
-| ViewSonic(DFS) VG275    | ✓                                    | ✓     | ✓           | ✓    |
-| ViewSonic(DFS) VP275-4K | ✓                                    | ✓     | ✓           | ✓    |
-| Acer Predator X27U      |                                      |       | ✓           | ✓    |
-| Acer SB272 EBI          |                                      |       | ✓           | ✓    |
-| Asus PA247CV            |                                      | ✓     | ✓           | ✓    |
-| Asus PA278CV            |                                      | ✓     | ✓           | ✓    |
-| Asus PA329CRV           |                                      | ?     | ✓           | ✓    |
-| ASUS PA32UCX-PK         |                                      | ?     | ✓           | ✓    |
-| Dell C2422HE            |                                      |       | ✓           | ✓    |
-| Dell E2424HS            |                                      |       | ✓           | ✓    |
-| Dell P2425HE            |                                      |       | ✓           | ✓    |
-| Dell P2720DC            |                                      | ✓     | ✓           | ✓    |
-| Dell P2723QE            |                                      | ✓     | ✓           | ✓    |
-| Dell P3223DE            |                                      | ?     | ✓           | ✓    |
-| Dell S2722DC            |                                      | ?     | ✓           | ✓    |
-| Dell U2722DE            |                                      | ✓     | ✓           | ✓    |
-| Dell U2724D             |                                      | ?     | ✓           | ✓    |
-| Dell U2724DE            |                                      | ✓     | ✓           | ✓    |
-| Dell U3224KB            |                                      | ?     | ✓           | ✓    |
-| Dell U3421WE            |                                      |       | ✓           | ✓    |
-| Dell U3423WE            |                                      |       | ✓           | ✓    |
-| Dell U4323QE            |                                      |       | ✓           | ✓    |
-| Dell UP2720Q            |                                      |       | ✓           | ✓    |
-| Lenovo P27U-20          |                                      |       | ✓           | ✓    |
-| LG 27BN85UN-B           |                                      |       | ✓           | ✓    |
-| LG 27GP95U-B            |                                      |       | ✓           | ✓    |
-| Samsung F24T454GYN      |                                      | ✓     | ✓           | ✓    |
-| Samsung F32TU870VC      |                                      | ?     | ?           | ?    |
-| Samsung S27B800PXC      |                                      | ?     | ?           | ?    |
-| Samsung S34C650VA       |                                      | ?     | ?           | ?    |
-| Samsung SD60            |                                      | ?     | ?           | ?    |
-| Samsung SD60UD          |                                      | ?     | ?           | ?    |
-| Samsung SD70D           |                                      | ?     | ?           | ?    |
-| Samsung SD80D           |                                      | ?     | ?           | ?    |
-| Samsung SD80UD          |                                      | ?     | ?           | ?    |
-| Viewsonic VA2447-MH     |                                      |       |             |      |
+| Monitors            | Designed for Surface (3rd party) | Thunderbolt | USB-C | DisplayPort | HDMI |
+| ----------------------- | -------------------------------- | ----------- | ----- | ----------- | ---- |
+| ViewSonic(DFS) VG245    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VG275    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VP275-4K | ✓                                |             | ✓     | ✓           | ✓    |
+| Acer Predator X27U      |                                  |             |       | ✓           | ✓    |
+| Acer SB272 EBI          |                                  |             |       | ✓           | ✓    |
+| Asus PA247CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA278CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA329CRV           |                                  |             | ✓     | ✓           | ✓    |
+| ASUS PA32UCX-PK         |                                  | TBT3        |       | ✓           | ✓    |
+| Dell C2422HE            |                                  |             |       | ✓           | ✓    |
+| Dell E2424HS            |                                  |             |       | ✓           | ✓    |
+| Dell P2425HE            |                                  |             |       | ✓           | ✓    |
+| Dell P2720DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P2723QE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P3223DE            |                                  |             | ✓    | ✓           | ✓    |
+| Dell S2722DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U2722DE            |                                  | TBT4        | ✓     | ✓           | ✓    |
+| Dell U2724D             |                                  | TBT4        |       | ✓           | ✓    |
+| Dell U2724DE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U3224KB            |                                  |             | ✓  (no DP Alt Mode)   | ✓           | ✓    |
+| Dell U3421WE            |                                  |             |       | ✓           | ✓    |
+| Dell U3423WE            |                                  |             |       | ✓           | ✓    |
+| Dell U4323QE            |                                  |             |       | ✓           | ✓    |
+| Dell UP2720Q            |                                  | TBT3        |       | ✓           | ✓    |
+| Lenovo P27U-20          |                                  | TBT4        |       | ✓           | ✓    |
+| LG 27BN85UN-B           |                                  |             |       | ✓           | ✓    |
+| LG 27GP95U-B            |                                  |             |       | ✓           | ✓    |
+| Samsung F24T454GYN      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung F32TU870VC      |                                  | TBT3        |       | ✓           | ✓    |
+| Samsung S27B800PXC      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S34C650VA       |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D600E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D600U        |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D700E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800U        |                                  |             | ✓     | ✓           | ✓    |
+| Viewsonic VA2447-MH     |                                  |             |       | ✓           | ✓    |
 
 ### Tested docks for Surface Laptop 7th Edition, Intel processor
 
 
-| Dock                                        | Designed for Surface | Thunderbolt | USB-C | Surface Connect |
-| ------------------------------------------- | -------------------- | ----------- | ----- | --------------- |
-| Surface Thunderbolt 4 Dock                  |                      | ✓           | ✓     |                 |
-| Surface Dock 2                              |                      |             |  ✓     | ✓               |
-| Brydge Stone Pro TB4 Dock (DFS)             | ✓                    | ✓           |       |                 |
-| Kensington SD4845P Dock (DFS)               | ✓                    |             |       |                 |
-| Kensington SD5750T Thunderbolt 4 Dock (DFS) | ✓                    |             |       |                 |
-| Dell Dock WD19DC USB-C                      |                      |             | ✓     |                 |
-| Dell UD22 USB-C Dock                        |                      |             | ✓     |                 |
-| Dell WD19S 180W Dock                        |                      |             | ✓     |                 |
-| Dell WD22TB4 Dock                           |                      | ✓           | ?     |                 |
-| Plugable TBT4-UDZ                           |                      |             | ✓     |                 |
+| Dock                                        | Designed for Surface | Thunderbolt | USB-C | Surface Connect | DisplayPort | HDMI |
+| ------------------------------------------- | -------------------- | ----------- | ----- | --------------- | ----------- | ---- |
+| Surface Thunderbolt 4 Dock                  |                      | ✓           | ✓     |                 |             |      |
+| Surface Dock 2                              |                      |             | ✓     | ✓               |             |      |
+| Brydge Stone Pro TB4 Dock (DFS)             | ✓                    | ✓           |       |                 |             |      |
+| Kensington SD4845P Dock (DFS)               | ✓                    |             |       |                 | ✓         | ✓  |
+| Kensington SD5750T Thunderbolt 4 Dock (DFS) | ✓                    | ✓        |       |                 |             |      |
+| Dell Dock WD19DC USB-C                      |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell UD22 USB-C Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD19S 180W Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD22TB4 Dock                           |                      | ✓        | ✓     |                   | ✓         | ✓  |
+| Plugable TBT4-UDZ                           |                      |             |       |                 | ✓         | ✓  |
+
 
 ### Tested cables for Surface Laptop 7th Edition, Intel processor
 
@@ -127,61 +128,60 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 
 ### Tested monitors for Surface Pro 11th Edition, Intel processor
 
-| Monitor                               | Designed for Surface <br>(3rd party)| USB-C | DisplayPort | HDMI |
-|---------------------------------------|----------------------|-------|-------------|------|
-| ViewSonic VG245                       | ✓                    | ✓     | ✓           | ✓    |
-| ViewSonic VG275                       | ✓                    | ✓     | ✓           | ✓    |
-| ViewSonic VP275-4K                    | ✓                    | ✓     | ✓           | ✓    |
-| Acer Predator X27U                     |                      | ✓     | ✓           | ✓    |
-| Acer SB272 EBI                         |                      | ?     | ?          | ?   |
-| Asus PA247CV                          |                      | ✓     | ✓           | ✓    |
-| Asus PA278CV                          |                      | ✓     | ✓           | ✓    |
-| Asus PA27AC                           |                      | ✓     | ✓           | ✓    |
-| Asus PA329CRV           |                                      | ?     | ✓           | ✓    |
-| ASUS PA32UCX-PK         |                                      | ?     | ✓           | ✓    |
-| Dell C2422HE            |                                      |       | ✓           | ✓    |
-| Dell E2424HS            |                                      |       | ✓           | ✓    |
-| Dell P2425HE            |                                      |       | ✓           | ✓    |
-| Dell P2720DC            |                                      | ✓     | ✓           | ✓    |
-| Dell P2723QE            |                                      | ✓     | ✓           | ✓    |
-| Dell P3223DE            |                                      | ?     | ✓           | ✓    |
-| Dell S2722DC            |                                      | ?     | ✓           | ✓    |
-| Dell U2722DE            |                                      | ✓     | ✓           | ✓    |
-| Dell U2724D             |                                      | ?     | ✓           | ✓    |
-| Dell U2724DE            |                                      | ✓     | ✓           | ✓    |
-| Dell U3224KB            |                                      | ?     | ✓           | ✓    |
-| Dell U3421WE            |                                      |       | ✓           | ✓    |
-| Dell U3423WE            |                                      |       | ✓           | ✓    |
-| Dell U4323QE            |                                      |       | ✓           | ✓    |
-| Dell UP2720Q            |                                      |       | ✓           | ✓    |
-| Lenovo P27U-20          |                                      |       | ✓           | ✓    |
-| LG 27BN85UN-B           |                                      |       | ✓           | ✓    |
-| LG 27GP95U-B            |                                      |       | ✓           | ✓    |
-| Samsung F24T454GYN      |                                      | ✓     | ✓           | ✓    |
-| Samsung F32TU870VC      |                                      | ?     | ?           | ?    |
-| Samsung S27B800PXC      |                                      | ?     | ?           | ?    |
-| Samsung S34C650VA       |                                      | ?     | ?           | ?    |
-| Samsung SD60            |                                      | ?     | ?           | ?    |
-| Samsung SD60UD          |                                      | ?     | ?           | ?    |
-| Samsung SD70D           |                                      | ?     | ?           | ?    |
-| Samsung SD80D           |                                      | ?     | ?           | ?    |
-| Samsung SD80UD          |                                      | ?     | ?           | ?    |
-| ViewSonic VA2447-MH                   |                      |       |             | ✓    |
+| Monitors            | Designed for Surface (3rd party) | Thunderbolt | USB-C | DisplayPort | HDMI |
+| ----------------------- | -------------------------------- | ----------- | ----- | ----------- | ---- |
+| ViewSonic(DFS) VG245    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VG275    | ✓                                |             | ✓     | ✓           | ✓    |
+| ViewSonic(DFS) VP275-4K | ✓                                |             | ✓     | ✓           | ✓    |
+| Acer Predator X27U      |                                  |             |       | ✓           | ✓    |
+| Acer SB272 EBI          |                                  |             |       | ✓           | ✓    |
+| Asus PA247CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA278CV            |                                  |             | ✓     | ✓           | ✓    |
+| Asus PA329CRV           |                                  |             | ✓     | ✓           | ✓    |
+| ASUS PA32UCX-PK         |                                  | TBT3        |       | ✓           | ✓    |
+| Dell C2422HE            |                                  |             |       | ✓           | ✓    |
+| Dell E2424HS            |                                  |             |       | ✓           | ✓    |
+| Dell P2425HE            |                                  |             |       | ✓           | ✓    |
+| Dell P2720DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P2723QE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell P3223DE            |                                  |             | ✓    | ✓           | ✓    |
+| Dell S2722DC            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U2722DE            |                                  | TBT4        | ✓     | ✓           | ✓    |
+| Dell U2724D             |                                  | TBT4        |       | ✓           | ✓    |
+| Dell U2724DE            |                                  |             | ✓     | ✓           | ✓    |
+| Dell U3224KB            |                                  |             | ✓  (no DP Alt Mode)   | ✓           | ✓    |
+| Dell U3421WE            |                                  |             |       | ✓           | ✓    |
+| Dell U3423WE            |                                  |             |       | ✓           | ✓    |
+| Dell U4323QE            |                                  |             |       | ✓           | ✓    |
+| Dell UP2720Q            |                                  | TBT3        |       | ✓           | ✓    |
+| Lenovo P27U-20          |                                  | TBT4        |       | ✓           | ✓    |
+| LG 27BN85UN-B           |                                  |             |       | ✓           | ✓    |
+| LG 27GP95U-B            |                                  |             |       | ✓           | ✓    |
+| Samsung F24T454GYN      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung F32TU870VC      |                                  | TBT3        |       | ✓           | ✓    |
+| Samsung S27B800PXC      |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S34C650VA       |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D600E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D600U        |                                  |             | ✓     | ✓           | ✓    |
+| Samsung S27D700E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800E        |                                  |             |       | ✓           | ✓    |
+| Samsung S27D800U        |                                  |             | ✓     | ✓           | ✓    |
+| Viewsonic VA2447-MH     |                                  |             |       | ✓           | ✓    |
 
 ### Tested docks for Surface Pro 11th Edition, Intel processor
 
-| Dock                                        | Designed for Surface | Thunderbolt | USB-C | Surface Connect |
-| ------------------------------------------- | -------------------- | ----------- | ----- | --------------- |
-| Surface Thunderbolt 4 Dock                  |                      | ✓           | ✓     |                 |
-| Surface Dock 2                              |                      |             |  ✓     | ✓               |
-| Brydge Stone Pro TB4 Dock (DFS)             | ✓                    | ✓           |       |                 |
-| Kensington SD4845P Dock (DFS)               | ✓                    |             |       |                 |
-| Kensington SD5750T Thunderbolt 4 Dock (DFS) | ✓                    |             |       |                 |
-| Dell Dock WD19DC USB-C                      |                      |             | ✓     |                 |
-| Dell UD22 USB-C Dock                        |                      |             | ✓     |                 |
-| Dell WD19S 180W Dock                        |                      |             | ✓     |                 |
-| Dell WD22TB4 Dock                           |                      | ✓           | ?     |                 |
-| Plugable TBT4-UDZ                           |                      |             | ✓     |                 |
+| Dock                                        | Designed for Surface | Thunderbolt | USB-C | Surface Connect | DisplayPort | HDMI |
+| ------------------------------------------- | -------------------- | ----------- | ----- | --------------- | ----------- | ---- |
+| Surface Thunderbolt 4 Dock                  |                      | ✓           | ✓     |                 |             |      |
+| Surface Dock 2                              |                      |             | ✓     | ✓               |             |      |
+| Brydge Stone Pro TB4 Dock (DFS)             | ✓                    | ✓           |       |                 |             |      |
+| Kensington SD4845P Dock (DFS)               | ✓                    |             |       |                 | ✓         | ✓  |
+| Kensington SD5750T Thunderbolt 4 Dock (DFS) | ✓                    | ✓          |       |                 |             |      |
+| Dell Dock WD19DC USB-C                      |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell UD22 USB-C Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD19S 180W Dock                        |                      |             | ✓     |                 | ✓         | ✓  |
+| Dell WD22TB4 Dock                           |                      | ✓           | ✓     |                   | ✓         | ✓  |
+| Plugable TBT4-UDZ                           |                      |             |       |                 | ✓         | ✓  |
 
 ### Tested cables for Surface Pro 11th Edition, Intel processor
 
