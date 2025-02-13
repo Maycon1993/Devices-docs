@@ -223,6 +223,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 |------------------------------------|---------------|----------------------------------------|
 | [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/) | --  | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services        |
 | [GSS](https://www.gssltd.co.jp/surface/) | --       |  [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                       |
+| [Otsuka Corporation (株式会社大塚商会)](https://www.otsuka-shokai.co.jp/corporate/release/2025/250212.html) | --       |                                      |
 
 #### New Zealand
 
