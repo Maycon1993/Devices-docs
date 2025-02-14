@@ -42,7 +42,7 @@ The Wake-on-Power feature is available on the following devices:
 - Surface Laptop Studio 2 (commercial SKUs only)
 - Surface Laptop Studio (commercial SKUs only)
 - Surface Book 3 (all SKUs)
-- Surface Laptop (7th Edition) (commercial SKUs only)
+- Surface Laptop 7th Edition, Qualcomm processor  (commercial SKUs only)
 - Surface Laptop 6
 - Surface Laptop 5 (commercial SKUs only)
 - Surface Laptop 4 (commercial SKUs only)

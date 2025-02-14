@@ -30,7 +30,7 @@ ms.custom:
 - Surface Pro 7+
 - Surface Pro X
 - Surface Laptop Go (all generations)
-- Surface Laptop (7th Edition)
+- Surface Laptop 7th Edition, Qualcomm processor 
 - Surface Laptop 6
 - Surface Laptop 5
 - Surface Laptop 4
