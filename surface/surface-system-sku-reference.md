@@ -91,8 +91,8 @@ System Model and System SKU are variables stored in System Management BIOS (SMBI
 | Surface Pro 10 with 5G for Business (outside of Japan and Korea) | Surface Pro 10 with 5G for Business | Surface_Pro_10_with_5G_for_Business_2077|
 | Surface Pro 10 with 5G for Business (Japan) |Surface Pro 10 with 5G for Business  | Surface_Pro_10_with_5G_for_Business_2078  |
 | Surface Pro 10 with 5G for Business (Korea)| Surface Pro 10 with 5G for Business | Surface_Pro_10_with_5G_for_Business_2121  |
-| Surface Pro (11th Edition) Consumer                          | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_2076        |
-| Surface Pro (11th Edition) Commercial                        | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_For_Business_2085        |
+| Surface Pro 11th Edition, Qualcomm processor  Consumer                          | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_2076        |
+| Surface Pro 11th Edition, Qualcomm processor  Commercial                        | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_For_Business_2085        |
 | Surface Pro with 5G, 11th Edition, Consumer (outside of Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_2077|
 | Surface Pro with 5G, 11th Edition, Consumer (Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_2078|
 | Surface Pro with 5G, 11th Edition, Commercial (outside of Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_For_Business_2077|
