@@ -66,4 +66,4 @@ Australia,<sup>2</sup> Austria, Belgium, Bulgaria, Canada,<sup>2</sup> China, Cr
 ## References
 
 1. Same unit repair of Surface Pro 7+ and the original Surface Laptop Studio (v1) is currently unavailable in United States or Mexico.
-2. Same unit repair only available for Surface Pro 11th Edition, Qualcomm processor , Surface Pro 10, Surface Pro 9, Surface Go 4, Surface Laptop 7th Edition, Qualcomm processor , Surface Laptop 6, Surface Laptop 5, Surface Laptop Go 3, and Surface Laptop Studio 2.
+2. Same unit repair only available for Surface Pro 11th Edition, Qualcomm processor, Surface Pro 10, Surface Pro 9, Surface Go 4, Surface Laptop 7th Edition, Qualcomm processor, Surface Laptop 6, Surface Laptop 5, Surface Laptop Go 3, and Surface Laptop Studio 2.
