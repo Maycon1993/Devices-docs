@@ -15,7 +15,7 @@ appliesto:
 ---
 # Deploy, manage, and service Arm-based Surface devices
 
-Arm-based Surface devices, including Surface Pro 11th Edition, Qualcomm processor; Surface Pro 11th Edition, Intel processor; Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 7th Edition, Intel processor Surface Pro 9 with 5G, and Surface Pro X, are engineered to meet high-performance commercial requirements.
+Arm-based Surface devices, including Surface Pro 11th Edition, Qualcomm processor; Surface Pro 11th Edition, Intel processor; Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 7th Edition, Intel processor; Surface Pro 9 with 5G, and Surface Pro X, are engineered to meet high-performance commercial requirements.
 
 ### Image-based deployment now supported
 

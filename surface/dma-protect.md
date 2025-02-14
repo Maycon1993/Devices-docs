@@ -17,7 +17,7 @@ appliesto:
 
 Direct Memory Access (DMA) protection is designed to mitigate potential security vulnerabilities associated with using removable SSDs or external storage devices. Newer Surface devices come with DMA Protection enabled by default. These include: 
 
-- Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 7th Edition, Intel processor Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3, Surface Laptop SE, Surface Laptop Studio 2, Surface Laptop Studio, and Surface Laptop Go 3.
+- Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 7th Edition, Intel processor; Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3, Surface Laptop SE, Surface Laptop Studio 2, Surface Laptop Studio, and Surface Laptop Go 3.
 - Surface Pro 11th Edition, Qualcomm processor; Surface Pro 11th Edition, Intel processor; Surface Pro 10, Surface Pro 10 with 5G Surface Pro 9, Surface Pro 9 with 5G, Surface Pro 8, Surface Pro 7+, Surface Pro 7, and Surface Pro X.
 - Surface Go 4 and Surface Go 3. 
 
