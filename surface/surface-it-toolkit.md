@@ -52,7 +52,7 @@ See how the Surface IT Toolkit provides essential tools to configure, secure, an
 
 ### Supported devices
 
-Commercial SKUs for the following devices are supported: Surface Pro 11th Edition, Qualcomm processor; Surface Pro 10, Surface Pro 10 with 5G, Surface Pro 9, Surface Pro 8, Surface Pro 7+, Surface Pro 7, Surface Pro X Wi-Fi, Surface Pro X SQ2,  Surface Pro X SQ1; Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3; Surface Laptop Studio 2, Surface Laptop Studio; Surface Laptop SE; Surface Laptop Go 3, Surface Laptop Go 2, and Surface Laptop Go;  Surface Go 4, Surface Go 3, and Surface Go 2; Surface Book 3; Surface Studio 2+ and Surface Studio 2.
+Commercial SKUs for the following devices are supported: Surface Pro 11th Edition, Qualcomm processor; Surface Pro 10, Surface Pro 10 with 5G, Surface Pro 9, Surface Pro 8, Surface Pro 7+, Surface Pro 7, Surface Pro X Wi-Fi, Surface Pro X SQ2,  Surface Pro X SQ1; Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 7th Edition, Intel processor Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3; Surface Laptop Studio 2, Surface Laptop Studio; Surface Laptop SE; Surface Laptop Go 3, Surface Laptop Go 2, and Surface Laptop Go;  Surface Go 4, Surface Go 3, and Surface Go 2; Surface Book 3; Surface Studio 2+ and Surface Studio 2.
 
 ## What's in the Surface IT Toolkit?
 
