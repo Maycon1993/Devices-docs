@@ -26,9 +26,6 @@ This article describes how to use the Recovery Tool to restore a Surface device 
 
 3. On the **Select Device** screen, choose the specific Surface device that you wish to recover. The toolkit displays a list of managed devices and a dropdown menu for all supported devices. Select **Next**.
 
-> [!NOTE]
-> Recovery images for Surface Pro (11th Edition) and Surface Laptop (7th Edition) will be available when commercial devices ship in September 2024.
-
 4. If creating a new recovery USB, select the base language and version of Windows for the recovery image. Options for Windows 10 and Windows 11, along with different feature updates like 21H2 and 22H2, are available. Select **Next**.
 
     :::image type="content" source="images/it-toolkit-recovery-create-new.png" alt-text="Screenshot of page to select language, operating system, and Windows version.":::
