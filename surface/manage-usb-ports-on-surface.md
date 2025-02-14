@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 09/06/2024
+ms.date: 02/14/2025 
 ms.reviewer: dashap
 manager: frankbu
 appliesto:
@@ -62,7 +62,7 @@ Beginning with Surface Pro 8, Surface Laptop Studio, and Surface Go 3, granular 
 Dynamic USB-C Disablement enables customers operating in highly secure environments to prevent unauthorized data transfer via USB, thereby offering organizations more control. When paired with the Surface Thunderbolt 4 Dock, IT admins can lock down USB-C ports whenever eligible Surface devices are undocked or connected to an unauthorized dock.
 
 > [!TIP]
-> This feature is available on Surface Pro 10, Surface Laptop 6, and Surface Laptop Studio 2.
+> This feature is available on Surface Pro 10, Surface Pro 11th Edition, Intel processor; Surface Laptop 7th Edition, Intel processor, Surface Laptop 6, and Surface Laptop Studio 2.
 
 In this scenario, when users are connected to an authorized dock in the office, the USB-C ports will have full functionality over their devices. However, when they go off-site, they can still connect to a dock to use accessories or a monitor but can't use the USB ports to transfer data.
 

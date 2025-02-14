@@ -9,7 +9,7 @@ ms.service: surface
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 04/25/2024
+ms.date: 02/14/2025
 appliesto:
 - Windows 10
 - Windows 11
@@ -25,7 +25,9 @@ appliesto:
 >[!IMPORTANT]
 >Surface Data Eraser uses the NVM Express (NVMe) format command to erase data as authorized in [NIST Special Publication 800-88 Revision 1](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf).
 
-This version of Surface Data Eraser is not compatible with the latest Surface devices including Surface Pro 10, Surface Pro 11th Edition, Qualcomm processor; Surface Pro 11th Edition, Intel processor; Surface Laptop 6 and Surface Laptop 7th Edition, Qualcomm processor . For these and all subsequent devices, see [Surface Data Eraser (IT Toolkit)](surface-it-toolkit-data-eraser.md).
+## Legacy compatibility
+
+This version of Surface Data Eraser is **not compatible with the latest Surface devices** including Surface Pro 10, Surface Pro 11th Edition (Qualcomm & Intel processors), Surface Laptop 6 and Surface Laptop 7th Edition (Qualcomm & Intel processors). For these and all subsequent devices, see [Surface Data Eraser (IT Toolkit)](surface-it-toolkit-data-eraser.md).
 
 Compatible Surface devices include:
 
@@ -33,13 +35,13 @@ Compatible Surface devices include:
 - Surface Book (all generations)
 - Surface Go (all generations)
 - Surface Pro X (all generations)
-- Surface Laptop (all generations except Surface Laptop 6 & Surface Laptop 7th Edition)
+- Surface Laptop (generations up to Surface Laptop 5)
 - Surface Laptop Go (all generations)
 - Surface Laptop SE
 - Surface Studio (all generations)
-- Surface Pro 2 and later except Surface Pro 10 & Surface Pro 11th Edition
+- Surface Pro 2 and later (generations up to Surface Pro 9)
 - Surface 3
-- Windows 10 Pro and Enterprise on Surface Hub 2S
+- Windows 10/11 Pro and Enterprise on Surface Hub 2S
 
 Some scenarios where Surface Data Eraser can be helpful include:
 
