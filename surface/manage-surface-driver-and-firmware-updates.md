@@ -115,7 +115,7 @@ Since August 2019, .msi files have followed the convention:
 
 This file name provides the following information:
 
-- **Product**: Surface Pro 11th Edition, Qualcomm processor   
+- **Product**: Surface Pro 11th Edition, Qualcomm processor  
 - **Windows release**: Win11  
 - **Build**: 26100  
 - **Version**: 24.091.12892 – This version number reveals the following:

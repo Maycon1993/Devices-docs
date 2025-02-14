@@ -30,7 +30,7 @@ Deploy Arm-based Surface devices using Windows Autopilot with the help of a Micr
 With the [Surface IT Toolkit](surface-it-toolkit.md) and [Surface Enterprise Management Mode (SEMM)](surface-enterprise-management-mode.md), you can [manage hardware components](surface-it-toolkit-uefi-config.md) at the firmware level for commercial SKUs of the supported Surface devices. The default behavior of each component is indicated as either "On" or "Off." For detailed settings functionality, refer to the [SEMM UEFI settings reference](surface-it-toolkit-semm-uefi-settings.md).
 
 > [!NOTE]
-> Commercial SKUs of Surface Pro 11th Edition, Qualcomm processor  and Surface Laptop 7th Edition, Qualcomm processor  begin shipping on September 10, 2024, from your [Microsoft Surface Authorized Reseller](https://www.microsoft.com/surface/business/where-to-buy-microsoft-surface).
+> Commercial SKUs of Surface Pro 11th Edition, Qualcomm processor and Surface Laptop 7th Edition, Qualcomm processor begin shipping on September 10, 2024, from your [Microsoft Surface Authorized Reseller](https://www.microsoft.com/surface/business/where-to-buy-microsoft-surface).
 
 To learn more about managing firmware with SEMM, see:
 
@@ -121,7 +121,7 @@ The following tables show the availability of key features on Arm-based Surface 
 ### Deployment features 
 
 
-| Feature                                                           | Surface Pro X     | Surface Pro 9 with 5G      | Surface Pro 11th Edition, Qualcomm processor  | Surface Laptop 7th Edition, Qualcomm processor  | Notes                                                                                                                                                                            |
+| Feature                                                           | Surface Pro X     | Surface Pro 9 with 5G      | Surface Pro 11th Edition, Qualcomm processor | Surface Laptop 7th Edition, Qualcomm processor | Notes                                                                                                                                                                            |
 | ----------------------------------------------------------------- | ----------------- | -------------------------- | -------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Windows Autopilot                                                 | Yes               | Yes                        | Yes                        | Yes                          | Recommended deployment option                                                                                                                                                     |
 | Network Boot (PXE)                                    | No                | Yes                        | Yes                        | Yes                           |                                                                                                                                                                                  |
@@ -132,7 +132,7 @@ The following tables show the availability of key features on Arm-based Surface 
 
 ### Management tools and options 
 
-| Feature                                       | Surface Pro X     | Surface Pro 9 with 5G         | Surface Pro 11th Edition, Qualcomm processor  | Surface Laptop 7th Edition, Qualcomm processor  | Notes                                                                                                      |
+| Feature                                       | Surface Pro X     | Surface Pro 9 with 5G         | Surface Pro 11th Edition, Qualcomm processor | Surface Laptop 7th Edition, Qualcomm processor | Notes                                                                                                      |
 | --------------------------------------------- | ----------------- | ----------------------------- | -------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Intune                                        | Yes               | Yes                           | Yes                        | Yes                          |                                                                                                                |
 | Windows Autopilot                             | Yes               | Yes                           | Yes                        | Yes                          |                                                                                                                |
@@ -147,7 +147,7 @@ The following tables show the availability of key features on Arm-based Surface 
 
 ### Security capabilities 
 
-| Feature                       | Surface Pro X | Surface Pro 9 with 5G | Surface Pro 11th Edition, Qualcomm processor  | Surface Laptop 7th Edition, Qualcomm processor  | Notes                                                                                                                                                                    |
+| Feature                       | Surface Pro X | Surface Pro 9 with 5G | Surface Pro 11th Edition, Qualcomm processor | Surface Laptop 7th Edition, Qualcomm processor | Notes                                                                                                                                                                    |
 | ----------------------------- | ------------- | --------------------- | -------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | BitLocker                     | Yes           | Yes                   | Yes                        | Yes                          |                                                                                                                                                                          |
 | Microsoft Defender            | Yes           | Yes                   | Yes                        | Yes                          |                                                                                                                                                                          |

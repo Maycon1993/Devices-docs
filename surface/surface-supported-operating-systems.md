@@ -22,7 +22,7 @@ This article lists the versions of Windows that are supported on the Business an
 
 | Device                               | Windows OS                                                                                                          |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Surface Pro 11th Edition, Qualcomm processor                | - Windows 11, Version 24H2 build 26100 and later                                                               |
+| Surface Pro 11th Edition, Qualcomm processor               | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Pro 10 with 5G for Business      | - Windows 11, Version 24H2 build 26100 and later |
 | Surface Pro 10 for Business              | - Windows 10, Version 22H2 build 19045 and later<br>- Windows 11, Version 23H2 build 22631 and later |
 | Surface Pro 9 with Intel Processor       | - Windows 10, Version 21H2 build 19044 and later<br>- Windows 11, Versions 22H2 build 22621 and later |
@@ -46,7 +46,7 @@ This article lists the versions of Windows that are supported on the Business an
 
 | Device                                    | Windows OS                                                                                                          |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Surface Laptop 7th Edition, Qualcomm processor                   | - Windows 11, Version 24H2 build 26100 and later                                                               |
+| Surface Laptop 7th Edition, Qualcomm processor                  | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Laptop 6 for Business                 | - Windows 10, Version 22H2 build 19045 and later <br>- Windows 11, Version 23H2 build 22631 and later |
 | Surface Laptop 5                              | - Windows 10, Version 21H2 build 19044 and later<br>- Windows 11, Version 22H2 build 22621 and later  |
 | Surface Laptop 4 (Intel CPU)                  | - Windows 10, Version 1909 build 18363 and later<br>- Windows 11, Version 21H2 build 22000 and later  |

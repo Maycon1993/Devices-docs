@@ -18,7 +18,7 @@ appliesto:
 
 ## Why should I consider Arm processors for new Surface devices in my corporate environment?
 
-Arm-based Surface devices, such as Surface Pro 11th Edition, Qualcomm processor  and Surface Laptop 7th Edition, Qualcomm processor, deliver exceptional performance, efficiency, and compatibility with both native and emulated applications. These devices, powered by the Snapdragon X series processors, provide outstanding battery life and integrate seamlessly with key productivity tools like Microsoft 365. The Prism emulation engine ensures smooth operation of x86/x64 applications, facilitating an easy transition to Arm architecture without sacrificing performance. Plus, the expanded support for native Arm64 apps ensures that your organization can use cutting-edge technology while maintaining compatibility with existing software.
+Arm-based Surface devices, such as Surface Pro 11th Edition, Qualcomm processor and Surface Laptop 7th Edition, Qualcomm processor, deliver exceptional performance, efficiency, and compatibility with both native and emulated applications. These devices, powered by the Snapdragon X series processors, provide outstanding battery life and integrate seamlessly with key productivity tools like Microsoft 365. The Prism emulation engine ensures smooth operation of x86/x64 applications, facilitating an easy transition to Arm architecture without sacrificing performance. Plus, the expanded support for native Arm64 apps ensures that your organization can use cutting-edge technology while maintaining compatibility with existing software.
 
 ## How has Microsoft enhanced app performance?
 

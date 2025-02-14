@@ -90,7 +90,7 @@ This version of Surface IT Toolkit, released December 5, 2024, includes the foll
 
 This version of Surface IT Toolkit, released September 10, 2024, includes the following updates:
 
-- Added support for Wi-Fi+5G models of Surface Pro 11th Edition, Qualcomm processor  and Wi-Fi+5G models of Surface Pro 10 for Business
+- Added support for Wi-Fi+5G models of Surface Pro 11th Edition, Qualcomm processor and Wi-Fi+5G models of Surface Pro 10 for Business
 - Improved accessibility options
 
 ### Version 1.186.139
