@@ -25,7 +25,7 @@ appliesto:
 >[!IMPORTANT]
 >Surface Data Eraser uses the NVM Express (NVMe) format command to erase data as authorized in [NIST Special Publication 800-88 Revision 1](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf).
 
-This version of Surface Data Eraser is not compatible with the latest Surface devices including Surface Pro 10, Surface Pro 11th Edition, Qualcomm processor, Surface Laptop 6 and Surface Laptop 7th Edition, Qualcomm processor . For these and all subsequent devices, see [Surface Data Eraser (IT Toolkit)](surface-it-toolkit-data-eraser.md).
+This version of Surface Data Eraser is not compatible with the latest Surface devices including Surface Pro 10, Surface Pro 11th Edition, Qualcomm processor; Surface Laptop 6 and Surface Laptop 7th Edition, Qualcomm processor . For these and all subsequent devices, see [Surface Data Eraser (IT Toolkit)](surface-it-toolkit-data-eraser.md).
 
 Compatible Surface devices include:
 

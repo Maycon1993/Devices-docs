@@ -28,7 +28,7 @@ Additionally, Microsoft's [App Assure program](https://www.microsoft.com/fasttra
 
 ## What is Prism?
 
-Prism is Microsoft's emulation technology that enables x86/x64 applications to run on Windows PCs with Arm processors, such as Surface Pro 11th Edition, Qualcomm processor, Surface Pro 9 with 5G, Surface Pro X, and Surface Laptop 7th Edition, Qualcomm processor . It seamlessly translates app code to run on Arm architecture, optimizing performance, and reducing CPU usage to ensure a smooth user experience on devices powered by Snapdragon X series chips.
+Prism is Microsoft's emulation technology that enables x86/x64 applications to run on Windows PCs with Arm processors, such as Surface Pro 11th Edition, Qualcomm processor; Surface Pro 9 with 5G, Surface Pro X, and Surface Laptop 7th Edition, Qualcomm processor . It seamlessly translates app code to run on Arm architecture, optimizing performance, and reducing CPU usage to ensure a smooth user experience on devices powered by Snapdragon X series chips.
 
 ## What's new with Windows on Arm emulation?
 

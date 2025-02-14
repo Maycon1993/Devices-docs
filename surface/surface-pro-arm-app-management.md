@@ -15,11 +15,11 @@ appliesto:
 ---
 # Deploy, manage, and service Arm-based Surface devices
 
-Arm-based Surface devices, including Surface Pro 11th Edition, Qualcomm processor, Surface Laptop 7th Edition, Qualcomm processor, Surface Pro 9 with 5G, and Surface Pro X, are engineered to meet high-performance commercial requirements.
+Arm-based Surface devices, including Surface Pro 11th Edition, Qualcomm processor; Surface Laptop 7th Edition, Qualcomm processor; Surface Pro 9 with 5G, and Surface Pro X, are engineered to meet high-performance commercial requirements.
 
 ### Image-based deployment now supported
 
-Image-based Operating System Deployment (OSD) is now [supported via Configuration Manager](/mem/configmgr/core/plan-design/changes/whats-new-in-version-2403#support-for-arm-64-operating-system-deployment) for Windows 11 on Surface Pro 11th Edition, Qualcomm processor, Surface Laptop 7th Edition, Qualcomm processor, and Surface Pro 9 with 5G. 
+Image-based Operating System Deployment (OSD) is now [supported via Configuration Manager](/mem/configmgr/core/plan-design/changes/whats-new-in-version-2403#support-for-arm-64-operating-system-deployment) for Windows 11 on Surface Pro 11th Edition, Qualcomm processor; Surface Laptop 7th Edition, Qualcomm processor, and Surface Pro 9 with 5G. 
 
 ### Autopilot deployment 
 
@@ -164,7 +164,7 @@ The following tables show the availability of key features on Arm-based Surface 
 
 **How can I deploy Arm-based Surface devices?**
 
-- Deploy Surface Pro 11th Edition, Qualcomm processor, Surface Laptop 7th Edition, Qualcomm processor, or Surface Pro 9 with 5G via OSD or Windows Autopilot. 
+- Deploy Surface Pro 11th Edition, Qualcomm processor; Surface Laptop 7th Edition, Qualcomm processor, or Surface Pro 9 with 5G via OSD or Windows Autopilot. 
 - Deploy Surface Pro X via Windows Autopilot.
 
 **Is a recovery image available?**
