@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 01/30/2025
+ms.date: 02/14/2025
 ms.reviewer: angpatel
 manager: frankbu
 appliesto:
@@ -37,11 +37,11 @@ Surface USB4 Dock is a full stationary docking solution, with a compact, sleek d
 Surface USB4 Dock comes with the following management and security features:
 
 - **Firmware updates through Windows Update**: Keep your dock up to date with automatic updates  or downloadable driver and firmware packs.
-- **MAC address passthrough**: Maintain consistent network identity across different docks for easy management in shared workspaces.
+- **MAC address passthrough**: Maintain consistent network identity across different docks for easy management in shared workspaces.[<sup>2</sup>](#references)
 - **Wake-on-LAN (WOL)[<sup>5</sup>](#references) from Modern Standby**: IT admins can remotely wake devices connected to Surface USB4 Dock and automate management tasks.
   - Surface USB4 Dock doesn't support WOL with device-targeted MAC address passthrough. 
   - Alternative WOL pathways include using connected standby (Modern Standby) instead of WOL from S4/S5, or configuring the dock for MAC address passthrough rather than the device MAC address.  
-- **PXE Boot:** IT admins can deploy operating systems, troubleshoot, and manage large numbers of devices in a network. 
+- **PXE Boot:** IT admins can deploy operating systems, troubleshoot, and manage large numbers of devices in a network.[<sup>1</sup>](#references) 
 - **Windows Management Instrumentation (WMI)**: IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface USB4 Dock and other Surface docks. For details, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
 - **Centralized support and warranty service**: IT admins can access direct support from the [Surface Management Portal](surface-management-portal.md) or [Surface Support Portal](surface-support-portal.md).
 
@@ -112,7 +112,7 @@ Microsoft’s commitment to sustainability is reflected in Surface USB4 Dock:
 | Feature                   | Surface USB4 Dock           | Surface Thunderbolt 4 Dock | Surface USB-C Travel Hub | Surface Dock 2          |
 |---------------------------|--------------------------|-----------------------------|--------------------------|-------------------------|
 | Type                      | Full stationary dock          | Most fully featured dock          | Portable hub            | Legacy dock    |
-| Manageability features    | PXE boot, WMI, Wake-on-LAN | PXE boot, SEMM, WMI         | None                    | SEMM, WMI, Centralized Updates |
+| Manageability features    | PXE boot,[<sup>1</sup>](#references) WMI, Wake-on-LAN[<sup>5</sup>](#references) | PXE boot, SEMM, WMI         | None                    | SEMM, WMI, Centralized Updates |
 | Host connection           | USB-C/USB4           | USB-C/USB4              | USB-C                 | Surface Connect         |
 | USB-A ports               | 1                      | 3                           | 1                       | 2                       |
 | USB-C ports               | 2                        | 3                           | 1                       | 2                       |
@@ -169,7 +169,7 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 
 ### References
 
-1. Network PXE boot requires the latest UEFI update on host devices. To learn more, see [How to use Surface UEFI - Microsoft Support](https://support.microsoft.com/surface/how-to-use-surface-uefi-df2c8942-dfa0-859d-4394-95f45eb1c3f9).
+1. Network PXE boot requires the latest UEFI update on host devices, currently available for Intel-based devices, with a subsequent update planned for Arm-based devices. To learn more, see [How to use Surface UEFI - Microsoft Support](https://support.microsoft.com/surface/how-to-use-surface-uefi-df2c8942-dfa0-859d-4394-95f45eb1c3f9).
 2. MAC address passthrough is available on select host devices and supported operating systems.
 3. Surface USB4 Dock is compatible with Surface devices that support USB-C charging (devices later than Surface Pro 7 and Surface Laptop 3). To learn more, see [USB-C and Fast Charging for Surface - Microsoft Support](https://support.microsoft.com/surface/usb-c-and-fast-charging-for-surface-d320ab19-e4ed-c36d-7458-7d7aec69d34a).
 4. Surface USB4 Dock, excluding power supply, contains 55.2% recycled content. This includes 11.8% recycled plastics, consisting of a minimum of 50% recycled plastics and 0.3% other recycled metals, consisting of 100% recycled gold in PCB and 100% recycled tin in solder. Based on validation performed by Underwriter Laboratories, Inc. using Environmental Claim Validation Procedure (EVCP) for Recycled Content, UL EVCP-2809-2, Second Edition, dated June 20, 2024. Recycled Content is defined in accordance with ISO 14201.
