@@ -8,7 +8,7 @@ ms.topic: how-to
 ms.reviewer: chauncel
 manager: frankbu
 ms.localizationpriority: medium
-ms.date: 04/25/2023
+ms.date: 02/14/2025
 appliesto:
 - Windows 10
 - Windows 11
@@ -33,7 +33,7 @@ As an alternative to SEMM, newer Surface devices support remote management of a 
 
 ## Supported devices
 
-SEMM is only available on devices with Surface UEFI firmware including:
+SEMM is available on devices with Surface UEFI firmware. For most in-market devices, compatiblity is limmited to commercial "Surface for Business" SKU, except as stated in the following list:
 
 - Surface Book (all generations)
 - Surface Go 4 (commercial SKUs only)
@@ -42,6 +42,7 @@ SEMM is only available on devices with Surface UEFI firmware including:
 - Surface Go (all SKUs)
 - Surface Hub 2S
 - Surface Laptop 7th Edition, Qualcomm processor (commercial SKUs only)
+- Surface Laptop 7th Edition, Intel processor 
 - Surface Laptop 6 (commercial SKUs only)
 - Surface Laptop 5 (commercial SKUs only)
 - Surface Laptop 4 (commercial SKUs only)
@@ -54,7 +55,8 @@ SEMM is only available on devices with Surface UEFI firmware including:
 - Surface Laptop SE (all SKUs)
 - Surface Laptop Studio 2 (commercial SKUs only)
 - Surface Laptop Studio (commercial SKUs only)
-- Surface Pro 11th Edition, Qualcomm processor (commercial SKUs only)
+- Surface Pro 11th Edition, Qualcomm processor
+- Surface Pro 11th Edition, Intel processor (commercial SKUs only)
 - Surface Pro 10 (commercial SKUs only)
 - Surface Pro 10 with 5G (commercial SKUs only)
 - Surface Pro 9 (commercial SKUs only)
