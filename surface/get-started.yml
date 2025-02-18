@@ -1,12 +1,12 @@
 ### YamlMime:Landing
 
 title: Surface devices documentation # < 60 chars
-summary: Harness the power of Surface, Windows, and Office connected together through the cloud. # < 160 chars
+summary: Harness the power of Surface for Business, Windows, and Microsoft 365 connected together through the cloud # < 160 chars
 
 metadata:
-  ms.date: 06/09/2020
+  ms.date: 02/17/2025
   title: Surface devices documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: Get started with Microsoft Surface devices # Required; article description that is displayed in search results. < 160 chars.
+  description: Explore documentation for Surface for Business devices. Learn how to deploy, manage, and secure Surface devices with Windows, Microsoft 365, and cloud-based solutions. # Required; article description that is displayed in search results. < 160 chars.
   ms.service: surface
   ms.topic: landing-page # Required
   ms.custom: intro-hub-or-landing
@@ -102,8 +102,8 @@ landingContent:
             url: surface-service-and-repair.md 
           - text: Downloadable Surface service guides 
             url: https://www.microsoft.com/download/100440
-          - text: Hands-on videos for Surface device repair
-            url: https://techcommunity.microsoft.com/t5/surface-it-pro-blog/service-amp-repair-for-surface-devices/ba-p/3667517
+          - text: Surface repair by Microsoft Authorized Service Providers
+            url: authorized-service-providers.md
  
  # Card
   - title: Troubleshoot
