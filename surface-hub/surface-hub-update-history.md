@@ -17,7 +17,7 @@ Surface Hub (v1) and Hub 2S devices ship with Windows 10 Team edition. Windows w
 Most Windows updates focus on performance and security improvements. In the following list, the most recent Windows 10 update with Surface Hub-specific improvements is listed first. Updates are cumulative, so installing the latest available Windows update (even if it isn't on the list below) ensures that you also benefit from improvements in any previous updates. Microsoft Store apps are also updated automatically in the background. Details about app updates are provided on a per-app basis.
 
 > [!TIP]
-> This page is refreshed as new updates are released. Please refer to the [Surface Hub Important Information](https://support.microsoft.com/products/surface-devices/surface-hub) page for related topics on current and past releases that may require your attention.
+> This page is refreshed as new updates are released.
 
 ## Windows 10 Team 2022 Update (22H2)
 
@@ -840,7 +840,7 @@ This update brings the Windows 10 Team Anniversary Update to Surface Hub and inc
 * General
   * Enabled Audio Device Selection (for Surface Hubs attached using external audio devices)
   * Enabled support for HDCP on DisplayPort output connector
-  * System UI changes to settings for usability optimization (refer to [User and Admin Guides](https://www.microsoft.com/surface/support/surface-hub) for additional details)
+  * System UI changes to settings for usability optimization
   * Bug fixes and performance optimizations to speed up the Microsoft Entra sign-in flow
   * Reduced time needed to reset and restore a Surface Hub
   * Windows Defender UI has been added within settings

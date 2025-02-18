@@ -45,7 +45,7 @@ Use one of the following options:
 This section explains how to manually downgrade an individual Surface device to Windows 10.
 
 > [!NOTE]
-> Some newer Surface devices are not compatible with Windows 10, including Surface Pro (11th Edition), Surface Pro 10 with 5G, Surface Laptop (7th Edition), and Surface Laptop Studio 2.
+> Some newer Surface devices are not compatible with Windows 10, including Surface Pro 11th Edition, Qualcomm processor; Surface Pro 11th Edition, Intel processor; Surface Pro 10 with 5G, Surface Laptop 7th Edition, Qualcomm processor, and Surface Laptop Studio 2.
 
 1. **Prepare your Surface device**:
    - Ensure that all important data on the device is backed up. To learn more, see [Back up your Windows PC](https://support.microsoft.com/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338#ID0EBF=Windows_11) and view the following video:

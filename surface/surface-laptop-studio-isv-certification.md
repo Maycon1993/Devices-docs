@@ -20,7 +20,7 @@ NVIDIA and leading ISVs recommend the Surface Laptop Studio with RTX A2000, conf
 
 | **App**                         | **Description**                                                                                                                                                                                                                                  |
 |---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Autodesk AutoCAD**             | Autodesk certifies and recommends the Surface Laptop Studio with NVIDIA RTX A2000 and 4 GB GDDR6 for AutoCAD:<br><br>- Its GPU-accelerated viewport graphics enhance 3D modeling and design, making the process faster and more interactive. |
+| **Autodesk AutoCAD**             | Autodesk certifies and recommends the Surface Laptop Studio with NVIDIA RTX A2000 and 4 GB GDDR6 for AutoCAD:<sup>1</sup><br><br>- Its GPU-accelerated viewport graphics enhance 3D modeling and design, making the process faster and more interactive. |
 | **Autodesk Maya**                | Autodesk endorses the Surface Laptop Studio with NVIDIA RTX A2000 and 4 GB GDDR6 for Maya:<br><br>- It applies RTX-accelerated ray tracing and AI denoising using the Arnold renderer.<br>- It also supports OpenGL viewport acceleration. |
 | **Autodesk Revit**               | Autodesk confirms that the Surface Laptop Studio with NVIDIA RTX A2000 and 4 GB GDDR6 optimizes Revit performance:<br><br>- GPU-accelerated viewports create a smoother design experience.<br>- It supports popular 3D renderers like V-Ray and Enscape. |
 | **McNeel & Associates Rhino 3D**| McNeel & Associates verify that the Surface Laptop Studio with NVIDIA RTX A2000 and 4 GB GDDR6 runs Rhino 7 smoothly:<br><br>- Its GPU-accelerated viewport ensures fluid modeling and design.<br>- It supports Cycles for fast, GPU-based 3D rendering. |
@@ -54,6 +54,3 @@ Microsoft Surface engineering collaborates with Adobe to ensure that the Surface
 ## References
 
 1. AutoCAD was tested on versions 2021 and 2022.  
-2. Some accessories and software are sold separately.  
-3. Tactile signals in Adobe Premiere Pro are available in Beta only. Visit [Adobe.com](https://www.adobe.com/products/premiere.html) for more details.  
-
