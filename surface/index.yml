@@ -72,6 +72,9 @@ conceptualContent:
         - url: https://techcommunity.microsoft.com/t5/Surface-Devices/ct-p/SurfaceDevices
           itemType: reference
           text: Surface Devices Tech Community
+        - url: https://techcommunity.microsoft.com/t5/surface-hub/bd-p/SurfaceHub
+          itemType: reference
+          text: Surface Hub Tech Community        
 
     # Card 4
     - title: Surface self-serve portals
@@ -87,11 +90,18 @@ conceptualContent:
           text: Surface Support Portal overview
 
     # Card 5
-    - title: Surface Hub community
+    - title: Surface IT Toolkit
       links:
-        - url: https://techcommunity.microsoft.com/t5/surface-hub/bd-p/SurfaceHub
-          itemType: reference
-          text: Surface Hub Tech Community
+        - url: surface-it-toolkit.md
+          itemType: learn
+          text: Surface IT Toolkit overview
+        - url: surface-it-toolkit-usb-recover.md
+          itemType: learn
+          text: Surface recovery tool
+        - url: surface-it-toolkit-library.md
+          itemType: learn
+          text: Tool library
+
 
     # Card 6
     - title: Surface help
