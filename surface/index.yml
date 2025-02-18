@@ -1,13 +1,13 @@
 ### YamlMime:Hub
 
 title: Microsoft Surface for IT professionals # < 60 chars
-summary: Learn how to plan, deploy, and manage Microsoft Surface and Surface Hub devices. # < 160 chars
+summary: Find IT resources to plan, deploy, and manage Microsoft Surface for Business and Surface Hub devices in commercial and enterprise environments # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-platform | project | sharepoint | sql | sql-server | teams | vs | visual-studio | windows | xamarin
 brand: windows
 
 metadata:
   title: Microsoft Surface # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: Learn how to plan, deploy, and manage Microsoft Surface and Surface Hub devices. # Required; article description that is displayed in search results. < 160 chars.
+  description: Discover IT documentation for Microsoft Surface for Business and Surface Hub. Learn how to deploy, manage, and secure Surface devices in enterprise environments. # Required; article description that is displayed in search results. < 160 chars.
   ms.service: surface #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: hub-page # Required
   
@@ -42,10 +42,10 @@ conceptualContent:
       links:
         - url: https://techcommunity.microsoft.com/blog/surfaceitpro/fuel-ai-adoption-with-surface-pro-and-surface-laptop-powered-by-intel/4359782
           itemType: concept
-          text: Fuel AI adoption with Surface Pro and Surface Laptop powered by Inte
+          text: Fuel AI adoption with Surface Pro and Surface Laptop powered by Intel
         - url: /surface/surface-tested-peripherals  
           itemType: concept
-          text: Tested peripherals for new Surface devices     
+          text: Tested peripherals for Surface devices     
         - url: /surface/surface-pro-nfc   
           itemType: concept
           text: NFC support in Surface Pro 
@@ -85,16 +85,22 @@ conceptualContent:
       links:
         - url: https://support.microsoft.com/surface
           itemType: learn
-          text: Contact Surface Support for end users
+          text: Contact Surface Support for End Users
         - url: contact-surface-business-education-support.md
           itemType: learn
           text: Contact Surface Support for Business and Education customers
 
     # Card 6
-    - title: Surface Hub help
+    - title: Surface self-serve portals
       links:
-        - url: https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=bb7066fb-e329-c1c0-9c13-8e9949c6a64e&hidden=false
+        - url: surface-portals.md
           itemType: learn
-          text: Contact Surface Hub Support
+          text: Surface portals overview
+        - url: surface-management-portal.md
+          itemType: learn
+          text: Surface Management Portal overview
+        - url: surface-support-portal.md
+          itemType: learn
+          text: Surface Support Portal overview
 
   
