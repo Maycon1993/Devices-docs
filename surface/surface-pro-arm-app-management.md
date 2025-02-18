@@ -15,11 +15,11 @@ appliesto:
 ---
 # Deploy, manage, and service Arm-based Surface devices
 
-Arm-based Surface devices, including Surface Pro (11th Edition), Surface Laptop (7th Edition), Surface Pro 9 with 5G, and Surface Pro X, are engineered to meet high-performance commercial requirements.
+Arm-based Surface devices, including Surface Pro 11th Edition, Qualcomm processor;  Surface Laptop 7th Edition, Qualcomm processor; Surface Pro 9 with 5G, and Surface Pro X, are engineered to meet high-performance commercial requirements.
 
 ### Image-based deployment now supported
 
-Image-based Operating System Deployment (OSD) is now [supported via Configuration Manager](/mem/configmgr/core/plan-design/changes/whats-new-in-version-2403#support-for-arm-64-operating-system-deployment) for Windows 11 on Surface Pro (11th Edition), Surface Laptop (7th Edition), and Surface Pro 9 with 5G. 
+Image-based Operating System Deployment (OSD) is now [supported via Configuration Manager](/mem/configmgr/core/plan-design/changes/whats-new-in-version-2403#support-for-arm-64-operating-system-deployment) for Windows 11 on Surface Pro 11th Edition, Qualcomm processor; Surface Laptop 7th Edition, Qualcomm processor, and Surface Pro 9 with 5G. 
 
 ### Autopilot deployment 
 
@@ -30,7 +30,7 @@ Deploy Arm-based Surface devices using Windows Autopilot with the help of a Micr
 With the [Surface IT Toolkit](surface-it-toolkit.md) and [Surface Enterprise Management Mode (SEMM)](surface-enterprise-management-mode.md), you can [manage hardware components](surface-it-toolkit-uefi-config.md) at the firmware level for commercial SKUs of the supported Surface devices. The default behavior of each component is indicated as either "On" or "Off." For detailed settings functionality, refer to the [SEMM UEFI settings reference](surface-it-toolkit-semm-uefi-settings.md).
 
 > [!NOTE]
-> Commercial SKUs of Surface Pro (11th Edition) and Surface Laptop (7th Edition) begin shipping on September 10, 2024, from your [Microsoft Surface Authorized Reseller](https://www.microsoft.com/surface/business/where-to-buy-microsoft-surface).
+> Commercial SKUs of Surface Pro 11th Edition, Qualcomm processor and Surface Laptop 7th Edition, Qualcomm processor begin shipping on September 10, 2024, from your [Microsoft Surface Authorized Reseller](https://www.microsoft.com/surface/business/where-to-buy-microsoft-surface).
 
 To learn more about managing firmware with SEMM, see:
 
@@ -121,18 +121,18 @@ The following tables show the availability of key features on Arm-based Surface 
 ### Deployment features 
 
 
-| Feature                                                           | Surface Pro X     | Surface Pro 9 with 5G      | Surface Pro (11th Edition) | Surface Laptop (7th Edition) | Notes                                                                                                                                                                            |
+| Feature                                                           | Surface Pro X     | Surface Pro 9 with 5G      | Surface Pro 11th Edition, Qualcomm processor | Surface Laptop 7th Edition, Qualcomm processor | Notes                                                                                                                                                                            |
 | ----------------------------------------------------------------- | ----------------- | -------------------------- | -------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Windows Autopilot                                                 | Yes               | Yes                        | Yes                        | Yes                          | Recommended deployment option                                                                                                                                                     |
 | Network Boot (PXE)                                    | No                | Yes                        | Yes                        | Yes                           |                                                                                                                                                                                  |
 | Windows Configuration Designer                                    | Yes               | Yes                        | Yes                        | Yes                           |                                                                                                              |
 | WinPE                                                             | Yes               | Yes                       | Yes                        | Yes                           | Not recommended. Microsoft doesn't provide the necessary .ISO and drivers to support WinPE with Arm-based Surface devices. |
-| Operating System Deployment                                        | No                | Yes                        | Yes                        | Yes                          | Supported with Windows 11 on Surface Pro 9 with 5G, Surface Pro (11th Edition), and Surface Laptop (7th Edition).                                                                                                                               |
+| Operating System Deployment                                        | No                | Yes                        | Yes                        | Yes                          | Supported with Windows 11 on Surface Pro 9 with 5G, Surface Pro 11th Edition, Qualcomm processor, and Surface Laptop 7th Edition, Qualcomm processor.                                                                                                                               |
 | MDT                                                               | No                | No                         | No                         | No                           | Not supported on Windows 11, including x86 Windows 11.                                                                                                                         |
 
 ### Management tools and options 
 
-| Feature                                       | Surface Pro X     | Surface Pro 9 with 5G         | Surface Pro (11th Edition) | Surface Laptop (7th Edition) | Notes                                                                                                      |
+| Feature                                       | Surface Pro X     | Surface Pro 9 with 5G         | Surface Pro 11th Edition, Qualcomm processor | Surface Laptop 7th Edition, Qualcomm processor | Notes                                                                                                      |
 | --------------------------------------------- | ----------------- | ----------------------------- | -------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Intune                                        | Yes               | Yes                           | Yes                        | Yes                          |                                                                                                                |
 | Windows Autopilot                             | Yes               | Yes                           | Yes                        | Yes                          |                                                                                                                |
@@ -147,7 +147,7 @@ The following tables show the availability of key features on Arm-based Surface 
 
 ### Security capabilities 
 
-| Feature                       | Surface Pro X | Surface Pro 9 with 5G | Surface Pro (11th Edition) | Surface Laptop (7th Edition) | Notes                                                                                                                                                                    |
+| Feature                       | Surface Pro X | Surface Pro 9 with 5G | Surface Pro 11th Edition, Qualcomm processor | Surface Laptop 7th Edition, Qualcomm processor | Notes                                                                                                                                                                    |
 | ----------------------------- | ------------- | --------------------- | -------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | BitLocker                     | Yes           | Yes                   | Yes                        | Yes                          |                                                                                                                                                                          |
 | Microsoft Defender            | Yes           | Yes                   | Yes                        | Yes                          |                                                                                                                                                                          |
@@ -160,11 +160,11 @@ The following tables show the availability of key features on Arm-based Surface 
 
 **Can I deploy Arm-based Surface devices with Configuration Manager?**
 
-- Microsoft Configuration Manager now [supports Operating System Deployment](/mem/configmgr/core/plan-design/changes/whats-new-in-version-2403#support-for-arm-64-operating-system-deployment) for Windows 11 on Surface Pro 9 with 5G, Surface Pro (11th Edition), and Surface Laptop (7th Edition).
+- Microsoft Configuration Manager now [supports Operating System Deployment](/mem/configmgr/core/plan-design/changes/whats-new-in-version-2403#support-for-arm-64-operating-system-deployment) for Windows 11 on Surface Pro 9 with 5G, Surface Pro 11th Edition, Qualcomm processor, and Surface Laptop 7th Edition, Qualcomm processor.
 
 **How can I deploy Arm-based Surface devices?**
 
-- Deploy Surface Pro (11th Edition), Surface Laptop (7th Edition), or Surface Pro 9 with 5G via OSD or Windows Autopilot. 
+- Deploy Surface Pro 11th Edition, Qualcomm processor; Surface Laptop 7th Edition, Qualcomm processor, or Surface Pro 9 with 5G via OSD or Windows Autopilot. 
 - Deploy Surface Pro X via Windows Autopilot.
 
 **Is a recovery image available?**

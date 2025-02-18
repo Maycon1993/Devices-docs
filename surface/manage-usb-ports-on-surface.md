@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 09/06/2024
+ms.date: 02/14/2025 
 ms.reviewer: dashap
 manager: frankbu
 appliesto:
@@ -62,7 +62,7 @@ Beginning with Surface Pro 8, Surface Laptop Studio, and Surface Go 3, granular 
 Dynamic USB-C Disablement enables customers operating in highly secure environments to prevent unauthorized data transfer via USB, thereby offering organizations more control. When paired with the Surface Thunderbolt 4 Dock, IT admins can lock down USB-C ports whenever eligible Surface devices are undocked or connected to an unauthorized dock.
 
 > [!TIP]
-> This feature is available on Surface Pro 10, Surface Laptop 6, and Surface Laptop Studio 2.
+> This feature is available on Surface Pro 10, Surface Pro 11th Edition, Intel processor; Surface Laptop 7th Edition, Intel processor, Surface Laptop 6, and Surface Laptop Studio 2.
 
 In this scenario, when users are connected to an authorized dock in the office, the USB-C ports will have full functionality over their devices. However, when they go off-site, they can still connect to a dock to use accessories or a monitor but can't use the USB ports to transfer data.
 
@@ -110,7 +110,7 @@ You can now manage USB-C ports across all modes via either of the following meth
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------- |
 | **Surface Laptop**<br> **Surface Laptop 2**<br>**Surface Pro**<br>**Surface Pro 4**<br>**Surface Pro 6**<br>**Surface Studio**<br> **Surface Studio 2** | Enable or disable data           | N/A: No USB-C port on device                                                                                                    | USBPortEnabled (default)<br><br>USBPortHWDisabled                                      | 370-379  |
 | **Surface Laptop SE**<br>**Surface Pro 7**<br>**Surface Pro 7+**<br>**Surface Go**<br>**Surface Go 2**<br>**Surface Laptop Go**<br>**Surface Laptop Go 2**<br> **Surface Laptop Go 3**<br>**Surface Laptop 3** (Intel only)<br>**Surface Laptop 4** (Intel only)<br>**Surface Laptop 5** (Intel only)<br> **Surface Studio 2+** | Enable or disable data           | Enabled data, display out, and power delivery<br><br>Disabled data, display out, and power delivery                           | USBPortEnabled (default)<br><br>USBPortHWDisabled                                      | 370-379  |
-| **Surface Pro 8**<br> **Surface Pro 9**<br>**Surface Pro (11th Edition)**<br>**Surface Laptop (7th Edition)**<br>**Surface Laptop Studio**<br>**Surface Laptop Studio 2**<br>**Surface Go 3**<br> **Surface Go 4**           | Enable or disable data           | Enabled data, display-out, and power delivery<br><br>Disabled data but enabled display-out and power delivery<br><br>Disabled data, display-out, and power delivery | USBPortEnabled (default)<br>USBPortDataDisabled<br>USBPortHwDisabled                  | 380-389  |
+| **Surface Pro 8**<br> **Surface Pro 9**<br>**Surface Pro 11th Edition, Qualcomm processor**<br>**Surface Laptop 7th Edition, Qualcomm processor**<br>**Surface Laptop Studio**<br>**Surface Laptop Studio 2**<br>**Surface Go 3**<br> **Surface Go 4**           | Enable or disable data           | Enabled data, display-out, and power delivery<br><br>Disabled data but enabled display-out and power delivery<br><br>Disabled data, display-out, and power delivery | USBPortEnabled (default)<br>USBPortDataDisabled<br>USBPortHwDisabled                  | 380-389  |
 | **Surface Laptop Studio 2**<br>**Surface Pro 10**<br>**Surface Pro 10 with 5G**<br>**Surface Laptop 6**                                                                                                                            | Enable or disable data           | Enabled data, display-out, and power delivery<br><br>Disabled data but enabled display-out and power delivery<br><br>Disabled data, display-out, and power delivery<br><br>Data dynamically enabled or disabled | USBPortEnabled (default)<br>USBPortDataDisabled<br>USBPortHwDisabled<br>USBPortAuthenticated | 380-389  |
 | **Surface Book 2** and later                                                                                                                             | Base USB ports are always enabled | Base USB ports are always enabled                                                                                               | n/a                                                                                    |          |
 | **Surface Book** with Performance Base<br>**Surface Book**                                                                                               | Base USB ports are always enabled | N/A: No USB-C port on device                                                                                                    | n/a                                                                                    |          |

@@ -1,6 +1,6 @@
 ---
 title: NFC support in Surface Pro for Business
-description: Discover NFC support in Surface Pro 10 & 11th Edition for enhanced security, FIDO2 authentication, and more, ideal for enterprise use.
+description: Learn how NFC in Surface Pro 10 and Surface Pro 11th Edition enhances security with FIDO2 authentication, access control, and enterprise asset tracking.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
@@ -159,11 +159,11 @@ For a managed approach, IT admins can disable NFC using SEMM (Surface Enterprise
 
 ### References
 
-1. NFC on Surface Pro is only available on commercial Wi-Fi configurations of: 
+1. NFC on Surface Pro is only available on commercial Wi-Fi configurations of the following devices: 
 
-- Surface Pro 10 
-- Surface Pro, 11th Edition (Intel)
-- Surface Pro, 11th Edition (Qualcomm)
+- Surface Pro 10
+- Surface Pro, 11th Edition, Intel processor
+- Surface Pro, 11th Edition, Qualcomm processor
 
 ## Download NFC Lock Screens
 
