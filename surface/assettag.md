@@ -7,7 +7,7 @@ author: coveminer
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: carlol
-ms.date: 05/21/2024
+ms.date: 02/14/2025
 manager: frankbu
 appliesto:
 - Windows 10
@@ -21,8 +21,9 @@ that allows you to view, assign, and modify an assigned asset tag value for Surf
 
 ## System requirements
 
-- Surface Pro 3 or later and all newer Surface devices
-- Unified Extensible Firmware Interface (UEFI) firmware version 3.9.150.0 or later.
+- All in-market Surface devices
+- Legacy Surface devices, starting with Surface Pro 3 or later
+- Unified Extensible Firmware Interface (UEFI) firmware version 3.9.150.0 or later
 
 ## Using Surface Asset Tag
 

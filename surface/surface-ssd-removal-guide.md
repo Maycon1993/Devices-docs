@@ -21,7 +21,7 @@ ms.custom:
 > This article is intended for use by qualified IT technicians in an enterprise organization. It describes the recommended best practices for use by skilled IT technicians in the removal and replacement of SSDs in the following compatible Surface devices:
 
 - Surface Laptop Studio (all generations)
-- Surface Pro (11th Edition)
+- Surface Pro 11th Edition, Qualcomm processor 
 - Surface Pro 10
 - Surface Pro 10 with 5G
 - Surface Pro 9
@@ -30,7 +30,7 @@ ms.custom:
 - Surface Pro 7+
 - Surface Pro X
 - Surface Laptop Go (all generations)
-- Surface Laptop (7th Edition)
+- Surface Laptop 7th Edition, Qualcomm processor 
 - Surface Laptop 6
 - Surface Laptop 5
 - Surface Laptop 4
