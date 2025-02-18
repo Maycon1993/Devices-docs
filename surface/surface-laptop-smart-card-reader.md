@@ -25,7 +25,7 @@ In an era where digital security is paramount, Surface Laptop for Business, with
 
 An **integrated Smart Card Reader** is available in select markets<sup>1</sup> on the following 15" commercial models of Surface Laptop, **only in Black**.
 
-### Surface Laptop 7th Edition (Intel)
+### Surface Laptop 7th Edition, Intel processor
 
 Available configurations:
 
@@ -68,4 +68,4 @@ Implementing a Smart Card Reader streamlines access management across the organi
 ### References
 
 1. **Smart Card Reader available in the following markets:** United States, Canada; Australia, New Zealand, Japan; Austria, Germany, United Kingdom, Ireland, France, Switzerland, Denmark, Finland, Norway, Sweden, Belgium, Netherlands, Luxembourg, Italy, Portugal, Spain, Poland, Cyprus, Malta, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Hungary, Latvia, Lithuania, Romania, Slovakia, Slovenia.
-2. Available only in US; TAA compliant. 
+2. Available only in US; TAA compliant.

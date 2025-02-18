@@ -27,9 +27,9 @@ landingContent:
         links:
           - text: Fuel AI adoption with Surface Pro and Surface Laptop powered by Intel
             url: https://techcommunity.microsoft.com/blog/surfaceitpro/fuel-ai-adoption-with-surface-pro-and-surface-laptop-powered-by-intel/4359782
-          - text: Order Surface Pro for Business, Copilot+ PC (Intel)
+          - text: Order Surface Pro for Business, Copilot+ PC, Intel processor
             url: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc-intel/8qfmn9xp1rl9?ocid=oo_core_comm_DDS_dg_surftechblog_FY25WinterSurfaceVSB
-          - text: Order Surface Laptop for Business, Copilot+ PC (Intel)
+          - text: Order Surface Laptop for Business, Copilot+ PC, Intel processor
             url: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-intel/93dzmw6q4w2b?ocid=oo_core_comm_DDS_dg_surftechblog_FY25WinterSurfaceVSB
           - text: Surface USB4 Dock overview
             url: surface-usb4-dock.md 
