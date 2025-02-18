@@ -1,6 +1,6 @@
 ---
 title: Get started with Surface Enterprise Management Mode (SEMM)
-description: See how this feature of Surface devices with Surface UEFI helps you secure and manage firmware settings within your organization.
+description: Learn how to secure and manage firmware settings on Surface devices with Surface Enterprise Management Mode (SEMM). This guide covers enrollment, configuration, and recovery for IT admins.
 ms.service: surface
 author: coveminer
 ms.author: chauncel
@@ -8,7 +8,7 @@ ms.topic: how-to
 ms.reviewer: chauncel
 manager: frankbu
 ms.localizationpriority: medium
-ms.date: 02/14/2025
+ms.date: 02/17/2025
 appliesto:
 - Windows 10
 - Windows 11
@@ -33,42 +33,45 @@ As an alternative to SEMM, newer Surface devices support remote management of a 
 
 ## Supported devices
 
-SEMM is available on devices with Surface UEFI firmware. For most in-market devices, compatiblity is limmited to commercial "Surface for Business" SKU, except as stated in the following list:
+SEMM is available on devices with Surface UEFI firmware. 
+
+>[!NOTE]
+> Support for SEMM is limmited to **commercial "Surface for Business" SKUs**, except as stated on this page.
 
 - Surface Book (all generations)
-- Surface Go 4 (commercial SKUs only)
-- Surface Go 3 (commercial SKUs only)
+- Surface Go 4 
+- Surface Go 3 
 - Surface Go 2 (all SKUs)
 - Surface Go (all SKUs)
 - Surface Hub 2S
-- Surface Laptop 7th Edition, Qualcomm processor (commercial SKUs only)
-- Surface Laptop 7th Edition, Intel processor 
-- Surface Laptop 6 (commercial SKUs only)
-- Surface Laptop 5 (commercial SKUs only)
-- Surface Laptop 4 (commercial SKUs only)
+- Surface Laptop 7th Edition, Qualcomm processor
+- Surface Laptop 7th Edition, Intel processor
+- Surface Laptop 6 
+- Surface Laptop 5 
+- Surface Laptop 4 
 - Surface Laptop 3 (Intel processors only)
 - Surface Laptop 2 (all SKUs)
 - Surface Laptop (all SKUs)
-- Surface Laptop Go 3 (commercial SKUs only)
-- Surface Laptop Go 2 (commercial SKUs only)
+- Surface Laptop Go 3 
+- Surface Laptop Go 2 
 - Surface Laptop Go (all SKUs)
 - Surface Laptop SE (all SKUs)
-- Surface Laptop Studio 2 (commercial SKUs only)
-- Surface Laptop Studio (commercial SKUs only)
+- Surface Laptop Studio 2 
+- Surface Laptop Studio 
 - Surface Pro 11th Edition, Qualcomm processor
-- Surface Pro 11th Edition, Intel processor (commercial SKUs only)
-- Surface Pro 10 (commercial SKUs only)
-- Surface Pro 10 with 5G (commercial SKUs only)
-- Surface Pro 9 (commercial SKUs only)
-- Surface Pro 9 with 5G (commercial SKUs only)
-- Surface Pro 8 (commercial SKUs only)
-- Surface Pro 7+ (commercial SKUs only)
+- Surface Pro 11th Edition, Intel processor 
+- Surface Pro 10 
+- Surface Pro 10 with 5G 
+- Surface Pro 9 
+- Surface Pro 9 with 5G 
+- Surface Pro 8 
+- Surface Pro 7+ 
 - Surface Pro 7 (all SKUs)
 - Surface Pro 6 (all SKUs)
 - Surface Pro 5th Gen (all SKUs)
 - Surface Pro 4 (all SKUs)
 - Surface Pro X (all SKUs)
-- Surface Studio 2+ (commercial SKUs only)
+- Surface Studio 2+ 
 - Surface Studio 2 (all SKUs)
 - Surface Studio (all SKUs)
 
