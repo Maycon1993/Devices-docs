@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 12/10/2024
+ms.date: 02/10/2024
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -97,7 +97,7 @@ The Tool Library in the Surface IT Toolkit is a centralized repository that prov
 
 ### Version 1.223.139.0
 
-This version of Surface IT Toolkit, released Feburuary 19, 2025, includes the following updates:
+This version of Surface IT Toolkit, released February 19, 2025, includes the following updates:
 
 - Support for Surface Laptop for Business 7th Edition, Intel processor
 - Support for Surface Pro for Business 11th Edition, Intel processor
