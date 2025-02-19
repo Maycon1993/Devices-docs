@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 12/10/2024
+ms.date: 02/10/2024
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -52,7 +52,22 @@ See how the Surface IT Toolkit provides essential tools to configure, secure, an
 
 ### Supported devices
 
-Commercial SKUs for the following devices are supported: Surface Pro (11th Edition), Surface Pro 10, Surface Pro 10 with 5G, Surface Pro 9, Surface Pro 8, Surface Pro 7+, Surface Pro 7, Surface Pro X Wi-Fi, Surface Pro X SQ2,  Surface Pro X SQ1; Surface Laptop (7th Edition), Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3; Surface Laptop Studio 2, Surface Laptop Studio; Surface Laptop SE; Surface Laptop Go 3, Surface Laptop Go 2, and Surface Laptop Go;  Surface Go 4, Surface Go 3, and Surface Go 2; Surface Book 3; Surface Studio 2+ and Surface Studio 2.
+| Device family             | Supported models                                         |
+|---------------------------|----------------------------------------------------------|
+| **Surface Pro**           | **Surface Pro 11th Edition, Intel processor**            |
+|                           | **Surface Pro 11th Edition, Qualcomm processor**         |
+|                           | Surface Pro 10, Surface Pro 10 with 5G                   |
+|                           | Surface Pro 9, Surface Pro 8, Surface Pro 7+, Surface Pro 7 |
+|                           | Surface Pro X Wi-Fi, Surface Pro X SQ2, Surface Pro X SQ1 |
+| **Surface Laptop**        | **Surface Laptop 7th Edition, Intel processor**         |
+|                           | **Surface Laptop 7th Edition, Qualcomm processor**      |
+|                           | Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3 |
+|                           | Surface Laptop SE                                        |
+|                           | Surface Laptop Go 3, Surface Laptop Go 2, Surface Laptop Go |
+| **Surface Laptop Studio** | Surface Laptop Studio 2, Surface Laptop Studio          |
+| **Surface Go**            | Surface Go 4, Surface Go 3, Surface Go 2                |
+| **Surface Book**          | Surface Book 3                                          |
+| **Surface Studio**        | Surface Studio 2+, Surface Studio 2                     |
 
 ## What's in the Surface IT Toolkit?
 
@@ -80,6 +95,14 @@ The Tool Library in the Surface IT Toolkit is a centralized repository that prov
 
 ## Release notes
 
+### Version 1.223.139.0
+
+This version of Surface IT Toolkit, released February 19, 2025, includes the following updates:
+
+- Support for Surface Laptop for Business 7th Edition, Intel processor
+- Support for Surface Pro for Business 11th Edition, Intel processor
+- Improved accessibility
+
 ### Version 1.204.139.0
 
 This version of Surface IT Toolkit, released December 5, 2024, includes the following updates:
@@ -90,7 +113,7 @@ This version of Surface IT Toolkit, released December 5, 2024, includes the foll
 
 This version of Surface IT Toolkit, released September 10, 2024, includes the following updates:
 
-- Added support for Wi-Fi+5G models of Surface Pro (11th Edition) and Wi-Fi+5G models of Surface Pro 10 for Business
+- Added support for Wi-Fi+5G models of Surface Pro 11th Edition, Qualcomm processor and Wi-Fi+5G models of Surface Pro 10 for Business
 - Improved accessibility options
 
 ### Version 1.186.139
