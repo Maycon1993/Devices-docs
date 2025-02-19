@@ -52,7 +52,7 @@ See how the Surface IT Toolkit provides essential tools to configure, secure, an
 
 ### Supported devices
 
-| Device series             | Supported Models                                         |
+| Device family             | Supported models                                         |
 |---------------------------|----------------------------------------------------------|
 | **Surface Pro**           | **Surface Pro 11th Edition, Intel processor**            |
 |                           | **Surface Pro 11th Edition, Qualcomm processor**         |
