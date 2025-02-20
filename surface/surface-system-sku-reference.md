@@ -1,11 +1,11 @@
 ---
 title: Surface System SKU reference
-description: View System Model and SKU names for Surface devices to facilitate IT admin tasks. 
+description: Find System Model & SKU names for Surface devices to streamline IT tasks like driver installation, deployment, and PowerShell commands. 
 ms.service: surface
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 10/18/2024
+ms.date: 02/20/2025
 ms.reviewer: tode
 manager: frankbu
 ms.localizationpriority: medium
@@ -64,6 +64,8 @@ System Model and System SKU are variables stored in System Management BIOS (SMBI
 | Surface Laptop 7th Edition, Qualcomm processor Consumer 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_2037|
 | Surface Laptop 7th Edition, Qualcomm processor Commercial 13.8"                        | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2036|
 | Surface Laptop 7th Edition, Qualcomm processor Commercial 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2037|
+| Surface Laptop 7th Edition, Intel processor 13.8"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2107 = 13.8|
+| Surface Laptop 7th Edition, Intel processor 15"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2108=15|
 | Surface Laptop Go                                            | Surface Laptop Go | Surface_Laptop_Go_1943      |
 | Surface Laptop Go 2                                          | Surface Laptop Go 2 | Surface_Laptop_Go_2_2013      |
 | Surface Laptop Go 3                                         | Surface Laptop Go 3 | Surface_Laptop_Go_3_2013      |
@@ -93,6 +95,7 @@ System Model and System SKU are variables stored in System Management BIOS (SMBI
 | Surface Pro 10 with 5G for Business (Korea)| Surface Pro 10 with 5G for Business | Surface_Pro_10_with_5G_for_Business_2121  |
 | Surface Pro 11th Edition, Qualcomm processor Consumer                          | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_2076        |
 | Surface Pro 11th Edition, Qualcomm processor Commercial                        | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_For_Business_2085        |
+| Surface Pro 11th Edition, Intel processor                        | Surface Pro for Business 11th Edition with Intel   | Surface_Pro_11th_Edition_With_Intel_For_Business_2103        |
 | Surface Pro with 5G, 11th Edition, Consumer (outside of Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_2077|
 | Surface Pro with 5G, 11th Edition, Consumer (Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_2078|
 | Surface Pro with 5G, 11th Edition, Commercial (outside of Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_For_Business_2077|
