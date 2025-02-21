@@ -1,13 +1,13 @@
 ---
 title: Surface repair by Microsoft Authorized Service Providers
-description: Discover how Microsoft ASPs offer Surface repairs using genuine parts and direct support, collaborating closely with Microsoft for quality service.
+description: Get Surface repairs from Microsoft Authorized Service Providers using genuine parts and direct Microsoft support.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 02/12/2025
-ms.reviewer: 
+ms.date: 02/20/2025
+ms.reviewer: vermavishal
 manager: frankbu
 appliesto:
 - Windows 10
@@ -116,6 +116,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
+| [Signpost](https://signpost.be/nl-be/microsoft-education) | --           |                                       |
 | [The Rent Company](https://rentcompany.be/) | --           |                                       |
 
 #### Denmark
