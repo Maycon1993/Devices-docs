@@ -6,7 +6,7 @@ ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 01/15/2025
+ms.date: 02/21/2025
 ms.localizationpriority: medium
 appliesto:
 - Windows 10
