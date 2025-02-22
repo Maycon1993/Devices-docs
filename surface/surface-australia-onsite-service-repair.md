@@ -23,13 +23,13 @@ EHS Plus with On-Site is a commercial Protection Plan available for purchase by 
 ### Eligible devices (commercial versions only)
 
 - Surface Laptop 7th Edition, Intel processor
-- Surface Laptop 7th Edition, Qualcomm processor
+- Surface Laptop 7th Edition, Snapdragon processor
 - Surface Laptop 6
 - Surface Laptop 5
 - Surface Laptop Studio 2
 - Surface Laptop Go 3
 - Surface Pro 11th Edition, Intel processor
-- Surface Pro 11th Edition, Qualcomm processor
+- Surface Pro 11th Edition, Snapdragon processor
 - Surface Pro 10
 - Surface Pro 9
 - Surface Pro 9 with 5G
