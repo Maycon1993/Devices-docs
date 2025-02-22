@@ -1,6 +1,6 @@
 ---
 title: Considerations for Surface and Microsoft Configuration Manager
-description: Manage & deploy Surface devices efficiently with Configuration Manager, covering drivers, licensing, security, and Windows 11 updates.
+description: Deploy and manage Surface devices with Configuration Manager, including drivers, licensing, security, and Windows 11 updates.
 ms.service: surface
 author: coveminer
 ms.author: chauncel

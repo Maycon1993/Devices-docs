@@ -17,7 +17,7 @@ ms.custom:
 - CI 118876
 - CSSTroubleshoot 
 ms.reviewer: mablaik
-description: Find support options for Microsoft Surface and Surface Hub products tailored for business and education customers. Access online tools, in-store services, and troubleshooting resources to manage and resolve device issues efficiently.
+description: Get business & education support for Surface and Surface Hub. Access troubleshooting resources, online tools, and in-store services.
 ---
 # Contact Surface Support for Business and Education customers
 
