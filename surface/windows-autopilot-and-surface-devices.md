@@ -71,7 +71,7 @@ Surface partners that are enabled for Windows Autopilot include:
 |  [Connection](https://www.connection.com/brand/microsoft/microsoft-surface)   |  [ATEA](https://www.atea.com/) |  [Techdata](https://www.techdata.com/)  |
 |  [Insight](https://www.insight.com/en_US/buy/partner/microsoft/surface/windows-autopilot.html)  |  [Bechtle](https://www.bechtle.com/marken/microsoft/microsoft-windows-autopilot) |  [Ingram](https://go.microsoft.com/fwlink/p/?LinkID=2128954)   |
 |  [SHI](https://www.shi.com/Surface) |  [Cancom](https://www.cancom.de/) |    |
-|  [LDI Connect](https://www.myldi.com/managed-it/)  |  [Computacenter](https://www.computacenter.com/uk) |    |
+|  [LDI Connect](https://myldi.com/solutions/managed-it/)  |  [Computacenter](https://www.computacenter.com/uk) |    |
 |  [F1](https://www.functiononeit.com/#empower)  |   |  |
 |  [Protected Trust](https://go.microsoft.com/fwlink/p/?LinkID=2129005) | | |
 
