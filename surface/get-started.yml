@@ -110,7 +110,7 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
-          - text: Surface recovery image download
+          - text: Download Surface recovery images
             url: https://support.microsoft.com/surface-recovery-image       
           - text: Deploy Surface Diagnostic Toolkit for Business
             url: surface-diagnostic-toolkit-business.md
