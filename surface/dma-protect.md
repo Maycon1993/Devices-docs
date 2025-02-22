@@ -32,7 +32,7 @@ On Surface devices, DMA protection:
 
 DMA protection is **enabled by default** on newer Surface for Business devices, including:
 
-- Surface Laptop 7th Edition, Qualcomm processor
+- Surface Laptop 7th Edition, Snapdragon processor
 - Surface Laptop 7th Edition, Intel processor  
 - Surface Laptop 6  
 - Surface Laptop 5  
@@ -42,7 +42,7 @@ DMA protection is **enabled by default** on newer Surface for Business devices, 
 - Surface Laptop Studio 2  
 - Surface Laptop Studio  
 - Surface Laptop Go 3  
-- Surface Pro 11th Edition, Qualcomm processor  
+- Surface Pro 11th Edition, Snapdragon processor  
 - Surface Pro 11th Edition, Intel processor  
 - Surface Pro 10  
 - Surface Pro 10 with 5G  
