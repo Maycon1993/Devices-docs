@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 02/20/2025
+ms.date: 02/21/2025
 ms.reviewer: vermavishal
 manager: frankbu
 appliesto:
@@ -176,6 +176,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
 | [Academia Ltd](https://academia.co.uk/) | --            |                                       |
+| [Ballicom Ltd](https://www.ballicom.co.uk/campaign/microsoft-surface-authorised-service-provider/) | --            |                                       |
 | [Carillion](https://www.carillion.com/) | ✔             |                                       |
 | [Centerprise](https://www.centerprise.co.uk/) | --        |                                       |
 | [CDW](https://www.uk.cdw.com/)          | --           |                                       |
