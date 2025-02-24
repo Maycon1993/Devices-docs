@@ -163,7 +163,7 @@ For a managed approach, IT admins can disable NFC using SEMM (Surface Enterprise
 
 - Surface Pro 10
 - Surface Pro, 11th Edition, Intel processor
-- Surface Pro, 11th Edition, Qualcomm processor
+- Surface Pro, 11th Edition, Snapdragon processor
 
 ## Download NFC Lock Screens
 

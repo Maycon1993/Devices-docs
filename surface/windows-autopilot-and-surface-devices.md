@@ -38,7 +38,7 @@ You can register Surface devices at the time of purchase from a Surface partner 
 
 ## Modern management
 
-Autopilot is the recommended deployment option for Surface devices, including Surface Pro 11th Edition, Qualcomm processor; Surface Pro 11th Edition, Intel processor; Surface Pro 10, Surface Pro 9, Surface Pro 9 with 5G, Surface Studio 2+, Surface Pro 8, Surface Laptop Studio (all generations), Surface Laptop Go (all generations), Surface Go 4, Surface Go 3, Surface Pro 7+, Surface Laptop 7th Edition, Qualcomm processor; Surface Laptop 7th Edition, Intel processor; Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, and Surface Pro X.
+Autopilot is the recommended deployment option for Surface devices, including Surface Pro 11th Edition, Snapdragon processor; Surface Pro 11th Edition, Intel processor; Surface Pro 10, Surface Pro 9, Surface Pro 9 with 5G, Surface Studio 2+, Surface Pro 8, Surface Laptop Studio (all generations), Surface Laptop Go (all generations), Surface Go 4, Surface Go 3, Surface Pro 7+, Surface Laptop 7th Edition, Snapdragon processor; Surface Laptop 7th Edition, Intel processor; Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, and Surface Pro X.
 
 It's best to enroll your Surface devices with the help of a Microsoft Cloud Solution Provider. This step allows you to manage UEFI firmware settings on Surface directly from Intune. It eliminates the need to physically touch devices for certificate management. See [Intune management of Surface UEFI settings](surface-manage-dfci-guide.md) for details.
 
@@ -71,7 +71,7 @@ Surface partners that are enabled for Windows Autopilot include:
 |  [Connection](https://www.connection.com/brand/microsoft/microsoft-surface)   |  [ATEA](https://www.atea.com/) |  [Techdata](https://www.techdata.com/)  |
 |  [Insight](https://www.insight.com/en_US/buy/partner/microsoft/surface/windows-autopilot.html)  |  [Bechtle](https://www.bechtle.com/marken/microsoft/microsoft-windows-autopilot) |  [Ingram](https://go.microsoft.com/fwlink/p/?LinkID=2128954)   |
 |  [SHI](https://www.shi.com/Surface) |  [Cancom](https://www.cancom.de/) |    |
-|  [LDI Connect](https://www.myldi.com/managed-it/)  |  [Computacenter](https://www.computacenter.com/uk) |    |
+|  [LDI Connect](https://myldi.com/solutions/managed-it/)  |  [Computacenter](https://www.computacenter.com/uk) |    |
 |  [F1](https://www.functiononeit.com/#empower)  |   |  |
 |  [Protected Trust](https://go.microsoft.com/fwlink/p/?LinkID=2129005) | | |
 

@@ -55,12 +55,12 @@ See how the Surface IT Toolkit provides essential tools to configure, secure, an
 | Device family             | Supported models                                         |
 |---------------------------|----------------------------------------------------------|
 | **Surface Pro**           | **Surface Pro 11th Edition, Intel processor**            |
-|                           | **Surface Pro 11th Edition, Qualcomm processor**         |
+|                           | **Surface Pro 11th Edition, Snapdragon processor**         |
 |                           | Surface Pro 10, Surface Pro 10 with 5G                   |
 |                           | Surface Pro 9, Surface Pro 8, Surface Pro 7+, Surface Pro 7 |
 |                           | Surface Pro X Wi-Fi, Surface Pro X SQ2, Surface Pro X SQ1 |
 | **Surface Laptop**        | **Surface Laptop 7th Edition, Intel processor**         |
-|                           | **Surface Laptop 7th Edition, Qualcomm processor**      |
+|                           | **Surface Laptop 7th Edition, Snapdragon processor**      |
 |                           | Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3 |
 |                           | Surface Laptop SE                                        |
 |                           | Surface Laptop Go 3, Surface Laptop Go 2, Surface Laptop Go |
@@ -113,7 +113,7 @@ This version of Surface IT Toolkit, released December 5, 2024, includes the foll
 
 This version of Surface IT Toolkit, released September 10, 2024, includes the following updates:
 
-- Added support for Wi-Fi+5G models of Surface Pro 11th Edition, Qualcomm processor and Wi-Fi+5G models of Surface Pro 10 for Business
+- Added support for Wi-Fi+5G models of Surface Pro 11th Edition, Snapdragon processor and Wi-Fi+5G models of Surface Pro 10 for Business
 - Improved accessibility options
 
 ### Version 1.186.139
