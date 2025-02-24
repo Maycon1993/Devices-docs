@@ -26,9 +26,9 @@ With the Surface Management Portal, you can:
 - Centralize Surface-specific device administration in a single environment.
 - Automatically access comprehensive information from your Intune-enrolled Surface devices, which flows into the Surface Management Portal when users sign in for the first time.
 
-## Security Copilot integration
+## **Security Copilot integration**  
 
-The **Surface Management Portal** now integrates with **[Microsoft Security Copilot](/mem/intune/copilot/security-copilot-surface-portal)**, bringing **AI-powered insights** to IT teams. This integration enables **automated troubleshooting, proactive device management, and security-driven intelligence** within the portal, helping administrators **resolve issues faster and enhance security postures**.  
+The **Surface Management Portal** integrates with **[Microsoft Security Copilot](/mem/intune/copilot/security-copilot-surface-portal)**, bringing **AI-powered insights** to IT teams. **Now in public preview**, this feature enables **automated troubleshooting, proactive device management, and security-driven intelligence**, helping administrators **resolve issues faster and strengthen security postures**.  
 
 To learn more about how Security Copilot enhances Surface device management, see:  
 
