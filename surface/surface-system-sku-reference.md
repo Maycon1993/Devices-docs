@@ -60,10 +60,10 @@ System Model and System SKU are variables stored in System Management BIOS (SMBI
 | Surface Laptop 5 15" Commercial                                  | Surface Laptop 5 | Surface_Laptop_5_for_Business_1979|
 | Surface Laptop 6 for Business 13.5"                                   | Surface Laptop 6 for Business | Surface_Laptop_6_for_Business_2033|
 | Surface Laptop 6 for Business 15"                                  | Surface Laptop 6 for Business | Surface_Laptop_6_for_Business_2035|
-| Surface Laptop 7th Edition, Qualcomm processor Consumer 13.8"                        | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_2036|
-| Surface Laptop 7th Edition, Qualcomm processor Consumer 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_2037|
-| Surface Laptop 7th Edition, Qualcomm processor Commercial 13.8"                        | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2036|
-| Surface Laptop 7th Edition, Qualcomm processor Commercial 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2037|
+| Surface Laptop 7th Edition, Snapdragon processor Consumer 13.8"                        | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_2036|
+| Surface Laptop 7th Edition, Snapdragon processor Consumer 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_2037|
+| Surface Laptop 7th Edition, Snapdragon processor Commercial 13.8"                        | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2036|
+| Surface Laptop 7th Edition, Snapdragon processor Commercial 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2037|
 | Surface Laptop 7th Edition, Intel processor 13.8"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2107 = 13.8|
 | Surface Laptop 7th Edition, Intel processor 15"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2108=15|
 | Surface Laptop Go                                            | Surface Laptop Go | Surface_Laptop_Go_1943      |
@@ -93,8 +93,8 @@ System Model and System SKU are variables stored in System Management BIOS (SMBI
 | Surface Pro 10 with 5G for Business (outside of Japan and Korea) | Surface Pro 10 with 5G for Business | Surface_Pro_10_with_5G_for_Business_2077|
 | Surface Pro 10 with 5G for Business (Japan) |Surface Pro 10 with 5G for Business  | Surface_Pro_10_with_5G_for_Business_2078  |
 | Surface Pro 10 with 5G for Business (Korea)| Surface Pro 10 with 5G for Business | Surface_Pro_10_with_5G_for_Business_2121  |
-| Surface Pro 11th Edition, Qualcomm processor Consumer                          | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_2076        |
-| Surface Pro 11th Edition, Qualcomm processor Commercial                        | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_For_Business_2085        |
+| Surface Pro 11th Edition, Snapdragon processor Consumer                          | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_2076        |
+| Surface Pro 11th Edition, Snapdragon processor Commercial                        | Microsoft Surface Pro, 11th Edition   | Surface_Pro_11th_Edition_For_Business_2085        |
 | Surface Pro 11th Edition, Intel processor                        | Surface Pro for Business 11th Edition with Intel   | Surface_Pro_11th_Edition_With_Intel_For_Business_2103        |
 | Surface Pro with 5G, 11th Edition, Consumer (outside of Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_2077|
 | Surface Pro with 5G, 11th Edition, Consumer (Japan) | Microsoft Surface Pro with 5G, 11th Edition  | Surface_Pro_with_5G_11th_Edition_2078|

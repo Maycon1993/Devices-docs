@@ -30,7 +30,7 @@ Devices must have a wired connection with Surface Dock 2 and stay connected to A
 
 ## Supported Surface devices
 
-- Surface Laptop 7th Edition, Qualcomm processor 
+- Surface Laptop 7th Edition, Snapdragon processor 
 - Surface Laptop 6
 - Surface Laptop 5
 - Surface Laptop 4 (Intel processors)

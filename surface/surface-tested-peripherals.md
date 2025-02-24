@@ -34,9 +34,9 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 |----------------------------|----------------------------|---------------------------|---------------------------|---------------------------|
 | Surface Laptop 7th Edition, Intel processor (Wi-Fi only)   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-intel-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-intel-processor) | |
 | Surface Pro 11th Edition, Intel processor   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-cables-for-surface-pro-11th-edition-intel-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-intel-processor) | |
-| Surface Laptop 7th Edition, Qualcomm processor  | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-qualcomm-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-qualcomm-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-qualcomm-processor) | [Adapters](#tested-adapters-for-surface-laptop-7th-edition-qualcomm-processor)|
-| Surface Pro 11th Edition, Qualcomm processor (Wi-Fi only)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-qualcomm-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-qualcomm-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-qualcomm-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-qualcomm-processor)  |
-| Surface Pro 11th Edition, Qualcomm processor (Wi-Fi + 5G)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-qualcomm-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-qualcomm-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-qualcomm-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-qualcomm-processor)  |
+| Surface Laptop 7th Edition, Snapdragon processor  | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-snapdragon-processor) | [Adapters](#tested-adapters-for-surface-laptop-7th-edition-snapdragon-processor)|
+| Surface Pro 11th Edition, Snapdragon processor (Wi-Fi only)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-snapdragon-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-snapdragon-processor)  |
+| Surface Pro 11th Edition, Snapdragon processor (Wi-Fi + 5G)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-snapdragon-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-snapdragon-processor)  |
 | Surface Pro 10              | [Monitors](#tested-monitors-for-surface-pro-10)          | [Docks](#tested-docks-for-surface-pro-10)          | [Cables](#tested-cables-for-surface-pro-10) | |
 | Surface Pro 10 with 5G   | [Monitors](#tested-monitors-for-surface-pro-10-with-5g) | [Docks](#tested-docks-for-surface-pro-10-with-5g) | [Cables](#tested-cables-for-surface-pro-10-with-5g) | |
 | Surface Laptop 6   | [Monitors](#tested-monitors-for-surface-laptop-6) | [Docks](#tested-docks-for-surface-laptop-6) | [Cables](#tested-cables-for-surface-laptop-6) |  |
@@ -197,9 +197,9 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Monoprice DP Cable                                  |                      |                |              |                            | ✓                    |               |
 | Moshi USB-C to DP Cable (99MO084102)                |                      |                |              |                            | ✓                    |               |
 
-## Surface Laptop 7th Edition, Qualcomm processor
+## Surface Laptop 7th Edition, Snapdragon processor
 
-### Tested monitors for Surface Laptop 7th Edition, Qualcomm processor
+### Tested monitors for Surface Laptop 7th Edition, Snapdragon processor
 
 | Monitor                               | Designed for Surface <br>(3rd party)| USB-C | DisplayPort | HDMI |
 |---------------------------------------|----------------------|-------|-------------|------|
@@ -227,7 +227,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Samsung S34C650VA                     |                      | ✓     | ✓           | ✓    |
 | ViewSonic VA2447-MH                   |                      |       |             | ✓    |
 
-### Tested docks for Surface Laptop 7th Edition, Qualcomm processor
+### Tested docks for Surface Laptop 7th Edition, Snapdragon processor
 
 | Dock                                            | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |-------------------------------------------------|----------------------|-------------|-------|-----------------|
@@ -242,7 +242,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | HP Thunderbolt Dock 120 W - G2 6HP48AA#ABL      |                      | ✓           |       |                 |
 | Plugable ULT-CDL                                |                      |             | ✓     |                 |
 
-### Tested cables for Surface Laptop 7th Edition, Qualcomm processor
+### Tested cables for Surface Laptop 7th Edition, Snapdragon processor
 
 | Cable                                                  | Designed for Surface <br>(3rd party)| USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI |
 |--------------------------------------------------------|----------------------|----------------|--------------|----------------------------|----------------------|---------------|
@@ -255,7 +255,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Monoprice DP Cable                                    |                      |                |              |                            | ✓                    |               |
 | Moshi USB-C to DP Cable (99MO084102)                  |                      |                |              |                            | ✓                    |               |
 
-### Tested adapters for Surface Laptop 7th Edition, Qualcomm processor
+### Tested adapters for Surface Laptop 7th Edition, Snapdragon processor
 
 | Adapter                                           | USB-C to DisplayPort | USB-C to HDMI |
 |---------------------------------------------------|----------------------|---------------|
@@ -263,11 +263,11 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Club-3D USB-C to DP Adapter (CAC-1507)            | ✓                    |               |
 | MSFT USB-C to DP Adapter                          | ✓                    |               |
 
-## Surface Pro 11th Edition, Qualcomm processor (Wi-Fi only) & Surface Pro 11th Edition, Qualcomm processor (Wi-Fi + 5G)
+## Surface Pro 11th Edition, Snapdragon processor (Wi-Fi only) & Surface Pro 11th Edition, Snapdragon processor (Wi-Fi + 5G)
 
 This section includes test results for both Surface Pro (11th Edition Wi-Fi only) and Surface Pro (11th Edition – Wi-Fi + 5G).
 
-### Tested monitors for Surface Pro 11th Edition, Qualcomm processor
+### Tested monitors for Surface Pro 11th Edition, Snapdragon processor
 
 | Monitor                               | Designed for Surface <br>(3rd party)| USB-C | DisplayPort | HDMI |
 |---------------------------------------|----------------------|-------|-------------|------|
@@ -300,7 +300,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Samsung S34C650VA                     |                      | ✓     | ✓           | ✓    |
 | ViewSonic VA2447-MH                   |                      |       |             | ✓    |
 
-### Tested docks for Surface Pro 11th Edition, Qualcomm processor
+### Tested docks for Surface Pro 11th Edition, Snapdragon processor
 
 | Dock                                             | Designed for Surface <br>(3rd party)| Thunderbolt | USB-C | Surface Connect |
 |--------------------------------------------------|----------------------|-------------|-------|-----------------|
@@ -315,7 +315,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | HP Thunderbolt Dock 120 W - G2 6HP48AA#ABL       |                      | ✓           |       |                 |
 | Plugable ULT-CDL                                 |                      |             | ✓     |                 |
 
-### Tested adapters for Surface Pro 11th Edition, Qualcomm processor
+### Tested adapters for Surface Pro 11th Edition, Snapdragon processor
 
 | Adapter                                           | USB-C to DisplayPort | USB-C to HDMI |
 |---------------------------------------------------|----------------------|---------------|
@@ -323,7 +323,7 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Club-3D USB-C to DP Adapter (CAC-1507)            | ✓                    |               |
 | MSFT USB-C to DP Adapter                          | ✓                    |               |
 
-### Tested cables for Surface Pro 11th Edition, Qualcomm processor
+### Tested cables for Surface Pro 11th Edition, Snapdragon processor
 
 | Cable                                               | Designed for Surface <br>(3rd party)| USB-C to USB-C | USB4 to USB4 | Thunderbolt to Thunderbolt | USB-C to DisplayPort | USB-C to HDMI |
 |-----------------------------------------------------|----------------------|----------------|--------------|----------------------------|----------------------|---------------|
