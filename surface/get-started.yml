@@ -25,6 +25,8 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
+          - text: Security Copilot launches in Surface Management Portal 
+            url:  https://techcommunity.microsoft.com/blog/SurfaceITPro/exploring-security-copilot-in-the-surface-management-portal-public-preview/4384429         
           - text: Fuel AI adoption with Surface Pro and Surface Laptop powered by Intel
             url: https://techcommunity.microsoft.com/blog/surfaceitpro/fuel-ai-adoption-with-surface-pro-and-surface-laptop-powered-by-intel/4359782
           - text: Order Surface Pro for Business, Copilot+ PC, Intel processor
@@ -33,8 +35,6 @@ landingContent:
             url: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-intel/93dzmw6q4w2b?ocid=oo_core_comm_DDS_dg_surftechblog_FY25WinterSurfaceVSB
           - text: Surface USB4 Dock overview
             url: surface-usb4-dock.md 
-          - text: NFC support in Surface Pro 
-            url: surface-pro-nfc.md
           - text: Modernizing Surface support
             url: https://techcommunity.microsoft.com/blog/surfaceitpro/modernizing-surface-support/4355990  
           - text: How to prepare for Windows 10 end of support by moving to Windows 11 today 
