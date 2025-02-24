@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 12/17/2024  
+ms.date: 02/24/2025  
 ms.reviewer: rohitmannan  
 manager: frankbu  
 appliesto:  
@@ -25,6 +25,15 @@ With the Surface Management Portal, you can:
 - Monitor the status of each device, including warranty expirations and active support requests.
 - Centralize Surface-specific device administration in a single environment.
 - Automatically access comprehensive information from your Intune-enrolled Surface devices, which flows into the Surface Management Portal when users sign in for the first time.
+
+## Security Copilot integration
+
+The **Surface Management Portal** now integrates with **[Microsoft Security Copilot](/mem/intune/copilot/security-copilot-surface-portal)**, bringing **AI-powered insights** to IT teams. This integration enables **automated troubleshooting, proactive device management, and security-driven intelligence** within the portal, helping administrators **resolve issues faster and enhance security postures**.  
+
+To learn more about how Security Copilot enhances Surface device management, see:  
+
+- **[Security Copilot in Microsoft Surface Management Portal](https://learn.microsoft.com/en-us/mem/intune/copilot/security-copilot-surface-portal)** *(official documentation)*  
+- **[Exploring Security Copilot in the Surface Management Portal](https://techcommunity.microsoft.com/blog/surfaceitpro/exploring-security-copilot-in-the-surface-management-portal-public-preview/4384429)** *(IT Pro Blog post)*  
 
 ## Video demo
 
