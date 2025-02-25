@@ -6,7 +6,7 @@ ms.localizationpriority: high
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 06/28/2024
+ms.date: 02/25/2025
 ms.reviewer: phorton
 manager: frankbu
 appliesto:
@@ -34,13 +34,9 @@ Accessory                                            | Release date        | end
 Surface Dock                                         | October 26, 2015    | December 30, 2026
 Surface Dial                                         | November 1, 2016    | June 1, 2025
 Surface Ergonomic Keyboard                           | November 21, 2016   | December 30, 2025
-Surface Modern Keyboard with Fingerprint ID          | June 15, 2017       | September 30, 2024
 Surface Arc Mouse                                    | June 30, 2017       | December 30, 2026
 Surface Precision Mouse                              | November 16, 2017   | March 30, 2028
 Surface Mobile Mouse                                 | August 2, 2018      | June 23, 2027
-Surface Headphones                                   | November 19, 2018   | September 30, 2024
-Microsoft Classroom Pen                              | February 28, 2019   | November 19, 2024
-Surface Slim Pen                                     | October 1, 2019     | September 30, 2024
 Surface Pen                                          | October 22, 2019    | June 30, 2027
 Surface Earbuds                                      | May 12, 2020        | June 30, 2026
 Surface Headphones 2                                 | May 12, 2020        | December 30, 2027
@@ -59,6 +55,7 @@ Surface Keyboard                                     | October 25, 2022    | Oct
 Surface Pro Signature Keyboard                       | February 21, 2023   | February 21, 2029
 Surface Thunderbolt 4 dock                           | April 4, 2023       | April 4, 2029
 Surface Pro Flex Keyboard                            | June 18, 2024       | June 18, 2030
+Surface USB4 Dock for Business                       | February 18, 2025   | February 18, 2031
 
 ## Legacy products
 
@@ -69,6 +66,7 @@ Accessory                                            | Release date        | end
 Surface Modern Keyboard with Fingerprint ID          | June 15, 2017       | September 30, 2024
 Surface Headphones                                   | November 19, 2018   | September 30, 2024
 Surface Slim Pen                                     | October 1, 2019     | September 30, 2024
+Microsoft Classroom Pen                              | February 28, 2019   | November 19, 2024
 
 ## Learn more
 
