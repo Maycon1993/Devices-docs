@@ -29,7 +29,7 @@ The Surface accessories driver and firmware lifecycle period defines the period 
 
 The following table lists the release date and end-of-servicing date for Surface-branded accessories:
 
-Accessory                                            | Release date        | end-of-servicing date
+Accessory                                            | Release date        | End-of-servicing date
 -----------------------------------------------------|---------------------|---------------------
 Surface Dock                                         | October 26, 2015    | December 30, 2026
 Surface Dial                                         | November 1, 2016    | June 1, 2025
@@ -45,7 +45,7 @@ Surface USB-C Travel hub                             | May 26, 2020        | Dec
 Surface Go Type Cover                                | August 5, 2020      | December 30, 2026
 Microsoft Classroom Pen 2                            | April 27, 2021      | April 27, 2027
 Surface Headphones 2+                                | May 4, 2021         | May 4, 2027
-Surface Slim Pen (2nd Edition)                                   | October 5, 2021     | October 5, 2027
+Surface Slim Pen (2nd Edition)                       | October 5, 2021     | October 5, 2027
 Surface Pro Type Cover                               | November 5, 2021    | March 30, 2028
 Surface Pro Signature Keyboard with Fingerprint Reader| January 25, 2022   | January 25, 2028
 Surface Pro Liberty Keyboard                         | January 25, 2022    | January 25, 2028
@@ -59,9 +59,9 @@ Surface USB4 Dock for Business                       | February 18, 2025   | Feb
 
 ## Legacy products
 
-The following table lists products that have passed their end-of-servicing date based on the driver and firmware lifecycle policy. These devices no longer receive newer driver and firmware updates than those listed on [Surface update history](https://support.microsoft.com/surface/surface-update-history-6036fff5-edec-c8ec-9796-a5633aac9488)
+The following table lists products that have passed their end-of-servicing date based on the driver and firmware lifecycle policy. These devices no longer receive newer driver and firmware updates than those listed on [Surface update history](https://support.microsoft.com/surface/surface-update-history-6036fff5-edec-c8ec-9796-a5633aac9488).
 
-Accessory                                            | Release date        | end-of-servicing date
+Accessory                                            | Release date        | End-of-servicing date
 -----------------------------------------------------|---------------------|---------------------
 Surface Modern Keyboard with Fingerprint ID          | June 15, 2017       | September 30, 2024
 Surface Headphones                                   | November 19, 2018   | September 30, 2024
@@ -71,6 +71,6 @@ Microsoft Classroom Pen                              | February 28, 2019   | Nov
 ## Learn more
 
 - [Surface driver and firmware lifecycle for Windows-based devices](surface-driver-firmware-lifecycle-support.md)
-- [Surface Hub devices and accessories Driver and firmware lifecycle](/surface-hub/surface-hub-driver-firmware-accessories-lifecycle)
+- [Surface Hub devices and accessories driver and firmware lifecycle](/surface-hub/surface-hub-driver-firmware-accessories-lifecycle)
 - [Surface device compatibility with Windows Long-Term Servicing Channel (LTSC)](surface-device-compatibility-with-windows-ltsc.md)
-- [Surface Warranty and Support Plans](https://www.microsoft.com/surface/business/warranty-protection-plans-and-support)
+- [Surface Warranty & Support Plans](https://www.microsoft.com/surface/business/warranty-protection-plans-and-support)
