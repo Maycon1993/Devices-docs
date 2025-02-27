@@ -10,7 +10,8 @@
       items: 
       - name: Tech specs
         items:
-         - name: surface-laptop-techspecs.md
+         - name: Surface Laptop 7th Edition (Intel)
+           href: surface-laptop-techspecs.md
       - name: Tech overviews
         items:
          - name: NFC support in Surface Pro
