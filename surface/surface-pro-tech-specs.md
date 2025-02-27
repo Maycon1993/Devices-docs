@@ -13,12 +13,12 @@ appliesto:
 - Windows 11
 ---
 
-# Pro 11 tech specs intel
+# Pro 11 tech specs Intel
 
 | Feature                        | Description |
 |--------------------------------|-------------|
-| **Processor**                  | - Intel Core Ultra 5 processor 236V<br>- Intel Core Ultra 5 processor 238V<br>- Intel Core Ultra 7 processor 266V<br>- Intel Core Ultra 7 processor 268V |
-| **NPU**                        | **Intel AI Boost with 40 TOPS**<br>- Intel Core Ultra 5 processor 236V<br>- Intel Core Ultra 5 processor 238V<br><br>**Intel AI Boost with 48 TOPS**<br>- Intel Core Ultra 7 processor 266V<br>- Intel Core Ultra 7 processor 268V |
+| **Processor**                  | - Intel Core Ultra 5 processor 236 V<br>- Intel Core Ultra 5 processor 238V<br>- Intel Core Ultra 7 processor 266 V<br>- Intel Core Ultra 7 processor 268V |
+| **NPU**                        | **Intel AI Boost with 40 TOPS**<br>- Intel Core Ultra 5 processor 236 V<br>- Intel Core Ultra 5 processor 238V<br><br>**Intel AI Boost with 48 TOPS**<br>- Intel Core Ultra 7 processor 266V<br>- Intel Core Ultra 7 processor 268V |
 | **Graphics**                   | - Intel Arc™ Graphics |
 | **Memory**                     | - 16GB, 32GB LPDDR5x RAM |
 | **Storage** [<sup>1</sup>](#references) | - Removable [<sup>2</sup>](#references) solid-state drive (Gen 4 SSD): 256GB, 512GB, 1TB |
@@ -41,7 +41,7 @@ appliesto:
 | **Kickstand**                    | - Kickstand with 165-degree full friction hinge |
 | **Sensors**                      | - Ambient color sensor<br>- Accelerometer<br>- Gyroscope<br>- Magnetometer<br>- NFC [<sup>27</sup>](#references) |
 | **What's in the box**             | - Quick Start Guide<br>- Safety and warranty documents<br>- 39W Power Supply (in select markets, available only with specific configurations) |
-| **Warranty** [<sup>28</sup>](#references) | - 1-year limited hardware warranty |
+| **Warranty** [<sup>28</sup>](#references) | - One year limited hardware warranty |
 | **Battery capacities** [<sup>29</sup>](#references) | - Nominal: 47 Wh<br>- Minimum: 46 Wh |
 
 
@@ -57,7 +57,7 @@ appliesto:
 6. The Surface Pro (Intel) 11th Edition display has been designed to minimize unwanted reflections and has been certified by TÜV SÜD to meet the requirements of ISO 9241-307.
 7. Might vary depending on manufacturing processes.
 8. Weight not including Keyboard.
-9. Based on local video playback test. Testing conducted by Microsoft in January 2025 using preproduction software and preproduction Surface Pro Intel Core Ultra 5 256GB, 16GB RAM (LCD) devices and Intel Core Ultra 7 256GB, 16GB RAM (OLED) devices. Testing consisted of full battery discharge during video playback of a .mov file through the Windows Media Player application in 1080p at 24 FPS. All settings were default except screen brightness set to 150 nits with Auto-brightness disabled. Wi-Fi was connected to a network. Battery life varies significantly with settings, usage, and other factors
+9. Based on local video playback test. Testing conducted by Microsoft in January 2025 using preproduction software and preproduction Surface Pro Intel Core Ultra 5 256GB, 16GB RAM (LCD) devices and Intel Core Ultra 7 256GB, 16GB RAM (OLED) devices. Testing consisted of full battery discharge during video playback of a .mov file through the Windows Media Player application in 1080p at 24 FPS. All settings were default except screen brightness set to 150 nits with Autobrightness disabled. Wi-Fi was connected to a network. Battery life varies significantly with settings, usage, and other factors
 10. Based on a web browsing test. Testing conducted by Microsoft in January 2025 using preproduction software and preproduction Surface Pro Intel Core Ultra 5 256GB, 16GB RAM (LCD) devices and Intel Core Ultra 7 256GB, 16GB RAM (OLED) devices. Testing consisted of full battery discharge while accessing eight popular websites over multiple open tabs through the browser. All settings were default except screen brightness set to 150 nits with Auto-Brightness disabled.  Wi-Fi was connected to a network. Battery life varies significantly with settings, usage, and other factors.
 11. Voice focus requires activation, requires Windows 11 and is available in apps which use integrated device microphones and use certain Windows audio processing modes.
 12. In select markets, only specific configurations come with 39 W Surface power supply. Fast charging (from 5% to 80%) is supported with minimum 65W Surface power supply or 60W USB Type-C PD charger or higher, sold separately. Testing conducted in December 2024. For details on fast charging see [USB-C and fast charging for Surface - Microsoft Support.](https://support.microsoft.com/surface/usb-c-and-fast-charging-for-surface-d320ab19-e4ed-c36d-7458-7d7aec69d34a)
@@ -65,7 +65,7 @@ appliesto:
 14. Pen and keyboard sold separately.
 15. Applies to Surface Pro Keyboard with pen storage, Surface Pro Flex Keyboard, and Surface Pro Signature Keyboard.
 16 Sold separately. Software license required for some features.
-17. Activation required. If your device is managed by your organization’s IT department, contact your IT administrator for activation. After 30 days, you will be charged the applicable monthly or annual subscription fee. Credit card required. Cancel any time to stop future charges. See [https://aka.ms/m365businesstrialinfo](https://aka.ms/m365businesstrialinfo). 
+17. Activation required. If your device is managed by your organization’s IT department, contact your IT administrator for activation. After 30 days, you'll be charged the applicable monthly or annual subscription fee. Credit card required. Cancel anytime to stop future charges. See [https://aka.ms/m365businesstrialinfo](https://aka.ms/m365businesstrialinfo). 
 18. Surface Pro Flex Keyboard and Surface Pro Keyboard with bold keyset available only in US English.
 19. Enclosure includes bucket. 100% recycled aluminum alloy in bucket. 100% recycled rare earth metals in magnets. Based on validation performed by Underwriter Laboratories, Inc. using Environmental Claim Validation Procedure (ECVP) for Recycled Content, UL ECVP 2809-2, Second Edition, dated June 20, 2024.
 20. Applies to sales packaging. Based on internal analysis using IEEE Std 1680.1-2018. IEEE Standard for Environmental and Social Responsibility Assessment of Computers and Displays. 4.7.3.1 Required—Recycled content in wood-based fiber packaging.
