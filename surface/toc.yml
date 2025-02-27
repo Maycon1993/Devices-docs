@@ -1,3 +1,4 @@
+
 - name: Surface
   href: index.yml
   expanded: true
@@ -7,7 +8,10 @@
     - name: Overview
       expanded: true
       items: 
-      - name: Technical overviews
+      - name: Tech specs
+        items:
+         - name: surface-laptop-techspecs.md
+      - name: Tech overviews
         items:
          - name: NFC support in Surface Pro
            href: surface-pro-nfc.md
