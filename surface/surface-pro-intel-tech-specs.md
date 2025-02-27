@@ -42,7 +42,8 @@ appliesto:
 | **Sensors**                      | - Ambient color sensor<br>- Accelerometer<br>- Gyroscope<br>- Magnetometer<br>- NFC [<sup>24</sup>](#references) |
 | **What's in the box**             | - Quick Start Guide<br>- Safety and warranty documents<br>- 39W Power Supply (in select markets, available only with specific configurations) |
 | **Warranty** [<sup>25</sup>](#references) | - One year limited hardware warranty |
-| **Battery capacities** [<sup>7</sup>](#references) | - Nominal: 47 Wh<br>- Minimum: 46 Wh |
+| **Battery capacities** [<sup>7</sup>](#references) | **Surface Pro with LCD display**<br>- Nominal (Wh): 47<br>- Min (Wh): 46<br><br>**Surface Pro with OLED display**<br>- Nominal (Wh): 53<br>- Min (Wh): 51
+ |
 
 
 ----------
