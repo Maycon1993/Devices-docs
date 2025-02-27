@@ -1,5 +1,5 @@
 ---
-title: Surface Laptop tech specs
+title: Tech specs—Copilot+ PC Surface Laptop for Business, 7th Edition | Intel processor
 description: See technical specifications for Surface Laptop 7th Edition with Intel processors.
 ms.service: surface
 ms.localizationpriority: medium
@@ -13,7 +13,8 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Laptop (Intel) tech specs
+# Tech specs: Copilot+ PC Surface Laptop for Business, 7th Edition | Intel processor
+
 
 | Feature                             | Description |
 |-------------------------------------|-------------|
