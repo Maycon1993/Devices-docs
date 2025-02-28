@@ -8,7 +8,7 @@ ms.service: surface-hub
 ms.sitesec: library
 author: ryanbwold
 ms.author: rwold
-ms.topic: article
+ms.topic: troubleshooting-general
 ms.date: 06/27/2023
 ms.localizationpriority: medium
 ---
