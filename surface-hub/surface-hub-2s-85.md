@@ -6,7 +6,7 @@ author: coveminer
 ms.author: chauncel
 manager: frankbu
 
-ms.topic: conceptual
+ms.topic: how-to
 ms.date: 01/11/2022
 ms.localizationpriority: Medium
 ---
