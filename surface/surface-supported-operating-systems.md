@@ -103,7 +103,7 @@ This article lists the versions of Windows that are supported on the Business an
 | Surface Book 3 13.5” with dGPU                                     | - Windows 10, Version 1903 build 18362 and later<br>- Windows 11, Version 21H2 build 22000 and later                                                               |
 | Surface Book 3 15”                                                 | - Windows 10, Version 1903 build 18362 and later<br>- Windows 11, Version 21H2 build 22000 and later                                                               |
 | Surface Book 2 with 7th Gen CPU                                    | - Windows 10, Version 1703 build 15063 and later
-| Surface Book 2 with 8th Gen CPU                                    | - Windows 10, Version 1703 build 15063 and later<br>- Windows 10, Version 1703 build 15063 and later <br>- Windows 11, Version 21H2 build 22000 and later |
+| Surface Book 2 with 8th Gen CPU                                    | - Windows 10, Version 1703 build 15063 and later<br>- Windows 10, Version 1703 build 15063 and later |
 | Surface Book with Performance Base                                 | - Windows 10, Version 1607 build 14393 and later                                                                                                                            |
 | Surface Book                                                       | - Windows 10, Version 1507 build 10240 and later                                                                                                                            |
 
