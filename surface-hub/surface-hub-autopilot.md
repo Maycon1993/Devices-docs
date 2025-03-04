@@ -5,7 +5,7 @@ ms.service: surface-hub
 author: coveminer
 ms.author: dpandre
 manager: frankbu
-ms.topic: conceptual
+ms.topic: install-set-up-deploy
 ms.date: 03/26/2024
 ms.localizationpriority: Medium
 appliesto:
