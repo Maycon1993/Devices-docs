@@ -32,7 +32,7 @@ The **Surface Management Portal** now integrates with **[Microsoft Security Copi
 
 To learn more about how Security Copilot enhances Surface device management, see:  
 
-- **[Security Copilot in Microsoft Surface Management Portal](/mem/intune/copilot/security-copilot-surface-portal)** *(official documentation)*  
+-  **[Security Copilot in Microsoft Surface Management Portal (Public Preview)](/mem/intune-service/copilot/security-copilot-surface-portal)** *(official documentation)*  
 - **[Exploring Security Copilot in the Surface Management Portal](https://techcommunity.microsoft.com/blog/surfaceitpro/exploring-security-copilot-in-the-surface-management-portal-public-preview/4384429)** *(IT Pro Blog post)*  
 
 ## Video demo
