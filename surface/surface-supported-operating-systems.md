@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 10/17/2024
+ms.date: 03/03/2025
 ms.reviewer: chauncel
 manager: frankbu
 ---
@@ -22,6 +22,7 @@ This article lists the versions of Windows that are supported on the Business an
 
 | Device                               | Windows OS                                                                                                          |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Surface Pro 11th Edition, Intel processor               | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Pro 11th Edition, Snapdragon processor               | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Pro 10 with 5G for Business      | - Windows 11, Version 24H2 build 26100 and later |
 | Surface Pro 10 for Business              | - Windows 10, Version 22H2 build 19045 and later<br>- Windows 11, Version 23H2 build 22631 and later |
@@ -46,6 +47,7 @@ This article lists the versions of Windows that are supported on the Business an
 
 | Device                                    | Windows OS                                                                                                          |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Surface Laptop 7th Edition, Intel processor                  | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Laptop 7th Edition, Snapdragon processor                  | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Laptop 6 for Business                 | - Windows 10, Version 22H2 build 19045 and later <br>- Windows 11, Version 23H2 build 22631 and later |
 | Surface Laptop 5                              | - Windows 10, Version 21H2 build 19044 and later<br>- Windows 11, Version 22H2 build 22621 and later  |
@@ -100,10 +102,10 @@ This article lists the versions of Windows that are supported on the Business an
 | Surface Book 3 13.5”                                               | - Windows 10, Version 1903 build 18362 and later<br>- Windows 11, Version 21H2 build 22000 and later                                                               |
 | Surface Book 3 13.5” with dGPU                                     | - Windows 10, Version 1903 build 18362 and later<br>- Windows 11, Version 21H2 build 22000 and later                                                               |
 | Surface Book 3 15”                                                 | - Windows 10, Version 1903 build 18362 and later<br>- Windows 11, Version 21H2 build 22000 and later                                                               |
-| Surface Book 2 with 7th Gen CPU<br>Surface Book 2 with 8th Gen CPU | - Windows 10, Version 1703 build 15063 and later<br>- Windows 10, Version 1703 build 15063 and later <br>- Windows 11, Version 21H2 build 22000 and later |
+| Surface Book 2 with 7th Gen CPU                                    | - Windows 10, Version 1703 build 15063 and later
+| Surface Book 2 with 8th Gen CPU                                    | - Windows 10, Version 1703 build 15063 and later<br>- Windows 10, Version 1703 build 15063 and later |
 | Surface Book with Performance Base                                 | - Windows 10, Version 1607 build 14393 and later                                                                                                                            |
 | Surface Book                                                       | - Windows 10, Version 1507 build 10240 and later                                                                                                                            |
-
 
 ## Surface 3
 
