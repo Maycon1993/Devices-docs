@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 02/21/2025
+ms.date: 03/05/2025
 ms.reviewer: vermavishal
 manager: frankbu
 appliesto:
@@ -146,6 +146,12 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [Ratiodata](https://www.ratiodata.de/) | ✔          |                                       |
 | [Think About It](https://think-about.it/) | --       |                                       |
 
+#### Luxembourg
+
+| Authorized Service Provider        | Onsite Repair | Notes                                  |
+|------------------------------------|---------------|----------------------------------------|
+| [Post Telecom S.A](https://www.deep.eu/fr/accueil) | -- |                                       |
+
 #### Netherlands
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
@@ -218,6 +224,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 |------------------------------------|---------------|----------------------------------------|
 | [Digital China (神州数码)](https://www.digitalchina.com/)| ✔    | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services                          |
 | [Double Rise (倍升互联)](https://www.doublerise.com/index/list?catid=1)| -- |                                       |
+| [Hemmersbach IT Services (Beijing) Co. Ltd](https://www.hemmersbach.com/fieldservices)|-- | |
 
 #### Japan
 
@@ -225,6 +232,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 |------------------------------------|---------------|----------------------------------------|
 | [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/) | --  | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services        |
 | [GSS](https://www.gssltd.co.jp/surface/) | --       |  [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                       |
+| [Hemmersbach Nippon K.K](https://www.hemmersbach.com/fieldservices)|-- | |
 | [Otsuka Corporation (株式会社大塚商会)](https://www.otsuka-shokai.co.jp/corporate/release/2025/250212.html) | --       |                                      |
 
 #### New Zealand
