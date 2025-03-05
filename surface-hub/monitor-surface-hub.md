@@ -7,7 +7,7 @@ manager: frankbu
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
-ms.topic: conceptual
+ms.topic: article
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 appliesto:

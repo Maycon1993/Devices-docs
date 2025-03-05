@@ -6,7 +6,7 @@ description: Simplify deployment of Surface devices with Windows Autopilot. Auto
 ms.service: surface
 author: coveminer
 ms.author: chauncel
-ms.topic: conceptual
+ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/21/2023
 appliesto:

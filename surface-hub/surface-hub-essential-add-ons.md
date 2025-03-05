@@ -8,7 +8,7 @@ author: coveminer
 ms.author: chauncel
 ms.date: 09/18/2020
 ms.collection: M365-modern-desktop
-ms.topic: conceptual
+ms.topic: article
 ---
 
 # Essential add-ons for Windows Pro and Enterprise on Surface Hub
