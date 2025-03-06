@@ -4,7 +4,7 @@ description: Learn how Surface devices align with Windows LTSC editions, offerin
 ms.service: surface
 author: coveminer
 ms.author: chauncel
-ms.topic: conceptual
+ms.topic: concept-article
 ms.localizationpriority: medium
 ms.date: 10/23/2024
 manager: frankbu
