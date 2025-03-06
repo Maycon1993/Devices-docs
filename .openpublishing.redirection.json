@@ -429,6 +429,11 @@
             "source_path":  "surface/surface-dock-whats-new.md",
             "redirect_url": "/surface/surface-thunderbolt4-dock",
             "redirect_document_id":  false
-        }                                                                            						
+        },
+        {
+            "source_path":  "surface/maintain-optimal-power-settings-on-Surface-devices.md",
+            "redirect_url": "https://support.microsoft.com/surface/maximize-your-surface-battery-life-45479867-a7fa-33dd-fc4d-6762e9b3b11a",
+            "redirect_document_id":  false
+        }                                                                                						
     ]
 }
