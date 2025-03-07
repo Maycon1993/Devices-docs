@@ -43,11 +43,8 @@ Surface Dock 2 is designed to simplify IT management, enabling admins to automat
 ### USB
 
 - Two front-facing USB-C ports
-- Two rear-facing USB-C (gen 2) ports
-- Two rear-facing USB-A 3.2 ports
-
-### Video
-  
+- Two rear-facing USB-C (Gen 2) ports
+- Two rear-facing USB-A 3.2 (Gen 2) ports
 - Dual 4K@60Hz. Supports up to two displays on the following devices:
 
   - Surface Laptop Studio
