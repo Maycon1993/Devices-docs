@@ -93,4 +93,4 @@ The following devices require a firmware update to support this feature:
 ## Learn more
 
 - [Configure UEFI settings for Surface devices](surface-it-toolkit-uefi-config.md)
-- [Best practice power settings for Surface devices](maintain-optimal-power-settings-on-Surface-devices.md)
+- [Maximize your Surface battery life](https://support.microsoft.com/surface/maximize-your-surface-battery-life-45479867-a7fa-33dd-fc4d-6762e9b3b11a)
