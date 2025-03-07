@@ -44,7 +44,7 @@ Surface Dock 2 is designed to simplify IT management, enabling admins to automat
 
 - Two front-facing USB-C ports
 - Two rear-facing USB-C (gen 2) ports
-- Two rear-facing USB-A ports
+- Two rear-facing USB-A 3.2 ports
 
 ### Video
   
