@@ -15,7 +15,7 @@ appliesto:
 ---
 # Surface Thunderbolt 4 Dock overview
 
-Surface Thunderbolt 4 Dock delivers ultra-high speed data transfer, built-in enterprise management, and security[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
+Surface Thunderbolt 4 Dock delivers ultra-high-speed data transfer, built-in enterprise management and security,[<sup>1</sup>](#references) and the versatility to connect your most important peripherals.
 
 - **High-speed USB4/Thunderbolt 4 on USB-C ports.** Plug in one cable to power your device, connect two 4K monitors at up to 60 Hz[<sup>2</sup>](#references), and transfer data and files at up to 40 Gbps.
 - **The charging power you need for your devices and accessories.** Connect and power your laptop with up to 96 watts of power passthrough and extra charging power for your phone and accessories.[<sup>3</sup>](#references)
@@ -31,7 +31,7 @@ Surface Thunderbolt 4 Dock helps improve IT efficiency and reduce overhead and s
 
 - **SEMM for Dock**. Designed to quickly lock down the ports of your dock in mission-critical environments and restrict functionality to specific devices, enabling organizations to simplify and secure IT management. For more information, see [Secure Surface Dock ports with Surface Enterprise Management Mode](secure-surface-dock-ports-semm.md).
 - **Firmware updates through Windows Update**. Seamlessly keep your dock up to date with automatic updates or downloadable update driver and firmware packs.
-- **MAC address passthrough.** [<sup>6</sup>](#references)Maintain device network identity from one dock to another for ease of management in shared workspaces or dock environments.
+- **MAC address passthrough.**[<sup>6</sup>](#references)Maintain device network identity from one dock to another for ease of management in shared workspaces or dock environments.
 - **Wake-on-LAN from Modern Standby.** IT admins can remotely wake up devices connected to Surface Thunderbolt 4 Dock and automatically perform management tasks.
 - **Windows Management Instrumentation (WMI) support**. IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface Thunderbolt 4 Dock devices. For more information, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
 - **Centralized support & warranty service**. IT admins can get direct support via the [Surface Management Portal](surface-management-portal.md) or [Surface Support Portal](https://admin.microsoft.com/adminportal/home).
@@ -81,7 +81,7 @@ Surface Thunderbolt 4 Dock is compatible with the following Surface for Business
 :::image type="content" source="images/surface-dock/frontdockdiagram.png" alt-text="Screenshot showing the front facing view of components.":::
 *Front facing view*
 <br><br>
-:::image type="content" source="images/surface-dock/reardockdiagram.png " alt-text="Screenshot showing the rear facing view of components.":::
+:::image type="content" source="images/surface-dock/reardockdiagram.png" alt-text="Screenshot showing the rear facing view of components.":::
 *Rear facing view*
 
 ### USB
@@ -97,7 +97,7 @@ Surface Thunderbolt 4 Dock is compatible with the following Surface for Business
 
 ### External Power supply
 
-- 165-W power supply and up to 96-W passthrough to connected PC and support for 100V-240V.
+- 165 W power supply and up to 96 W passthrough to connected PC, with support for 100V-240V.
 
 ## Cable Matters Desk Mount for Microsoft Surface Thunderbolt 4 Dock
 
@@ -129,7 +129,7 @@ Optimize port access, save desk space, and enhance security with the [Cable Matt
 | Host power                         | 96 W                                                                                                                                                | 65 W                                                                                                                                                        | 120 W                                                                                               | None                                                                                                          |
 | USB load power                     | 67.5 W                                                                                                                                              | 65 W                                                                                                                                                        | 60 W                                                                                                | None                                                                                                          |
 | USB bit rate                       | Up to 32 Gbps                                                                                                                                       | Up to 40 Gbps                                                                                                                                               | Up to 10 Gbps                                                                                       | Standard USB-C speeds                                                                                         |
-| Monitor support                    | 2 x 4K @ 60 Hz or 1 x 4K @ 60 Hz                                                                                                                    | Dual 4K @ 60 Hz or single 8K @ 30 Hz                                                                                                                        | 2 x 4K @ 60 Hz<br>or 1 x 4K @120 Hz                                                                 | Single monitor                                                                                                |
+| Monitor support                    | Dual 4K @ 60Hz                                                                                                                    | Dual 4K @ 60 Hz or single 8K @ 30 Hz                                                                                                                        | Dual 4K @ 60 Hz<br>or 1 x 4K @120 Hz                                                                 | Single monitor                                                                                                |
 | Wake-on-LAN from Modern Standby    | Yes                                                                                                                                                 | Yes                                                                                                                                                         | Yes                                                                                                 | No                                                                                                            |
 | Wake-on-LAN from S4/S5 sleep modes | Yes                                                                                                                                                  | No                                                                                                                                                          | Yes                                                                                                 | No                                                                                                            |
 | Network PXE boot                   | Yes                                                                                                                                                 | Yes                                                                                                                                                         | Yes                                                                                                 | No                                                                                                            |
