@@ -88,7 +88,7 @@ Surface Thunderbolt 4 Dock is compatible with the following Surface for Business
 
 - One front-facing USB-A (USB 3.2 Gen 2, 7.5 W)
 - One front-facing USB-C (USB4/Thunderbolt 4, video display enabled, 15 W)
-- Two rear-facing USB-A (USB 3.2, Gen 2, 7.5 W)
+- Two rear-facing USB-A (USB 3.2 Gen 2, 7.5 W)
 - Two rear-facing USB-C (USB4/Thunderbolt 4, video display enabled, 15 W)
 
 ### Ethernet
