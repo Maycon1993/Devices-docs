@@ -95,7 +95,7 @@ Surface Thunderbolt 4 Dock is compatible with the following Surface for Business
 
 - 2.5-gigabit Ethernet port.
 
-### External Power supply
+### External power supply
 
 - 165 W power supply and up to 96 W passthrough to connected PC, with support for 100V-240V.
 
