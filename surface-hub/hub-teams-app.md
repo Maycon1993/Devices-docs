@@ -1,6 +1,6 @@
 ---
 title: Microsoft Teams app for Surface Hub 
-description: Provides a version history of updates for the Microsoft Teams app for Surface Hub
+description: Provides a version history of updates for the Microsoft Teams app for Surface Hub 2S.
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
@@ -12,12 +12,13 @@ appliesto:
 - Surface Hub 2S
 ---
 
-# Microsoft Teams app for Surface Hub 
+# Microsoft Teams app for Surface Hub 2S 
 
-The Microsoft Teams app for Surface Hub is periodically updated and available via the [Microsoft Store](https://www.microsoft.com/store/apps/windows). If you manage Surface Hub with Automatic Updates enabled (default setting), the app will update automatically.
+The Microsoft Teams app for Surface Hub is periodically updated and available via the [Microsoft Store](https://apps.microsoft.com/). If you manage Surface Hub with Automatic Updates enabled (default setting), the app will update automatically.
  
 
 ## Version history
+
 | Store app version | Updates                                                                                         | Published to Microsoft Store |
 | --------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
 | 0.2020.84.19701       | - Coordinated Teams meetings with Microsoft Teams Rooms <br> - Proximity-based meeting join                            | August 12, 2020<br>            |
