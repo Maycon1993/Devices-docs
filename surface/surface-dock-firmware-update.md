@@ -179,7 +179,7 @@ Events are logged in the Application Event Log.  Note:  Earlier versions of this
 ## Versions reference
 
 >[!NOTE]
->The installation file is released with the following naming format: **Surface_Dock_FwUpdate_X.XX.XXX_Win10_XXXXX_XX.XXX.XXXXX_X.MSI** (ex: Surface_Dock_FwUpdate_1.42.139_Win10_17134_19.084.31680_0.msi) and installs by default to C:\Program Files\SurfaceUpdate.
+>The installation file is released with the following naming format: **Surface_Dock_FwUpdate_X.XX.XXX_Win10_XXXXX_XX.XXX.XXXXX_X.msi** (ex: Surface_Dock_FwUpdate_1.42.139_Win10_17134_19.084.31680_0.msi) and installs by default to C:\Program Files\SurfaceUpdate.
 
 ### Version 1.53.139.0
 
@@ -200,7 +200,7 @@ The registry values that indicate the status of firmware updates are unchanged f
 
 #### Release Date: September 18 2019
 
-This version, contained in Surface_Dock_FwUpdate_1.42.139_Win10_17134_19.084.31680_0.MSI, updates firmware in the background.
+This version, contained in Surface_Dock_FwUpdate_1.42.139_Win10_17134_19.084.31680_0.msi, updates firmware in the background.
 
 #### Updated registry key values
 
