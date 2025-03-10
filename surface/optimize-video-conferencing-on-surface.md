@@ -60,7 +60,7 @@ Many Surface devices now include updates with power setting optimizations specif
 1. **Connect the device to AC power** (power optimizations are limited on battery).  
 2. **Adjust power mode or the performance slider** to **Better Performance** or **Best Performance** to enhance video conferencing quality.
 
-Using **Windows Update** or **Windows Update for Business** ensures that the latest power optimizations are applied automatically. For more information on recommended settings, see [Best practice power settings for Surface devices](maintain-optimal-power-settings-on-surface-devices.md).
+Using **Windows Update** or **Windows Update for Business** ensures that the latest power optimizations are applied automatically.
 
 ## Learn more
 

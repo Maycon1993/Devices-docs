@@ -233,9 +233,7 @@
         - name: Optimize video conferencing on Surface devices
           href: optimize-video-conferencing-on-surface.md   
         - name: Optimize Wi-Fi connectivity on Surface devices
-          href: surface-wireless-connect.md
-        - name: Best practice power settings for Surface devices
-          href: maintain-optimal-power-settings-on-Surface-devices.md  
+          href: surface-wireless-connect.md 
         - name: Surface DMA Protection
           href: dma-protect.md   
         - name: Considerations for Surface & Configuration Manager
