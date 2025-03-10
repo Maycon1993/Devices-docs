@@ -25,7 +25,7 @@ Centrally managing updates remains essential for maintaining secure, up-to-date 
 
 ## What's included in Surface driver and firmware updates
 
-Windows Installer .msi files contain all the required cumulative driver and firmware updates for Surface devices. Update packages may include some or all of the following components:
+Windows Installer .msi files contain all the required cumulative driver and firmware updates for Surface devices. Update packages might include some or all of the following components:
 
 - Wi-Fi and LTE
 - Video
@@ -43,7 +43,7 @@ Windows Installer .msi files contain all the required cumulative driver and firm
 2. If multiple .msi files are available, select the file corresponding to your Surface model and deployed OS version.  
 
 > [!IMPORTANT]
-> When Windows 10 reaches end of support (EOS) on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or provide technical support. To learn more, including transition options for organizations needing more time, see [Plan for Windows 10 End of Support with Windows 11, Windows 365, and ESU](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414).
+> When Windows 10 reaches end of support on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or provide technical support. To learn more, including transition options for organizations needing more time, see [Plan for Windows 10 End of Support with Windows 11, Windows 365, and ESU](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414).
 
 | Surface device                                                                                                                                        | Downloadable .msi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,7 +105,7 @@ While the [Microsoft Deployment Toolkit (MDT)](/previous-versions/windows/it-pro
 
 ## Surface .msi naming convention
 
-Since August 2019, .msi files have followed the convention:
+Since August 2019, .msi files follow this convention:
 
 **Product**\_**Windows release**\_**Windows build number**\_**Version number**\_**Revision of version number (typically zero)**
 
