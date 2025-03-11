@@ -1,11 +1,11 @@
 ---
 title: Set up and use Microsoft Whiteboard
-description: Microsoft Whiteboard's latest update includes the capability for two Surface Hubs to collaborate in real time on the same board.
+description: Set up and use Microsoft Whiteboard to collaborate in real time on Surface Hub and other devices with Microsoft 365 integration.
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 09/27/2022
+ms.date: 02/10/2025
 ms.reviewer: 
 manager: frankbu
 ms.localizationpriority: medium
@@ -17,33 +17,33 @@ The Microsoft Whiteboard app includes the capability for Surface Hubs and other 
 
 ## Prerequisites
 
-To use whiteboard collaboration, complete the following actions:
+To use Whiteboard collaboration, complete the following actions:
 
-- Add Whiteboard.ms, whiteboard.microsoft.com, and wbd.ms to your list of allowed sites.
-- Open port: **HTTPS: 443** (normally configured when you first run Surface Hub.)
+- Add Whiteboard.ms, *.whiteboard.microsoft.com, and wbd.ms to your list of allowed sites.
+- Open port: **HTTPS: 443** (normally configured when you first run Surface Hub).
 - Ensure that Whiteboard is enabled for your organization. For more information, see [Manage access to Whiteboard](/microsoft-365/whiteboard/manage-whiteboard-access-organizations).
 
 ## Microsoft 365 requirements
 
-- Whiteboard collaboration is only supported in the Microsoft 365 commercial environment and requires Microsoft 365 with cloud-based Microsoft Entra ID.
+- Whiteboard collaboration is supported only in a Microsoft 365 commercial environment and requires Microsoft 365 with cloud-based Microsoft Entra ID.
 - You can only run collaborative sessions among users belonging to the same Microsoft 365 tenant.
 - Microsoft 365 Germany or Microsoft 365 operated by 21Vianet don't support whiteboard collaboration.
 
-## Collaborating with whiteboards
+## Collaborating with Whiteboards
 
 To start a collaboration session:
 
 1. In the Whiteboard app, tap the **Sign in** button.
 2. Sign in with your organization ID.
 3. Tap the **Invite** button next to your name at the top of the app.
-4. Write or type the names of the colleagues you wish to collaborate with.
+4. Enter the names of desired participants.
 
 On the other device, such as a Surface Hub, when you're signed in, the shared board will now appear in the board gallery.
 
 ### User tips
 
-- Sign in to access your whiteboards. As you work, changes are saved automatically.
-- Name your whiteboards to help organize your content and find it quickly. Select the … to open the menu. Select the **Options** gear icon to access more tools and features of the Whiteboard.
+- Sign in to access your Whiteboards. As you work, changes are saved automatically.
+- Name your whiteboards to help organize your content and find it quickly. Select the **…** to open the menu. Select the **Options** gear icon to access more tools and features of the Whiteboard.
 - Use **Ink to shape** to turn drawing into actual shapes like circles, squares, and triangles.
 - Use **Ink to table** to turn a drawn grid into a table with rows and columns.
 - You can also change the background color and design from solid to grid or dots. Pick the background, then choose the color from the wheel around it.
@@ -59,11 +59,11 @@ For more information, see [Use Microsoft Whiteboard on a Surface Hub](https://su
 - **Automatic Saving** - Boards are saved to the cloud automatically when you sign in, and can be found in the board gallery. There's no local folder name or directory.
 - **Extended collaboration across devices** - You can collaborate using new apps for Windows 10 or Windows 11 PC and iOS, and a web version for other devices.
 - **Richer canvas** - In addition to ink and images, Whiteboard now includes sticky notes, text and GIFs, with more objects coming soon.
-- **Intelligence** – In addition to ink to shape and table, Whiteboard now includes ink beautification to improve handwriting and ink grab to convert images to ink.
+- **Intelligence** - In addition to Ink to Shape and Ink to Table, Whiteboard now includes ink beautification to improve handwriting and ink grab to convert images to ink.
 - **More color and background options** - Whiteboard now includes more pen colors and thickness options along with other background colors and designs.
-- **Teams Integration** – You can automatically launch Whiteboard from a Teams meeting and share with participants.
+- **Microsoft Teams integration** - You can automatically launch Whiteboard from a Teams meeting and share with participants.
 
 ## Related articles
 
-- [Support documentation for Microsoft Whiteboard](/microsoft-365/whiteboard/)
+- [Microsoft Whiteboard support documentation](/microsoft-365/whiteboard/)
 - [Use Microsoft Whiteboard on a Surface Hub](https://support.office.com/article/use-microsoft-whiteboard-on-a-surface-hub-5c594985-129d-43f9-ace5-7dee96f7621d)
