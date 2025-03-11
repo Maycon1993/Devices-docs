@@ -18,7 +18,7 @@ appliesto:
 This article explains how to use Microsoft Surface Dock 1 Firmware Update to install and manage firmware on the original Surface Dock 1. When installed on your Surface device, it updates Surface Dock 1 devices attached to your Surface device.
 
 > [!NOTE]
-> This article applies only to Surface Dock 1. Subsequently released docks, such as [Surface Dock 2](surface-dock2-overview.md), are capable of receiving updates automatically.
+> This article applies only to Surface Dock 1. Subsequently released docks, such as [Surface USB 4 Dock](surface-usb4-dock.md) or [Surface Thunderbolt 4 Dock](surface-thunderbolt4-dock.md), are capable of receiving updates automatically.
 
 This tool supersedes the earlier Microsoft Surface Dock Updater tool, previously available for download as part of Surface Tools for IT. The earlier tool was named Surface_Dock_Updater_vx.xx.xxx.x.msi (where x indicates the version number) and is no longer available for download and shouldn't be used.
 
