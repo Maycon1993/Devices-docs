@@ -87,7 +87,7 @@ On a separate PC, perform the following tasks:
 
 1. Download the [Surface IT Toolkit](https://www.microsoft.com/download/details.aspx?id=46703), which includes the Surface [*UEFI Configurator*](/surface/surface-it-toolkit-uefi-config).
 2. Follow the installation instructions in [Get started with Surface IT Toolkit](/surface/surface-it-toolkit#get-started-with-surface-it-toolkit).
-3. Download the [Surface Hub 2S drivers & firmware Windows Installer MSI file](https://www.microsoft.com/download/details.aspx?id=101974), **SurfaceHub2S_Win10_19045_24.043.31687.0.MSI**, to use during the new OS installation.
+3. Download the [Surface Hub 2S drivers & firmware Windows Installer MSI file](https://www.microsoft.com/download/details.aspx?id=101974), **SurfaceHub2S_Win10_19045_24.043.31687.0.msi**, to use during the new OS installation.
 
 ### Prepare the SEMM certificate
 
@@ -154,7 +154,7 @@ To install a Windows 10/11 Pro or Enterprise image (version *20H2* or later), us
 
 4. **Transfer files to USB *BOOTME* drive**:
    - Copy the SEMM package file (*DfciUpdate.dfi*) from your first USB drive (named *SEMM*) to the root of the *BOOTME* USB drive.
-   - Add the drivers and firmware MSI file (SurfaceHub2S_Win10_19045_24.043.31687.0.MSI) to the root of the *BOOTME* USB drive.
+   - Add the drivers and firmware MSI file (SurfaceHub2S_Win10_19045_24.043.31687.0.msi) to the root of the *BOOTME* USB drive.
 
 > [!NOTE]
 > Ensure you have a valid Windows 10/11 Pro or Enterprise license distinct from any pre-existing Windows 10 Team licenses.

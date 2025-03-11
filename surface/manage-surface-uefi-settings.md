@@ -21,14 +21,15 @@ Surface devices are designed to use a unique Unified Extensible Firmware Interfa
 
 ## Supported products
 
-UEFI management is supported on the following Surface devices:
+| Product Line | Supported Models | Notes |
+|----------------|---------------------|-----------|
+| **Surface Pro** | Surface Pro 11th Edition (Snapdragon processor), Surface Pro 11th Edition (Intel processor), Surface Pro 10, Surface Pro 9, Surface Pro 9 with 5G (commercial SKUs only), Surface Pro 8 (commercial SKUs only), Surface Pro 7+ (commercial SKUs only), Surface Pro 7, Surface Pro 6, Surface Pro (5th Gen), Surface Pro 4, Surface Pro X | Commercial SKUs are noted where applicable |
+| **Surface Laptop** | Surface Laptop 7th Edition (Snapdragon processor), Surface Laptop 7th Edition (Intel processor), Surface Laptop 6 (commercial SKUs only), Surface Laptop 5 (commercial SKUs only), Surface Laptop 4 (commercial SKUs only), Surface Laptop Go 3 (commercial SKUs only), Surface Laptop Go 2 (commercial SKUs only), Surface Laptop SE, Surface Laptop 3 (Intel processors only), Surface Laptop 2, Surface Laptop (1st Gen), Surface Laptop Go | Commercial SKUs are noted where applicable |
+| **Surface Studio** | Surface Studio 2+, Surface Studio 2, Surface Studio (1st Gen) | |
+| **Surface Book** | All generations | |
+| **Surface Laptop Studio** | All generations (commercial SKUs only) | |
+| **Surface Go** | Surface Go 4 (commercial SKUs only), Surface Go 3 (commercial SKUs only), Surface Go 2, Surface Go | Surface Go uses a third-party UEFI and doesn't support DFCI. Surface Go 2 supports DFCI only on commercial SKUs|
 
-- Surface Pro 4, Surface Pro (5th Gen), Surface Pro 6, Surface Pro 7, Surface Pro 7+ (commercial SKUs only), Surface Pro 8 (commercial SKUs only), Surface Pro 9 & Surface Pro 9 with 5G (commercial SKUs only), Surface Pro 10, Surface Pro 11th Edition, Snapdragon processor; Surface Pro 11th Edition, Intel processor; Surface Pro X
-- Surface Laptop (1st Gen), Surface Laptop 2, Surface Laptop 3 (Intel processors only), Surface Laptop Go, Surface Laptop 4 (commercial SKUs only), Surface Laptop 5 (commercial SKUs only), Surface Laptop 6 (commercial SKUs only), Surface Laptop 7th Edition, Snapdragon processor; Surface Laptop 7th Edition, Intel processor; Surface Laptop SE, Surface Laptop Go 2 (commercial SKUs only), Surface Laptop Go 3 (commercial SKUs only)
-- Surface Studio (1st Gen), Surface Studio 2, Surface Studio 2+
-- Surface Book (all generations)
-- Surface Laptop Studio (all generations, commercial SKUs only)
-- Surface Go, Surface Go 2[<sup>1</sup>](#references), Surface Go 3 (commercial SKUs only), Surface Go 4 (commercial SKUs only)
 
 >[!TIP]
 > Commercial SKUs (aka Surface for Business) run Windows 10 Pro/Enterprise or Windows 11 Pro/Enterprise; consumer SKUs run Windows 10/Windows 11 Home. In UEFI, commercial SKUs are the only models to feature the [Devices page](#uefi-devices-page) and [Management page](#uefi-management-page). To learn more, see [View your system info](https://support.microsoft.com/windows/view-your-system-info-a965a8f2-0773-1d65-472a-1e747c9ebe00).
@@ -44,8 +45,8 @@ DFCI is currently available for the following commercial devices: Surface Pro 11
 To adjust UEFI settings during system startup:
 
 1. Shut down your Surface and wait about 10 seconds to ensure it's off.
-2. Press and hold the **Volume-up** button and - at the same time - press and release the **Power button.**
-3. As the Microsoft or Surface logo appears on your screen, continue to hold the **Volume-up** button until the UEFI screen appears.
+2. Press and hold the **Volume-Up** button and - at the same time - press and release the **Power** button.
+3. As the Microsoft or Surface logo appears on your screen, continue to hold the **Volume-Up** button until the UEFI screen appears.
 
 ## UEFI PC information page
 
@@ -96,7 +97,7 @@ The password must be at least six characters and is case-sensitive.
 
 *Figure 3. Add a password to protect Surface UEFI settings.*
 
-On the Security page, you can also change the configuration of Secure Boot on your Surface device. Secure Boot technology prevents unauthorized boot code from booting on your Surface device, which protects against bootkit and rootkit-type malware infections. You can disable Secure Boot to allow your Surface device to boot other operating systems or bootable media. You can also configure Secure Boot to work with other certificates, as shown in Figure 4. To learn more, see [Secure Boot](/windows-hardware/design/device-experiences/oem-secure-boot).
+On the Security page, you can also change the configuration of Secure Boot on your Surface device. Secure Boot technology prevents unauthorized boot code from booting on your Surface device, which protects against bootkit and rootkit-type malware infections. You can disable Secure Boot to allow your Surface device to boot other operating systems or bootable media. You can also configure Secure Boot to work with custom third-party certificates, as shown in Figure 4. To learn more, see [Secure Boot](/windows-hardware/design/device-experiences/oem-secure-boot).
 
 ![Configure Secure Boot.](images/manage-surface-uefi-fig3.png "Configure Secure Boot")
 
@@ -152,13 +153,13 @@ You can also turn on and off IPv6 support for PXE with the **Enable IPv6 for PXE
 
 ## UEFI Management page
 
-The Management page allows you to manage the use of Zero Touch UEFI Management and other features on eligible devices.
+The Management page allows you to manage the use of Zero-Touch UEFI Management and other features on eligible devices.
 
-:::image type= "content" alt-text= "Manage access to Zero Touch UEFI Management and other features." source=" images/manage-surface-uefi-fig7a.png" :::
+:::image type= "content" alt-text= "Manage access to Zero-Touch UEFI Management and other features." source=" images/manage-surface-uefi-fig7a.png" :::
 
-*Figure 8. Manage access to Zero Touch UEFI Management and other features.*
+*Figure 8. Manage access to Zero-Touch UEFI Management and other features.*
 
-Zero Touch UEFI Management lets you remotely manage UEFI settings using a device profile within Intune called Device Firmware Configuration Interface (DFCI). If you don't configure this setting, the ability to manage eligible devices with DFCI is set to **Ready**. To prevent DFCI, select **Opt-Out**.
+Zero-Touch UEFI Management lets you remotely manage UEFI settings using a device profile within Intune called Device Firmware Configuration Interface (DFCI). If you don't configure this setting, the ability to manage eligible devices with DFCI is set to **Ready**. To prevent DFCI, select **Opt-Out**.
 
 ## UEFI Exit page
 
@@ -218,10 +219,6 @@ When you update the Surface device firmware using either Windows Update or manua
 ![Surface boot screen that indicates Secure Boot has been disabled.](images/manage-surface-uefi-fig18.png "Surface boot screen that indicates Secure Boot has been disabled")
 
 *Figure 20. Surface boot screen that indicates Secure Boot has been disabled in Surface UEFI settings.*
-
-## References
-
-1. Surface Go and Surface Go 2 use a third-party UEFI and don't support DFCI.
 
 ## Related topics
 
