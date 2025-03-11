@@ -170,7 +170,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [Computacenter AG](https://www.computacenter.com/en-ch/partners/microsoft/microsoft-surface) | ✔ |                                       |
+| [Computacenter AG](https://www.computacenter.com/en-ch/partners/microsoft/microsoft-surface) | -- |                                       |
 
 #### United Arab Emirates (UAE)
 
