@@ -17,7 +17,7 @@ ms.custom:
 - CI 118876
 - CSSTroubleshoot 
 ms.reviewer: mablaik
-description: Get business & education support for Surface and Surface Hub. Access troubleshooting resources, online tools, and in-store services.
+description: Get business & education support for Surface and Surface Hub. Access troubleshooting resources, online tools, and in-store services. 
 ---
 # Contact Surface Support for Business and Education customers
 
@@ -45,11 +45,11 @@ If you experience an issue creating an account and have a timely support need,  
 
 ### Premier or Unified Support contract customers
 
-Create, manage, and track support requests while staying current on Microsoft technologies with access to select self-paced learning paths.[Learn more](/services-hub/unified/support/) or [Get Support](https://serviceshub.microsoft.com/support/create).
+Create, manage, and track support requests while staying current on Microsoft technologies with access to select self-paced learning paths. [Learn more](/services-hub/unified/support/) or [Get Support](https://serviceshub.microsoft.com/support/create).
 
 ### Intune users
 
-Built into Intune, the Surface Management Portal provides a centralized solution to self-serve, manage, and monitor Surface devices at scale. [Learn more](surface-management-portal.md) or [Get support](https://intune.microsoft.com/).
+Built into Intune, the Surface Management Portal provides a centralized solution to self-serve, manage, and monitor Surface devices at scale. [Learn more](surface-management-portal.md) or [Get Support](https://intune.microsoft.com/).
 
 ### Still need help?
 
@@ -67,9 +67,9 @@ Make an appointment at a Surface Walk-In Center to help resolve your issue:
 
 ## Japan
 
-Make an appointment at a participating Surface Authorized Service Provider [BIC Camera](https://www.biccamera.co.jp/support/surface_repair/) to help resolve your issue:
+Make an appointment at a participating Surface Authorized Service Provider: [BIC Camera](https://www.biccamera.co.jp/support/surface_repair/) to help resolve your issue:
 
-1. Go to [Surface 修理 | ビックカメラグループ (biccamera.co.jp)](https://www.biccamera.co.jp/support/surface_repair/apply/#shops) to find a participating Surface Authorized Service Provider for in-person support in Japan.
+1. Go to [Surface 修理 | ビックカメラグループ (biccamera.co.jp)](https://www.biccamera.co.jp/support/surface_repair/apply/#shops) to find a participating Surface Authorized Service Provider in Japan.
 2. Select your location to find the Authorized Service Provider nearest you.
 3. Choose your Authorized Service Provider and contact them to schedule an appointment.
 
@@ -82,4 +82,4 @@ Make an appointment at a participating [Surface Authorized Service Provider in t
 
 ---
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/).
+Still need help? Go to:[Microsoft Community](https://answers.microsoft.com/).
