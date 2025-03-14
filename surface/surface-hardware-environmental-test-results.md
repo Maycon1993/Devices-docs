@@ -15,7 +15,7 @@ appliesto:
 
 # Surface hardware environmental test results
 
-Commercial Surface devices are built to withstand rigorous conditions that help ensure optimal reliability and lower cost of ownership. Recent models meet U.S. Military standards (MIL-STD-810H) for ruggedness and durability under various environmental conditions, including temperature, humidity, shock, vibration, and more.
+Commercial Surface devices are built to withstand rigorous conditions that help ensure optimal reliability and lower cost of ownership. Recent models meet U.S. Military standards (MIL-STD-810H) for ruggedness and durability under various environmental conditions, including temperature, humidity, shock, vibration, and more.[<sup>1</sup>](#references)
 
 :::image type="content" source="images/surface-family.png" alt-text="Surface device family" :::
 
@@ -186,3 +186,7 @@ Operational tests were deemed successful if the unit remained functional through
 
 > [!NOTE]
 > Lab tests simulate but don't duplicate real-world environmental stresses. A device that passes lab tests may not withstand real-world field conditions.
+
+## References
+
+1. MIL-STD 810H establishes a methodology for testing products against environmental stresses under controlled laboratory conditions. Such testing is not a guarantee of future performance under these test conditions. Abuse, like that contained in MIL-STD 810H testing, is not covered under Microsoft’s standard warranty.
