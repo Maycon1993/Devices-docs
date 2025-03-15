@@ -13,7 +13,7 @@ appliesto:
 - Windows 11
 ---
 
-# Tech specs: Copilot+ PC Surface Laptop for Business, 7th Edition | Intel processor
+# Tech specs: Copilot+ PC Surface Laptop for Business, 7th Edition - Intel processor
 
 
 | Feature                             | Description |
