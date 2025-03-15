@@ -18,8 +18,8 @@ appliesto:
 
 | Feature                             | Description |
 |-------------------------------------|-------------|
-| **Processor**                       | **Surface Laptop 13.8" and 15"**<br>Intel Core™ Ultra 5 processor 236 V<br>Intel Core Ultra 5 processor 238V<br>Intel Core Ultra 7 processor 266 V<br>Intel Core Ultra 7 processor 268V |
-| **NPU**                             | **Intel AI Boost with 40 TOPS**<br>Intel Core Ultra 5 processor 236 V<br>Intel Core Ultra 5 processor 238V<br><br>**Intel AI Boost with 48 TOPS**<br>Intel Core Ultra 7 processor 266V<br>Intel Core Ultra 7 processor 268V |
+| **Processor**                       | **Surface Laptop 13.8" and 15"**<br>Intel Core™ Ultra 5 processor 236V<br>Intel Core Ultra 5 processor 238V<br>Intel Core Ultra 7 processor 266V<br>Intel Core Ultra 7 processor 268V |
+| **NPU**                             | **Intel AI Boost with 40 TOPS**<br>Intel Core Ultra 5 processor 236V<br>Intel Core Ultra 5 processor 238V<br><br>**Intel AI Boost with 48 TOPS**<br>Intel Core Ultra 7 processor 266V<br>Intel Core Ultra 7 processor 268V |
 | **Graphics**                        | Intel Arc™ Graphics |
 | **Memory**                          | 16 GB, 32 GB LPDDR5x RAM<br>*Note: 16-GB configurations have 236V or 266V processors. 32-GB configurations have 238V or 268V processors* |
 | **Storage**[<sup>1</sup>](#references)        | Removable[<sup>2</sup>](#references) solid-state drive (Gen 4 SSD) 256 GB, 512 GB, or 1 TB |
