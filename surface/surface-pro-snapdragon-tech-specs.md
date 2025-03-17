@@ -60,7 +60,7 @@ appliesto:
 12. Microsoft 365 Personal or Family subscription required.
 13. Voice focus requires activation, requires Windows 11 and is available in apps which use integrated device microphones and use certain Windows audio processing modes.
 14. Requires Dolby Atmos encoded content/audio.
-15. In select markets, only specific configurations come with 39 W Surface power supply. Fast Charging (from 5% to 80%) is supported with minimum 65W Surface power supply or USB Type-C PD charger rated at 60W or higher, sold separately. Testing was conducted at Microsoft in March 2024, using preproduction devices, software, and minimum of 60W USB-C charger under controlled conditions. The device was powered on to the desktop screen with default display brightness settings. Actual charge time varies based on operating conditions. Measured at typical office ambient temperature of 23C.
+15. In select markets, only specific configurations come with a 39W Surface power supply. Fast Charging (from 5% to 80%) is supported with minimum 65W Surface power supply or USB Type-C PD charger rated at 60W or higher, sold separately. Testing was conducted at Microsoft in March 2024, using preproduction devices, software, and minimum of 60W USB-C charger under controlled conditions. The device was powered on to the desktop screen with default display brightness settings. Actual charge time varies based on operating conditions. Measured at typical office ambient temperature of 23C.
 16. Surface Pro with Wi-Fi + 5G models only.
 17. 6GHz band not available in all regions.
 18. eSIM support may vary by carrier.  
