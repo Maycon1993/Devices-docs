@@ -84,7 +84,7 @@ appliesto:
 > [!CAUTION]
 > Opening and/or repairing a device can present electric shock, device damage, fire and personal injury risk, and other hazards. Use caution if undertaking self-service repairs. Unless required by law, damage caused during repair isn't covered under Microsoft’s Limited Hardware Warranty or protection plans.
 
-1. Colors available on selected models only. Available colors, sizes, finishes, and processors may vary by store, market, and configuration.
-1. Available for Surface Pro Wi-Fi only models.
-1. MIL-STD 810H establishes a methodology for testing products against environmental stress conditions under controlled laboratory conditions. These test results are informational only and not a representation, promise, or guarantee of future performance under the same conditions in the real world. Customer-induced damage or use beyond normal use conditions, like that contained in MIL-STD 810G testing, isn't covered under Microsoft’s Limited Hardware Warranty. Learn more at [Surface hardware environmental test results](surface-hardware-environmental-test-results.md).
-1. Microsoft’s Limited Warranty is in addition to your consumer law rights.
+35. Colors available on selected models only. Available colors, sizes, finishes, and processors may vary by store, market, and configuration.
+36. Available for Surface Pro Wi-Fi only models.
+37. MIL-STD 810H establishes a methodology for testing products against environmental stress conditions under controlled laboratory conditions. These test results are informational only and not a representation, promise, or guarantee of future performance under the same conditions in the real world. Customer-induced damage or use beyond normal use conditions, like that contained in MIL-STD 810G testing, isn't covered under Microsoft’s Limited Hardware Warranty. Learn more at [Surface hardware environmental test results](surface-hardware-environmental-test-results.md).
+38. Microsoft’s Limited Warranty is in addition to your consumer law rights.
