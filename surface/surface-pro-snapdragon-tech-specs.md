@@ -47,7 +47,7 @@ appliesto:
 ## References
 
 1. 32GB memory and 1T storage option available for Surface Pro Wi-Fi only models.
-2. System software uses significant storage space. Available storage is subject to change based on system software updates and apps usage. 1 GB = 1 billion bytes. 1 TB = 1,000 GB. See Surface.com/Storage for more details.
+2. System software uses significant storage space. Available storage is subject to change based on system software updates and apps usage. 1 GB = 1 billion bytes. 1 TB = 1,000 GB. See [Surface.com/Storage](https://support.microsoft.com/surface/surface-storage-options-and-hard-drive-sizes-9915981d-3e38-f06c-4706-82b5dedf33bc) for more details.
 3. Solid State Drive (SSD) Retention is only available on Microsoft Surface devices in which the SSD is marketed as removable per the Technical Specifications. Solid State Drive (SSD) Retention is included in both Extended Hardware Service Plus and Microsoft Complete for Business Plus and is also available as an Optional Add-on when purchasing Microsoft Extended Hardware Service and Microsoft Complete for Business. Devices returned to Microsoft with a missing Solid State Drive (SSD) are subject to a Solid State Drive (SSD) replacement fee unless the device is enrolled in the Drive (SSD) Retention offer.
 4. Surface Pro display has rounded corners within a standard rectangle. When measured as a standard rectangular shape the screen is 13” diagonally (actual viewable area is less).
 5. Requires Dolby Vision encoded content and video.

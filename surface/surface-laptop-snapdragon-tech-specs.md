@@ -45,7 +45,7 @@ appliesto:
 
 ## References
 
-1. System software uses significant storage space. Available storage is subject to change based on system software updates and apps usage. 1 GB = 1 billion bytes. 1 TB = 1,000 GB. See Surface.com/Storage for more details.
+1. System software uses significant storage space. Available storage is subject to change based on system software updates and apps usage. 1 GB = 1 billion bytes. 1 TB = 1,000 GB. See [Surface.com/Storage](https://support.microsoft.com/surface/surface-storage-options-and-hard-drive-sizes-9915981d-3e38-f06c-4706-82b5dedf33bc) for more details.
 2. Solid State Drive (SSD) Retention is only available on Microsoft Surface devices in which the SSD is marketed as removable per the Technical Specifications. Solid State Drive (SSD) Retention is included in both Extended Hardware Service Plus and Microsoft Complete for Business Plus and is also available as an Optional Add-on when purchasing Microsoft Extended Hardware Service and Microsoft Complete for Business. Devices returned to Microsoft with a missing Solid State Drive (SSD) are subject to a Solid State Drive (SSD) replacement fee unless the device is enrolled in the Drive (SSD) Retention offer.
 3. Requires Dolby Vision encoded content and video.
 4. HDR requires HDR content and enabling HDR in device settings.
@@ -68,7 +68,7 @@ appliesto:
 21. Commercial only –requires Windows 11.
 22. Enclosure includes A Cover, C Bucket and D Cover. 100% recycled aluminum alloy in A Cover and C Bucket. 100% recycled rare earth metals in magnets. Based on validation performed by Underwriter Laboratories, Inc. using Environmental Claim Validation Procedure (ECVP) for Recycled Content, UL 2809-2, Second Edition, November 7, 2023.
 23. Computers that have earned the ENERGY STAR label are third-party certified to be energy efficient and use 25% - 40% less than conventional models by using the most efficient components and better managing energy use when idle.
-24. Refer to the EPEAT registry for current ratings. Ratings can vary by country, may change over time, and products are eventually archived
+24. Refer to the EPEAT registry for current ratings. Ratings can vary by country, may change over time, and products are eventually archived.
 25. **Consumer:** Replacement components available through online [Microsoft Store](https://www.microsoft.com/store/b/surface-repair-parts) and [iFixIt](https://www.ifixit.com/Parts?q=Surface) for out-of-warranty repair. Components can be replaced by individuals with the knowledge and experience to repair electronic devices following [Microsoft’s Service Guide.](https://www.microsoft.com/download/details.aspx?id=100440) Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market, and over time. See [Self-repair information for your Surface device - Microsoft Support](https://support.microsoft.com/surface/self-repair-information-for-your-surface-device-56655149-c27a-432a-9936-bacd609a4b03).
 
 > [!CAUTION]
@@ -77,5 +77,5 @@ appliesto:
 26. **Commercial:** Replacement components available through Surface Commercial authorized device resellers. Components can be replaced on-site by a skilled technician following Microsoft’s Service Guide. Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market, and over time. See [Surface service options](surface-service-options.md). 
 27. Colors available on selected models only. Available colors, sizes, finishes, and processors may vary by store, market, and configuration.
 28. Feature availability varies by market, see [aka.ms/WindowsAIFeatures](https://www.microsoft.com/windows/copilot-ai-features) When Copilot for Windows isn't available or enabled on the device, pressing the Copilot key launches Windows Search.
-29. MIL-STD 810H establishes a methodology for testing products against environmental stresses under controlled laboratory conditions. Such testing isn't a guarantee of future performance under these test conditions. Abuse, like that contained in MIL-STD 810H testing, isn't covered under Microsoft’s standard warranty. Learn more at [Surface hardware environmental test results](surface-hardware-environmental-test-results.md)
+29. MIL-STD 810H establishes a methodology for testing products against environmental stresses under controlled laboratory conditions. Such testing isn't a guarantee of future performance under these test conditions. Abuse, like that contained in MIL-STD 810H testing, isn't covered under Microsoft’s standard warranty. Learn more at [Surface hardware environmental test results].(surface-hardware-environmental-test-results.md)
 30. Microsoft’s Limited Warranty is in addition to your consumer law rights.
