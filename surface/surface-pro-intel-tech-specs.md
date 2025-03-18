@@ -62,7 +62,7 @@ appliesto:
 15. Pen and keyboard sold separately.
 16. Applies to Surface Pro Keyboard with pen storage, Surface Pro Flex Keyboard, and Surface Pro Signature Keyboard
 17. Sold separately. Software license required for some features.
-18. Activation required. If your device is managed by your organization’s IT department, contact your IT administrator for activation. After 30 days, you'll be charged the applicable monthly or annual subscription fee. Credit card required. Cancel anytime to stop future charges. See [https://aka.ms/m365businesstrialinfo](https://aka.ms/m365businesstrialinfo)
+18. Activation required. If your device is managed by your organization’s IT department, contact your IT administrator for activation. After 30 days, you'll be charged the applicable monthly or annual subscription fee. Credit card required. Cancel anytime to stop future charges. See [https://aka.ms/m365businesstrialinfo](https://aka.ms/m365businesstrialinfo).
 19. Surface Pro Keyboard with optional bold keyset version available only in US English.
 20. Enclosure includes bucket. 100% recycled aluminum alloy in bucket. 100% recycled rare earth metals in magnets. Based on validation performed by Underwriter Laboratories, Inc. using Environmental Claim Validation Procedure (ECVP) for Recycled Content, UL ECVP 2809-2, Second Edition, dated June 20, 2024.
 21. Recycled content calculation based on IEEE Std 1680.1-2018. IEEE Standard for Environmental and Social Responsibility Assessment of Computers and Displays. 4.7.3.1 Required—Recycled content in wood-based fiber packaging.
