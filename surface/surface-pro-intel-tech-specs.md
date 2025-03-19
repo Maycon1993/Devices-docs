@@ -1,6 +1,6 @@
 ---
 title: Tech specs—Copilot+ PC Surface Pro for Business, 11th Edition | Intel processor
-description: See technical specifications for Surface Pro 11th Edition with Intel processors.
+description: See technical specifications for Surface Pro 11th Edition with Intel processors, including display, battery life, and ports.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
