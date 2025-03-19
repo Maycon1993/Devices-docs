@@ -71,7 +71,7 @@ Up to 14 hours of battery life based on web browsing test on Surface Laptop 15".
 19. Based on FSC certification.
 20. Computers that have earned the ENERGY STAR label are third-party certified to be energy efficient and use 25% - 40% less than conventional models by using the most efficient components and better managing energy use when idle.
 21. Please refer to the EPEAT registry for current ratings. Ratings can vary by country, may change over time, and products are eventually archived. 
-22. Replacement components available through Surface Commercial authorized device resellers. Components can be replaced on-site by a skilled technician following Microsoft’s Service Guide. Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market, and over time. See [Surface service options](surface-service-options.md). 
+22. Replacement components available through Surface Commercial authorized device resellers. Components can be replaced on-site by a skilled technician following Microsoft’s Service Guide. Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market, and over time. See [Surface service options](../surface-service-options.md). 
 
 > [!CAUTION]
 > Opening and/or repairing a device can present electric shock, device damage, fire and personal injury risk, and other hazards. Use caution if undertaking self-service repairs. Unless required by law, damage caused during repair isn't covered under Microsoft’s Limited Hardware Warranty or protection plans.
