@@ -35,7 +35,7 @@ Depending on your company's active product subscriptions or paid support offers,
 
 The [Surface Support Portal](surface-support-portal.md) provides a self-serve, centralized solution to look up current warranty and protection plans, create individual or bulk service requests, and track the status of support cases. [Learn more](surface-support-portal.md) or [get support](https://admin.microsoft.com/adminportal/home?#/support/microsoftsurfacesupport).
 
-If this is your first time accessing the Microsoft 365 Admin Center, follow these onboarding steps: [Streamline access to Surface Support Portal](/surface/surface-support-portal#streamline-access-to-surface-support-portal)
+If this is your first time accessing the Microsoft 365 Admin Center, follow these onboarding steps: [Streamline access to Surface Support Portal](/surface/surface-support-portal#streamline-access-to-surface-support-portal).
 
 ### Premier or Unified Support contract customers
 
@@ -47,7 +47,7 @@ Built into Intune, the Surface Management Portal provides a centralized solution
 
 ### Authorized Service Providers
 
-Microsoft Authorized Service Providers offer a wide spectrum of services ranging from in-store repairs to services tailored to the unique requirements of commercial segments. Availability varies per country. To learn more, see [Authorized Service Providers](authorized-service-providers.md).
+Microsoft Authorized Service Providers offer a wide spectrum of services ranging from in-store repairs to services tailored to the unique requirements of commercial segments. Availability varies by region. To learn more, see [Authorized Service Providers](authorized-service-providers.md).
 
 ### Still need help?
 
