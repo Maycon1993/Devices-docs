@@ -52,30 +52,3 @@ Microsoft Authorized Service Providers offer a wide spectrum of services ranging
 ### Still need help?
 
 Go to [Microsoft Community](https://answers.microsoft.com/) or use our legacy support case creation tool [Support for Business](https://support.serviceshub.microsoft.com/supportforbusiness).
-
-## China, India
-
-Make an appointment at a Surface Walk-In Center to help resolve your issue:
-
-1. Go to the [Surface Walk-In Center Contact Information](https://support.microsoft.com/help/4498593/find-surface-walk-in-center-contact-information) page.
-2. Select your location to find the Walk-In Center nearest you.  
-3. Choose your Walk-In Center and contact them to schedule an appointment.
-
-## Japan
-
-Make an appointment at a participating Surface Authorized Service Provider: [BIC Camera](https://www.biccamera.co.jp/support/surface_repair/) to help resolve your issue:
-
-1. Go to [Surface 修理 | ビックカメラグループ (biccamera.co.jp)](https://www.biccamera.co.jp/support/surface_repair/apply/#shops) to find a participating Surface Authorized Service Provider in Japan.
-2. Select your location to find the Authorized Service Provider nearest you.
-3. Choose your Authorized Service Provider and contact them to schedule an appointment.
-
-## United Kingdom
-
-Make an appointment at a participating [Surface Authorized Service Provider in the UK](https://support.microsoft.com/en-us/surface/find-authorized-service-provider-contact-information-for-the-united-kingdom-dc17aa1a-9e77-46b6-aa10-f5a2557406bd) to help resolve your issue:
-
-1. Go to [Currys Store Finder](https://www.currys.co.uk/store-finder) to find your nearest location.
-2. Contact them to schedule an appointment.
-
----
-
-Still need help? Go to:[Microsoft Community](https://answers.microsoft.com/).
