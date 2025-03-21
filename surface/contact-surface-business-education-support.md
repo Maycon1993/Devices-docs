@@ -29,8 +29,6 @@ Run the [Surface Diagnostic Toolkit for Business](surface-diagnostic-toolkit-bus
 
 If you're still having a problem after reviewing the top solutions and running the toolkit, use the tabs on this page to select a support option.
 
-## [Online support](#tab/online)
-
 Depending on your company's active product subscriptions or paid support offers, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile.
 
 ### General Surface Support
@@ -54,8 +52,6 @@ Microsoft Authorized Service Providers offer a wide spectrum of services ranging
 ### Still need help?
 
 Go to [Microsoft Community](https://answers.microsoft.com/) or use our legacy support case creation tool [Support for Business](https://support.serviceshub.microsoft.com/supportforbusiness).
-
-## [In-store support](#tab/instore)
 
 ## China, India
 
