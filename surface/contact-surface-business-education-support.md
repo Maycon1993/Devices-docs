@@ -41,11 +41,11 @@ If this is your first time accessing the Microsoft 365 Admin Center, follow thes
 
 ### Premier or Unified Support contract customers
 
-Create, manage, and track support requests while staying current on Microsoft technologies with access to select self-paced learning paths. [Learn more](/services-hub/unified/support/) or [Get Support](https://serviceshub.microsoft.com/support/create).
+Create, manage, and track support requests while staying current on Microsoft technologies with access to select self-paced learning paths. [Learn more](/services-hub/unified/support/) or [get support](https://serviceshub.microsoft.com/support/create).
 
 ### Intune users
 
-Built into Intune, the Surface Management Portal provides a centralized solution to self-serve, manage, and monitor Surface devices at scale. [Learn more](surface-management-portal.md) or [Get Support](https://intune.microsoft.com/).
+Built into Intune, the Surface Management Portal provides a centralized solution to self-serve, manage, and monitor Surface devices at scale. [Learn more](surface-management-portal.md) or [get support](https://intune.microsoft.com/).
 
 ### Authorized Service Providers
 
