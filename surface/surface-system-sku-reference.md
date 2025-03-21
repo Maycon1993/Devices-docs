@@ -64,8 +64,8 @@ System Model and System SKU are variables stored in System Management BIOS (SMBI
 | Surface Laptop 7th Edition, Snapdragon processor Consumer 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_2037|
 | Surface Laptop 7th Edition, Snapdragon processor Commercial 13.8"                        | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2036|
 | Surface Laptop 7th Edition, Snapdragon processor Commercial 15"                       | Microsoft Surface Laptop, 7th Edition| Surface_Laptop_7th_Edition_For_Business_2037|
-| Surface Laptop 7th Edition, Intel processor 13.8"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2107 = 13.8|
-| Surface Laptop 7th Edition, Intel processor 15"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2108=15|
+| Surface Laptop 7th Edition, Intel processor 13.8"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2107|
+| Surface Laptop 7th Edition, Intel processor 15"                       | Surface Laptop for Business 7th Edition with Intel| Surface_Laptop_7th_Edition_With_Intel_For_Business_2108|
 | Surface Laptop Go                                            | Surface Laptop Go | Surface_Laptop_Go_1943      |
 | Surface Laptop Go 2                                          | Surface Laptop Go 2 | Surface_Laptop_Go_2_2013      |
 | Surface Laptop Go 3                                         | Surface Laptop Go 3 | Surface_Laptop_Go_3_2013      |
