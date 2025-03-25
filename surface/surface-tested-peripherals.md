@@ -32,10 +32,10 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 
 | Device                     | Tested Monitors            | Tested Docks              | Tested Cables             | Tested Adapters           |
 |----------------------------|----------------------------|---------------------------|---------------------------|---------------------------|
-| Surface Laptop 7th Edition, Intel processor (Wi-Fi only)   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-intel-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-intel-processor) | |
+| Surface Laptop 7th Edition, Intel processor (Wi-Fi&#8211;only)   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-intel-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-intel-processor) | |
 | Surface Pro 11th Edition, Intel processor   | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-intel-processor) | [Docks](#tested-cables-for-surface-pro-11th-edition-intel-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-intel-processor) | |
 | Surface Laptop 7th Edition, Snapdragon processor  | [Monitors](#tested-monitors-for-surface-laptop-7th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-laptop-7th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-laptop-7th-edition-snapdragon-processor) | [Adapters](#tested-adapters-for-surface-laptop-7th-edition-snapdragon-processor)|
-| Surface Pro 11th Edition, Snapdragon processor (Wi-Fi only)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-snapdragon-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-snapdragon-processor)  |
+| Surface Pro 11th Edition, Snapdragon processor (Wi-Fi&#8211;only)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-snapdragon-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-snapdragon-processor)  |
 | Surface Pro 11th Edition, Snapdragon processor (Wi-Fi + 5G)  | [Monitors](#tested-monitors-for-surface-pro-11th-edition-snapdragon-processor) | [Docks](#tested-docks-for-surface-pro-11th-edition-snapdragon-processor) | [Cables](#tested-cables-for-surface-pro-11th-edition-snapdragon-processor) |[Adapters](#tested-adapters-for-surface-pro-11th-edition-snapdragon-processor)  |
 | Surface Pro 10              | [Monitors](#tested-monitors-for-surface-pro-10)          | [Docks](#tested-docks-for-surface-pro-10)          | [Cables](#tested-cables-for-surface-pro-10) | |
 | Surface Pro 10 with 5G   | [Monitors](#tested-monitors-for-surface-pro-10-with-5g) | [Docks](#tested-docks-for-surface-pro-10-with-5g) | [Cables](#tested-cables-for-surface-pro-10-with-5g) | |
@@ -122,9 +122,9 @@ This table lists Surface devices and their tested peripherals. Each entry includ
 | Monoprice DP Cable (42994) - (DP2.0)                  |                                  |                |              |                            | ✓                    |               |              |
 | StarTech USB-C to DP 1.4 Cable (CDP2DP141MBD)         |                                  |                |              |                            | ✓                    |               |              |
 
-## Surface Pro 11th Edition, Intel processor (Wi-Fi only) & Surface Pro 11th Edition, Intel processor (Wi-Fi + 5G)
+## Surface Pro 11th Edition, Intel processor (Wi-Fi&#8211;only) & Surface Pro 11th Edition, Intel processor (Wi-Fi + 5G)
 
-This section includes test results for both Surface Pro (11th Edition Wi-Fi only) and Surface Pro (11th Edition – Wi-Fi + 5G).
+This section includes test results for both Surface Pro (11th Edition Wi-Fi&#8211;only) and Surface Pro (11th Edition – Wi-Fi + 5G).
 
 ### Tested monitors for Surface Pro 11th Edition, Intel processor
 
@@ -263,9 +263,9 @@ This section includes test results for both Surface Pro (11th Edition Wi-Fi only
 | Club-3D USB-C to DP Adapter (CAC-1507)            | ✓                    |               |
 | MSFT USB-C to DP Adapter                          | ✓                    |               |
 
-## Surface Pro 11th Edition, Snapdragon processor (Wi-Fi only) & Surface Pro 11th Edition, Snapdragon processor (Wi-Fi + 5G)
+## Surface Pro 11th Edition, Snapdragon processor (Wi-Fi&#8211;only) & Surface Pro 11th Edition, Snapdragon processor (Wi-Fi + 5G)
 
-This section includes test results for both Surface Pro (11th Edition Wi-Fi only) and Surface Pro (11th Edition – Wi-Fi + 5G).
+This section includes test results for both Surface Pro (11th Edition Wi-Fi&#8211;only) and Surface Pro (11th Edition – Wi-Fi + 5G).
 
 ### Tested monitors for Surface Pro 11th Edition, Snapdragon processor
 

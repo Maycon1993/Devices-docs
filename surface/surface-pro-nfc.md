@@ -52,7 +52,7 @@ Certified Surface devices with built-in NFC enhance security and productivity by
 Surface devices certified for Imprivata include:
 
 - Surface Pro 11th Edition, Intel processor  
-- Surface Pro 10 for Business, Wi-Fi only  
+- Surface Pro 10 for Business, Wi-Fi&#8211;only  
 - Surface Go 4 for Business  
 
 To learn more, see [Surface for Business devices are now Imprivata Ready](https://techcommunity.microsoft.com/blog/surfaceitpro/surface-for-business-devices-are-now-imprivata-ready/4273481).  
