@@ -1,3 +1,4 @@
+
 - name: Surface
   href: index.yml
   expanded: true
@@ -7,7 +8,17 @@
     - name: Overview
       expanded: true
       items: 
-      - name: Technical overviews
+      - name: Tech specs
+        items:
+         - name: Surface Pro 11th Edition (Intel)
+           href: tech-specs/surface-pro-intel-tech-specs.md
+         - name: Surface Laptop 7th Edition (Intel)
+           href: tech-specs/surface-laptop-intel-tech-specs.md
+         - name: Surface Pro 11th Edition (Snapdragon)
+           href: tech-specs/surface-pro-snapdragon-tech-specs.md 
+         - name: Surface Laptop 7th Edition (Snapdragon)
+           href: tech-specs/surface-laptop-snapdragon-tech-specs.md  
+      - name: Tech overviews
         items:
          - name: NFC support in Surface Pro
            href: surface-pro-nfc.md
