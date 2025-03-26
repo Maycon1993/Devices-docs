@@ -151,7 +151,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [Post Telecom S.A](https://www.deep.eu/fr/accueil) | -- |                                       |
+| [Post Telecom S.A](https://www.deep.eu/en/accueil/services-et-solutions/client-infrastructure/end-computing-devices) | -- |                                       |
 
 #### Netherlands
 
