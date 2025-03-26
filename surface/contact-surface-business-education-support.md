@@ -27,13 +27,13 @@ Review the [Top Support Solutions for Surface devices](/surface/support-solution
 
 Run the [Surface Diagnostic Toolkit for Business](surface-diagnostic-toolkit-business.md) (SDT). The SDT enables IT administrators to quickly investigate, troubleshoot, and resolve hardware, software, and firmware issues with Surface devices.
 
-If you're still having a problem after reviewing the top solutions and running the toolkit, use the tabs on this page to select a support option.
+If you're still having a problem after reviewing the top solutions and running the toolkit, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile depending on your active product subscriptions or paid support offers.
 
 Depending on your company's active product subscriptions or paid support offers, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile.
 
 ### General Surface Support
 
-The [Surface Support Portal](surface-support-portal.md) provides a self-serve, centralized solution to look up current warranty and protection plans, create individual or bulk service requests, and track the status of support cases. [Learn more](surface-support-portal.md) or [get support](https://admin.microsoft.com/adminportal/home?#/support/microsoftsurfacesupport).
+The Surface Support Portal provides a self-serve, centralized solution to look up current warranty and protection plans, create individual or bulk service requests, and track the status of support cases. [Learn more](surface-support-portal.md) or [get support](https://admin.microsoft.com/adminportal/home?#/support/microsoftsurfacesupport).
 
 If this is your first time accessing the Microsoft 365 Admin Center, follow these onboarding steps: [Streamline access to Surface Support Portal](/surface/surface-support-portal#streamline-access-to-surface-support-portal).
 
