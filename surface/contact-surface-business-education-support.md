@@ -27,9 +27,7 @@ Review the [Top Support Solutions for Surface devices](/surface/support-solution
 
 Run the [Surface Diagnostic Toolkit for Business](surface-diagnostic-toolkit-business.md) (SDT). The SDT enables IT administrators to quickly investigate, troubleshoot, and resolve hardware, software, and firmware issues with Surface devices.
 
-If you're still having a problem after reviewing the top solutions and running the toolkit, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile depending on your active product subscriptions or paid support offers.
-
-Depending on your company's active product subscriptions or paid support offers, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile.
+If you're still having a problem after reviewing the top solutions and running the toolkit, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile.
 
 ### General Surface Support
 
@@ -39,7 +37,7 @@ If this is your first time accessing the Microsoft 365 Admin Center, follow thes
 
 ### Premier or Unified Support contract customers
 
-Create, manage, and track support requests while staying current on Microsoft technologies with access to select self-paced learning paths. [Learn more](/services-hub/unified/support/) or [get support](https://serviceshub.microsoft.com/support/create).
+Create, manage, and track support requests. Premier and Unified Support customers also get access to select self-paced learning paths to stay current on Microsoft technologies. [Learn more](/services-hub/unified/support/) or [get support](https://serviceshub.microsoft.com/support/create).
 
 ### Intune users
 
@@ -47,7 +45,7 @@ Built into Intune, the Surface Management Portal provides a centralized solution
 
 ### Authorized Service Providers
 
-Microsoft Authorized Service Providers offer a wide spectrum of services ranging from in-store repairs to services tailored to the unique requirements of commercial segments. Availability varies by region. To learn more, see [Authorized Service Providers](authorized-service-providers.md).
+Microsoft Authorized Service Providers offer a wide spectrum of support options from in-store repairs to services tailored to the unique needs of commercial segments. Availability varies by region. To learn more, see [Authorized Service Providers](authorized-service-providers.md).
 
 ### Still need help?
 
