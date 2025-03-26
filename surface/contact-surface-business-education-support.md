@@ -37,7 +37,7 @@ If this is your first time accessing the Microsoft 365 Admin Center, follow thes
 
 ### Premier or Unified Support contract customers
 
-Create, manage, and track support requests. Premier and Unified Support customers also get access to select self-paced learning paths to stay current on Microsoft technologies. [Learn more](/services-hub/unified/support/) or [get support](https://serviceshub.microsoft.com/support/create).
+Create, manage, and track support requests while staying current on Microsoft technologies with access to select self-paced learning paths. [Learn more](/services-hub/unified/support/) or [get support](https://serviceshub.microsoft.com/support/create).
 
 ### Intune users
 
