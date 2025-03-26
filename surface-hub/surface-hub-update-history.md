@@ -896,5 +896,4 @@ This update to the Surface Hub includes quality improvements and security fixes.
 * [Windows 10 release information](https://go.microsoft.com/fwlink/p/?LinkId=724328)
 * [Windows 10 November update: FAQ](https://windows.microsoft.com/windows-10/windows-update-faq)
 * [Microsoft Surface update history](https://go.microsoft.com/fwlink/p/?LinkId=724327)
-* [Microsoft Lumia update history](https://go.microsoft.com/fwlink/p/?LinkId=785968)
 * [Get Windows 10](https://go.microsoft.com/fwlink/p/?LinkId=616447)
