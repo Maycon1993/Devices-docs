@@ -3,7 +3,7 @@ title: Contact Surface Support for Business and Education customers
 ms.author: chauncel
 author: coveminer
 manager: frankbu
-ms.date: 3/19/2025
+ms.date: 3/26/2025
 ms.topic: how-to
 ms.service: surface
 ms.localizationpriority: Medium
@@ -17,7 +17,7 @@ ms.custom:
 - CI 118876
 - CSSTroubleshoot 
 ms.reviewer: mablaik
-description: Get business & education support for Surface and Surface Hub. Access troubleshooting resources, online tools, and in-store services. 
+description: Get support for Surface & Surface Hub in business or education. Access tools, service options & troubleshooting resources. 
 ---
 # Contact Surface Support for Business and Education customers
 
@@ -27,13 +27,11 @@ Review the [Top Support Solutions for Surface devices](/surface/support-solution
 
 Run the [Surface Diagnostic Toolkit for Business](surface-diagnostic-toolkit-business.md) (SDT). The SDT enables IT administrators to quickly investigate, troubleshoot, and resolve hardware, software, and firmware issues with Surface devices.
 
-If you're still having a problem after reviewing the top solutions and running the toolkit, use the tabs on this page to select a support option.
-
-Depending on your company's active product subscriptions or paid support offers, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile.
+If you're still having a problem after reviewing the top solutions and running the toolkit, convenient solutions are available to manage your Surface device support requests individually and in bulk. Follow the link that best fits your company's profile.
 
 ### General Surface Support
 
-The [Surface Support Portal](surface-support-portal.md) provides a self-serve, centralized solution to look up current warranty and protection plans, create individual or bulk service requests, and track the status of support cases. [Learn more](surface-support-portal.md) or [get support](https://admin.microsoft.com/adminportal/home?#/support/microsoftsurfacesupport).
+The Surface Support Portal provides a self-serve, centralized solution to look up current warranty and protection plans, create individual or bulk service requests, and track the status of support cases. [Learn more](surface-support-portal.md) or [get support](https://admin.microsoft.com/adminportal/home?#/support/microsoftsurfacesupport).
 
 If this is your first time accessing the Microsoft 365 Admin Center, follow these onboarding steps: [Streamline access to Surface Support Portal](/surface/surface-support-portal#streamline-access-to-surface-support-portal).
 
@@ -47,7 +45,7 @@ Built into Intune, the Surface Management Portal provides a centralized solution
 
 ### Authorized Service Providers
 
-Microsoft Authorized Service Providers offer a wide spectrum of services ranging from in-store repairs to services tailored to the unique requirements of commercial segments. Availability varies by region. To learn more, see [Authorized Service Providers](authorized-service-providers.md).
+Microsoft Authorized Service Providers offer a wide spectrum of support options from in-store repairs to services tailored to the unique needs of commercial segments. Availability varies by region. To learn more, see [Authorized Service Providers](authorized-service-providers.md).
 
 ### Still need help?
 
