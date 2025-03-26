@@ -3,7 +3,7 @@ title: Contact Surface Support for Business and Education customers
 ms.author: chauncel
 author: coveminer
 manager: frankbu
-ms.date: 3/19/2025
+ms.date: 3/26/2025
 ms.topic: how-to
 ms.service: surface
 ms.localizationpriority: Medium
@@ -17,7 +17,7 @@ ms.custom:
 - CI 118876
 - CSSTroubleshoot 
 ms.reviewer: mablaik
-description: Get business & education support for Surface and Surface Hub. Access troubleshooting resources, online tools, and in-store services. 
+description: Get support for Surface & Surface Hub in business or education. Access tools, service options & troubleshooting resources. 
 ---
 # Contact Surface Support for Business and Education customers
 
