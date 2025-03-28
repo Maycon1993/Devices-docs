@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 03/05/2025
+ms.date: 03/28/2025
 ms.reviewer: vermavishal
 manager: frankbu
 appliesto:
@@ -195,6 +195,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [Jigsaw Systems Ltd](https://www.jigsaw24.com/partnerships/microsoft)|--       |                                       |
 | [Specialist Computer Centre](https://www.scc.com/)|--    |                                       |
 | [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | -- | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [Valutech Services (VSL) Limited ](https://valutechservices.co.uk/microsoft-asp/) | --          |                                       |
 | [Westcoast](https://www.westcoast.co.uk/) | --          |                                       |
 | [XMA](https://www.xma.co.uk/)           | --             |                                       |
 | [Zones](https://uk.zones.com/)          | --           |                                       |
