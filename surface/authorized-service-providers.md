@@ -20,12 +20,12 @@ We're committed to delivering exceptional service and support by continuously ex
 
 - [**Find an ASP near you**](#global-asp-network)
 
-## How it works
+## Depot repair vs. Onsite repair
 
-All authorized service providers (ASPs) offer **depot repair**, while some also provide the option for **onsite repair**, depending on availability and location:
+All authorized service providers (ASPs) offer **Depot repair**, while some also provide the option for **Onsite repair**, depending on availability and location:
 
-- **Onsite repair (available at select ASPs):** A skilled technician visits your location to evaluate and, if possible, repair the device, minimizing downtime.  
 - **Depot repair (available at all ASPs):** You make arrangements to transport your device to their repair center, where it undergoes inspection and repair by an expert technician. Once the repair is complete, the device is returned to you.
+- **Onsite repair (available at select ASPs):** A skilled technician visits your location to evaluate and, if possible, repair the device, minimizing downtime.  
 
 ### Reseller vs. Non-Reseller ASPs
 
