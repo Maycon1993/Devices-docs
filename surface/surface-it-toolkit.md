@@ -99,7 +99,7 @@ The Tool Library in the Surface IT Toolkit is a centralized repository that prov
 
 This version of Surface IT Toolkit, released April 1 2025, includes the following updates:
 
-- Support for Windows 365 Link
+- Support for [Windows 365 Link](/windows-365/link/overview)
 - Improved accessibility
 
 ### Version 1.223.139.0
