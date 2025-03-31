@@ -36,9 +36,9 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 
 ### Eligible devices
 
-> **Note:** Unless otherwise specified, listed devices are *commercial SKUs only*.
+Unless otherwise specified, listed devices are *commercial SKUs only*.
 
-| **Device type**       | **Models**                                           |
+| Device type           | Models                                         |
 |-----------------------|------------------------------------------------------|
 | **Surface Pro**       | Pro 11th Edition (Intel)                             |
 |                       | Pro 11th Edition (Snapdragon)                        |
