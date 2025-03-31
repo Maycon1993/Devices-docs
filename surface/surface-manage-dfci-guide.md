@@ -36,33 +36,38 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 
 ### Eligible devices
 
-- Surface Hub 3
-- Surface Hub 2S running Microsoft Teams Rooms on Windows
-- Surface Pro 11th Edition, Intel processor
-- Surface Pro 11th Edition, Snapdragon processor (commercial SKUs only)
-- Surface Pro 10 (commercial SKUs only)
-- Surface Pro 10 with 5G (commercial SKUs only)
-- Surface Pro 9 (commercial SKUs only)
-- Surface Pro 9 with 5G (commercial SKUs only)
-- Surface Pro 8 (commercial SKUs only)
-- Surface Pro 7+ (commercial SKUs only)
-- Surface Pro 7 (all SKUs)
-- Surface Pro X (all SKUs)
-- Surface Laptop Studio (all generations, commercial SKUs only)
-- Surface Laptop 7th Edition, Intel processor
-- Surface Laptop 7th Edition, Snapdragon processor (commercial SKUs only)
-- Surface Laptop 6
-- Surface Laptop 5 (commercial SKUs only)
-- Surface Laptop 4 (commercial SKUs only)
-- Surface Laptop 3 (Intel processors only)
-- Surface Laptop Go
-- Surface Laptop Go 2 (commercial SKUs only)
-- Surface Laptop Go 3 (commercial SKUs only)
-- Surface Laptop SE
-- Surface Book 3
-- Surface Go 3 (commercial SKUs only)
-- Surface Go 4 (commercial SKUs only)
-- Surface Studio 2+
+> **Note:** Unless otherwise specified, listed devices are *commercial SKUs only*.
+
+| **Device type**       | **Models**                                           |
+|-----------------------|------------------------------------------------------|
+| **Surface Pro**       | Pro 11th Edition (Intel)                             |
+|                       | Pro 11th Edition (Snapdragon)                        |
+|                       | Pro 10                                               |
+|                       | Pro 10 with 5G                                       |
+|                       | Pro 9                                                |
+|                       | Pro 9 with 5G                                        |
+|                       | Pro 8                                                |
+|                       | Pro 7+                                               |
+|                       | Pro 7 (all SKUs)                                     |
+|                       | Pro X (all SKUs)                                     |
+| **Surface Laptop**    | Laptop 7th Edition (Intel)                           |
+|                       | Laptop 7th Edition (Snapdragon)                      |
+|                       | Laptop 6                                             |
+|                       | Laptop 5                                             |
+|                       | Laptop 4                                             |
+|                       | Laptop 3 (Intel processors only)                     |
+|                       | Laptop Studio (all generations)                      |
+|                       | Laptop Go                                            |
+|                       | Laptop Go 2                                          |
+|                       | Laptop Go 3                                          |
+|                       | Laptop SE                                            |
+| **Surface Hub**       | Hub 3                                                |
+|                       | Hub 2S (running Microsoft Teams Rooms on Windows)    |
+| **Other**             | Book 3                                               |
+|                       | Go 3                                                 |
+|                       | Go 4                                                 |
+|                       | Studio 2+                                            |
+
 
 > [!NOTE]
 > Surface Pro X doesn't support DFCI settings management for built-in camera, audio, and Wi-Fi/Bluetooth. Some newer settings are only supported on the latest devices.
