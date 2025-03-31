@@ -32,7 +32,7 @@ The following table lists the release date and end-of-servicing date for Surface
 Accessory                                            | Release date        | End-of-servicing date
 -----------------------------------------------------|---------------------|---------------------
 Surface Dock                                         | October 26, 2015    | December 30, 2026
-Surface Dial                                         | November 1, 2016    | June 1, 2025
+Surface Dial                                         | November 1, 2016    | December 30, 2027
 Surface Ergonomic Keyboard                           | November 21, 2016   | December 30, 2025
 Surface Arc Mouse                                    | June 30, 2017       | December 30, 2026
 Surface Precision Mouse                              | November 16, 2017   | March 30, 2028
