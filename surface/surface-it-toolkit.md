@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 02/10/2024
+ms.date: 03/31/2025
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -94,6 +94,13 @@ The Managed Devices area displays your selected device models that can be manage
 The Tool Library in the Surface IT Toolkit is a centralized repository that provides IT admins with a suite of tools essential for the configuration and support of Surface devices. This library ensures that the most up-to-date versions of each tool are readily available for deployment. Each tool comes with a "Save Copy" option, allowing IT admins to download and save a copy of the installer for the respective tool. To learn more, see [Surface IT Toolkit Tool Library](surface-it-toolkit-library.md).
 
 ## Release notes
+
+### Version: 1.233.139.0
+
+This version of Surface IT Toolkit, released April 1 2025, includes the following updates:
+
+- Added support for Windows 365 Link
+- Improved accessibility
 
 ### Version 1.223.139.0
 
