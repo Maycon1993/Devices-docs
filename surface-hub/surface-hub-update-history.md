@@ -846,7 +846,7 @@ This update brings the Windows 10 Team Anniversary Update to Surface Hub and inc
   * Windows Defender UI has been added within settings
   * Improved UX touch to start
   * Enabled support for greater than 1080p wireless projection via Miracast, on supported devices
-  * Resolved "There's no internet connection" and "Appointments may be out of date" false notification states from launch
+  * Resolved "There's no Internet connection" and "Appointments may be out of date" false notification states from launch
   * Improved reliability of on-screen keyboard
   * Additional support for creating Surface Hub provisioning packages using Windows Imaging & Configuration Designer (ICD) and improved Surface Hub monitoring solution on Operations Management Suite (OMS)
 

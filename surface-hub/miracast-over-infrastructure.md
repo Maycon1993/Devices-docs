@@ -1,11 +1,11 @@
 ---
 title: Miracast on existing wireless network or LAN
-description: Windows 10 enables you to send a Miracast stream over a local network.
+description: Use Miracast over LAN or secure Wi-Fi to wirelessly project and interact with content on Surface Hub without extra hardware or setup. 
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 04/24/2020
+ms.date: 03/31/2025
 ms.reviewer: 
 manager: frankbu
 ms.localizationpriority: medium

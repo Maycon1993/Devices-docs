@@ -43,7 +43,7 @@ Upon startup, Surface Hub automatically enters first-time Windows setup mode, fo
 ## Begin first-time setup
 
 > [!TIP]
-> When you run first-time setup, ensure an internet connection is maintained throughout the setup to automatically download required updates for an optimal user experience.
+> When you run first-time setup, ensure an Internet connection is maintained throughout the setup to automatically download required updates for an optimal user experience.
 
 1. Press the power button to start the device.
 

@@ -15,7 +15,7 @@ ms.date: 06/09/2020
 ## Introduction
 
 > [!NOTE]
-> The "Account Settings" section of the Surface Hub Hardware Diagnostic tool doesn’t collect any information. The email and password that are entered as input are used only directly on your environment and not collected or transferred to anyone. The login information persists only until the application is closed or you end the current session on the Surface Hub.
+> The Account Settings section of the Surface Hub Hardware Diagnostic tool does not collect any information. Email and password inputs are used only within your environment and are never collected or transmitted. Sign-in details persist only for the current session and are cleared when the app is closed or the session ends.
 
 > [!IMPORTANT]
 >
@@ -92,7 +92,7 @@ The Surface Hub Hardware Diagnostic tool is an easy-to-navigate tool that lets t
 
 | Field |Success |Failure |Comment |Reference |
 |------|------|------|------|------|
-| Internet Connectivity | Device does have Internet connectivity |Device does not have Internet connectivity |Verifies internet connectivity, including proxy connection | |
+| Internet Connectivity | Device does have Internet connectivity |Device does not have Internet connectivity |Verifies Internet connectivity, including proxy connection | |
 | HTTP Version |1.1 |1.0 |If HTTP 1.0 found, it will cause issue with WU and Store | |
 | Direct Internet Connectivity |Device has a Proxy configured Device has no Proxy configured |N/A |Informational. Is your device behind a proxy? | |
 | Proxy Address | | |If configured, returns proxy address. | |

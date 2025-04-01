@@ -39,7 +39,7 @@ This article describes how to use the Recovery Tool to restore a Surface device 
 8. Select **Create** to start the process. A progress bar indicates that the recovery USB is ready to use.
 9. Once the USB creation process reaches 100%, a confirmation message indicates that the recovery USB is ready to use.
 
-Throughout the process, ensure you have a stable internet connection for the download and that no data you wish to keep is on the USB drive when formatted during the process.
+Throughout the process, ensure you have a stable Internet connection for the download and that no data you wish to keep is on the USB drive when formatted during the process.
 
 ## Restore Surface device
 

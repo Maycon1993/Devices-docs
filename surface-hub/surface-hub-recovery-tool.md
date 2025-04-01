@@ -1,17 +1,19 @@
 ---
-title: Use the Surface Hub Recovery Tool
-description: How to use the Surface Hub Recovery Tool to reimage the SSD.
+title: Use the Surface Hub Recovery Tool for Surface Hub v1
+description: Use the Surface Hub Recovery Tool to reimage the SSD on Surface Hub v1, fix boot issues, or recover from lost admin access.
 ms.assetid: FDB6182C-1211-4A92-A930-6C106BCD5DC1
 manager: frankbu
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 01/20/2023
+ms.date: 03/31/2025
 ms.localizationpriority: medium
+appliesto:
+- Surface Hub
 ---
 
-# Use the Surface Hub Recovery Tool
+# Use the Surface Hub Recovery Tool for Surface Hub v1
 
 [!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
 
@@ -55,7 +57,7 @@ If the tool is unsuccessful in reimaging your drive, contact [Surface Hub Suppor
 
 ## Download Surface Hub Recovery Tool
 
-The Surface Hub Recovery Tool is available for download from [Surface Hub Tools for IT](https://www.microsoft.com/download/details.aspx?id=52210)  under the file name **SurfaceHub_Recovery_v2.7.139.0.msi**.
+The Surface Hub Recovery Tool is available for download from [Surface Hub Tools for IT](https://www.microsoft.com/download/details.aspx?id=52210)  under the filename **SurfaceHub_Recovery_v2.7.139.0.msi**.
 
 To start the download, select **Download**, choose **SurfaceHub_Recovery_v2.7.139.0.msi**  from the list, and select **Next**. From the pop-up, choose one of the following options:
 
@@ -83,7 +85,7 @@ Install Surface Hub Recovery Tool on the host PC.
    :::image type="content" source="images/shrt-select-image.png" alt-text="Screenshot of Recovery Tool Select image." :::
    :::image type="content" source="images/shrt-download-image.png" alt-text="Screenshot showing image download." :::
 
-5. Download time depends on internet speed. On an average corporate connection, it can take up to an hour to download the 8 GB image.
+5. Download time depends on Internet speed. On an average corporate connection, it can take up to an hour to download the 8 GB image.
 
    :::image type="content" source="images/shrt-download.png" alt-text="Screenshot showing progress of image download." :::
 

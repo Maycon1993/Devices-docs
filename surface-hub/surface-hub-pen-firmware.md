@@ -27,7 +27,7 @@ This section describes how to update pen firmware via the automated maintenance 
     > [!div class="mx-imgBorder"]
     > ![Surface Hub Pen.](images/sh2-pen-1.png)
 
-2. On Surface Hub, login as an Admin, open **Settings**, and then scan for new Bluetooth devices.
+2. On Surface Hub, sign in as an Admin, open **Settings**, and then scan for new Bluetooth devices.
 3. Select the pen to complete the pairing process.
 4. Press the **top** button on the pen to apply the update. It may take up to two hours to complete.
 

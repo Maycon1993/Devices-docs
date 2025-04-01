@@ -113,7 +113,7 @@ Since August 2019, .msi files follow this convention:
 
 - **SurfacePro11_Win11_26100_24.091.12892.0.msi**
 
-This file name provides the following information:
+This filename provides the following information:
 
 - **Product**: Surface Pro 11th Edition, Snapdragon processor  
 - **Windows release**: Win11  
