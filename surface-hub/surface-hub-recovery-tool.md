@@ -13,6 +13,8 @@ ms.localizationpriority: medium
 
 # Use the Surface Hub Recovery Tool
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 The [Microsoft Surface Hub Recovery Tool](https://www.microsoft.com/download/details.aspx?id=52210) helps you reimage your Surface Hub Solid State Drive (SSD) from a separate PC without replacing the SSD or calling support. Use this tool for any of the following scenarios:
 
 - You're unable to use [local reset option](device-reset-surface-hub.md).

@@ -17,6 +17,8 @@ appliesto:
 
 # First-time setup for Surface Hub
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 When you first start Surface Hub, the device automatically enters first-time Setup mode to guide you through account configuration and related settings.
 
 > [!TIP]
