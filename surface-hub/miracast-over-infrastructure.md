@@ -25,6 +25,14 @@ Miracast on your wireless network or LAN offers many benefits:
 - It works well with older wireless hardware not optimized for Miracast over Wi-Fi Direct.
 - It uses an existing connection, which reduces the time to connect and provides a stable stream.
 
+---
+
+## Miracast support on Surface Hub 3
+
+Microsoft [announced in January 2025](https://techcommunity.microsoft.com/blog/SurfaceITPro/introducing-edge-and-miracast-on-surface-hub-3/4365746) that for the first time ever, Teams Rooms on Windows – including Surface Hub 3 – will add support for Miracast wireless projection. Beyond simply sharing content, Miracast will also enable you to interact with the content on the Hub 3 display, with touch and pen input translated back to your PC. Surface Hub 3 will be able to desktop share Miracast-projected content into Teams meetings. Together with wired content sharing from PCs via center-of-table consoles (see next section), as well as Teams Cast and desktop sharing from PC over a Teams meeting, customers will now have an even more versatile and flexible set of options for sharing and collaborating on content with Surface Hub. Miracast support is committed; stay tuned for updates on availability timing.
+
+---
+
 ## How it works
 
 Users attempt to connect to a Miracast receiver through their Wi-Fi adapter. When the list of Miracast receivers is populated, Windows identifies that the receiver can support a connection over the infrastructure. When the user selects a Miracast receiver, Windows attempts to resolve the device's hostname via standard DNS and multicast DNS (mDNS). If the name isn't resolvable via either DNS method, Windows returns to establishing the Miracast session using the standard Wi-Fi direct connection.

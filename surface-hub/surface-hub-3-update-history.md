@@ -17,9 +17,11 @@ ms.date: 10/18/2024
 
 This article provides a detailed history of firmware and driver updates released for Surface Hub 3 and [migrated Hub 2S](surface-hub-2s-migrate-to-mtr-w.md) devices running Microsoft Teams Rooms on Windows. Updates are designed to enhance security, improve performance, and ensure compliance with regulatory requirements. 
 
-All updates are cumulative, meaning installing the latest update  includes all improvements from previous releases.
+All updates are cumulative, meaning installing the latest update includes all improvements from previous releases.
 
 Surface Hub devices will receive driver and firmware updates until the date listed in the [Surface Hub devices driver and firmware lifecycle](surface-hub-driver-firmware-accessories-lifecycle.md).
+
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
 
 > [!TIP]
 > This page is refreshed as new updates are released.
