@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 02/10/2024
+ms.date: 03/31/2025
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -18,7 +18,7 @@ appliesto:
 
 The Surface IT Toolkit is a modern desktop application that compiles essential commercial tools in a single application, helping streamline Surface device management for IT admins.
 
-The Surface IT Toolkit ensures you're using the latest version thanks to [MSIX](/windows/msix/overview) the Windows app package format that automatically checks for updates and downloads them for you.
+The Surface IT Toolkit ensures you're using the latest version, thanks to [MSIX](/windows/msix/overview) the Windows app package format that automatically checks for updates and downloads them for you.
 
 ## Video demo
 
@@ -38,11 +38,11 @@ See how the Surface IT Toolkit provides essential tools to configure, secure, an
 
     :::image type="content" source="images/it-toolkit-eula.png" alt-text="Screenshot of License Agreement for Surface IT Toolkit.":::
 
-4. Select the devices you intend to manage with the toolkit. Use the provided device family and model selection to choose the appropriate Surface devices such as Surface Laptop 6 for Business, Surface Pro 10, or others. Select **Next**.
+4. Select the Surface devices you intend to manage, such as Surface Laptop 7 or Surface Pro 11. Select **Next**.
 
     :::image type="content" source="images/it-toolkit-managed-devices.png" alt-text="Screenshot that shows list of managed devices.":::
 
-5. Help improve the app by agreeing to send anonymous usage data. All information is collected anonymously for the purpose of software development and isn't shared or accessible by any third party. If you wish to opt out, uncheck the checkbox **Send required and optional diagnostic data**.
+5. Help improve the app by agreeing to send anonymous usage data. All information is collected anonymously for the purpose of software development and isn't shared or accessible by any third party. To opt out, clear the **Send required and optional diagnostic data** checkbox.
 
     :::image type="content" source="images/it-toolkit-diagnostics.png" alt-text="Screenshot of anonymous data sharing info.":::
 
@@ -54,13 +54,13 @@ See how the Surface IT Toolkit provides essential tools to configure, secure, an
 
 | Device family             | Supported models                                         |
 |---------------------------|----------------------------------------------------------|
-| **Surface Pro**           | **Surface Pro 11th Edition, Intel processor**            |
-|                           | **Surface Pro 11th Edition, Snapdragon processor**         |
+| **Surface Pro**           | **Surface Pro 11th Edition (Intel)**            |
+|                           | **Surface Pro 11th Edition (Snapdragon)**         |
 |                           | Surface Pro 10, Surface Pro 10 with 5G                   |
 |                           | Surface Pro 9, Surface Pro 8, Surface Pro 7+, Surface Pro 7 |
 |                           | Surface Pro X Wi-Fi, Surface Pro X SQ2, Surface Pro X SQ1 |
-| **Surface Laptop**        | **Surface Laptop 7th Edition, Intel processor**         |
-|                           | **Surface Laptop 7th Edition, Snapdragon processor**      |
+| **Surface Laptop**        | **Surface Laptop 7th Edition (Intel)**         |
+|                           | **Surface Laptop 7th Edition (Snapdragon)**      |
 |                           | Surface Laptop 6, Surface Laptop 5, Surface Laptop 4, Surface Laptop 3 |
 |                           | Surface Laptop SE                                        |
 |                           | Surface Laptop Go 3, Surface Laptop Go 2, Surface Laptop Go |
@@ -86,7 +86,7 @@ The Managed Devices area displays your selected device models that can be manage
 
 - **Build USB for Data Eraser:** Create a USB to securely erase data from Surface SSDs.
 - **Create Certificate:** Generate a certificate of sanitization for a previously erased Surface SSD.
-- **Create USB Recovery Image:**  Download and build a USB drive to restore a Surface device to factory state.
+- **Create USB Recovery Image:** Download and build a USB drive to restore a Surface device to factory state.
 - **Create UEFI Configuration:** Prepare a UEFI configuration package for Surface devices.
 
 ### Tool Library in the Surface IT Toolkit
@@ -95,12 +95,19 @@ The Tool Library in the Surface IT Toolkit is a centralized repository that prov
 
 ## Release notes
 
+### Version: 1.233.139.0
+
+This version of Surface IT Toolkit, released April 1, 2025, includes the following updates:
+
+- Support for [Windows 365 Link](/windows-365/link/overview)
+- Improved accessibility
+
 ### Version 1.223.139.0
 
 This version of Surface IT Toolkit, released February 19, 2025, includes the following updates:
 
-- Support for Surface Laptop for Business 7th Edition, Intel processor
-- Support for Surface Pro for Business 11th Edition, Intel processor
+- Support for Surface Laptop 7th Edition (Intel)
+- Support for Surface Pro 11th Edition (Intel)
 - Improved accessibility
 
 ### Version 1.204.139.0
@@ -113,7 +120,7 @@ This version of Surface IT Toolkit, released December 5, 2024, includes the foll
 
 This version of Surface IT Toolkit, released September 10, 2024, includes the following updates:
 
-- Added support for Wi-Fi+5G models of Surface Pro 11th Edition, Snapdragon processor and Wi-Fi+5G models of Surface Pro 10 for Business
+- Added support for Wi-Fi+5G models of Surface Pro 11th Edition (Snapdragon) and Wi-Fi+5G models of Surface Pro 10 for Business
 - Improved accessibility options
 
 ### Version 1.186.139
