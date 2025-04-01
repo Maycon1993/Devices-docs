@@ -75,8 +75,8 @@ Upon startup, Surface Hub automatically enters first-time Windows setup mode, fo
 
 Now, you're ready to begin the Microsoft Teams Rooms setup experience.
 
-1. Agree to Microsoft Software License Terms and acknowledgment of the privacy statement at [https://aka.ms/privacy](https://aka.ms/privacy). Select **Accept**.
-2. If you received a one-time passcode, enter it and select **Continue.** Otherwise, select **Manual setup** and enter your Teams resource account and password.
+1. Agree to Microsoft Software License Terms and acknowledgment of the privacy statement at [https://aka.ms/privacy](https://aka.ms/privacy). Select **Accept** to continue.
+2. If you received a one-time passcode, enter it and select **Continue**. Otherwise, select **Manual setup** and enter your Teams resource account and password.
 3. Select **Finish** to complete the Microsoft Teams Rooms setup.
 
 ## Use provisioning packages in Enterprise environments
