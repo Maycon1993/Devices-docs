@@ -1,12 +1,12 @@
 ---
 title: Manage DFCI on Surface devices
-description: This page shows how to configure DFCI policy settings on Autopilot-deployed Surface devices. It includes documentation for all DFCI settings compatible with Surface devices.
+description: Remotely manage UEFI settings on Surface devices with DFCI in Intune. Disable hardware, enforce security, and streamline provisioning.
 ms.localizationpriority: medium
 ms.service: surface
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 04/09/2024
+ms.date: 03/31/2025
 ms.reviewer: karand
 manager: frankbu
 appliesto:
@@ -19,7 +19,7 @@ appliesto:
 
 With Device Firmware Configuration Interface (DFCI) profiles built into [Microsoft Intune](/mem/autopilot/dfci-management), Surface UEFI management extends the modern management stack down to the Unified Extensible Firmware Interface (UEFI) hardware level. DFCI supports zero-touch provisioning, eliminates BIOS passwords, provides control of security settings, including boot options and built-in peripherals, and lays the groundwork for advanced security scenarios in the future. This page lists [all DFCI policy settings](#dfci-policy-settings-reference-for-surface-devices) on eligible Autopilot-deployed Surface devices.
 
-Designed to be used with software-level mobile device management (MDM), DFCI enables IT admins to remotely disable specific hardware components and prevent end users from accessing them. For example, if you need to protect sensitive information in highly secure areas, you can disable the camera, and if you don't want users booting from USB drives, you can disable that also.
+Designed to be used with software-level mobile device management (MDM), DFCI enables IT admins to remotely disable specific hardware components and prevent end users from accessing them. For example, if you need to protect sensitive information in highly secure areas, you can disable the camera, and if you don't want users booting from USB drives, you can disable that as well.
 
 > [!TIP]
 > Support for some DFCI policy settings varies by device. Review the [DFCI policy settings reference](#dfci-policy-settings-reference-for-surface-devices) on this page and follow [Intune instructions](/mem/intune/configuration/device-firmware-configuration-interface-windows) to configure and deploy settings to your devices.
@@ -36,31 +36,38 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 
 ### Eligible devices
 
-- Surface Hub 3
-- Surface Hub 2S running Microsoft Teams Rooms on Windows
-- Surface Pro 11th Edition, Snapdragon processor (commercial SKUs only)
-- Surface Pro 10 (commercial SKUs only)
-- Surface Pro 10 with 5G (commercial SKUs only)
-- Surface Pro 9 (commercial SKUs only)
-- Surface Pro 9 with 5G (commercial SKUs only)
-- Surface Pro 8 (commercial SKUs only)
-- Surface Pro 7+ (commercial SKUs only)
-- Surface Pro 7 (all SKUs)
-- Surface Pro X (all SKUs)
-- Surface Laptop Studio (all generations, commercial SKUs only)
-- Surface Laptop 7th Edition, Snapdragon processor (commercial SKUs only)
-- Surface Laptop 6
-- Surface Laptop 5 (commercial SKUs only)
-- Surface Laptop 4 (commercial SKUs only)
-- Surface Laptop 3 (Intel processors only)
-- Surface Laptop Go
-- Surface Laptop Go 2 (commercial SKUs only)
-- Surface Laptop Go 3 (commercial SKUs only)
-- Surface Laptop SE
-- Surface Book 3
-- Surface Go 3 (commercial SKUs only)
-- Surface Go 4 (commercial SKUs only)
-- Surface Studio 2+
+Unless otherwise specified, listed devices are *commercial SKUs only*.
+
+| Device type           | Models                                         |
+|-----------------------|------------------------------------------------------|
+| **Surface Pro**       | Pro 11th Edition (Intel)                             |
+|                       | Pro 11th Edition (Snapdragon)                        |
+|                       | Pro 10                                               |
+|                       | Pro 10 with 5G                                       |
+|                       | Pro 9                                                |
+|                       | Pro 9 with 5G                                        |
+|                       | Pro 8                                                |
+|                       | Pro 7+                                               |
+|                       | Pro 7 (all SKUs)                                     |
+|                       | Pro X (all SKUs)                                     |
+| **Surface Laptop**    | Laptop 7th Edition (Intel)                           |
+|                       | Laptop 7th Edition (Snapdragon)                      |
+|                       | Laptop 6                                             |
+|                       | Laptop 5                                             |
+|                       | Laptop 4                                             |
+|                       | Laptop 3 (Intel processors only)                     |
+|                       | Laptop Studio (all generations)                      |
+|                       | Laptop Go                                            |
+|                       | Laptop Go 2                                          |
+|                       | Laptop Go 3                                          |
+|                       | Laptop SE                                            |
+| **Surface Hub**       | Hub 3                                                |
+|                       | Hub 2S (running Microsoft Teams Rooms on Windows)    |
+| **Other**             | Book 3                                               |
+|                       | Go 3                                                 |
+|                       | Go 4                                                 |
+|                       | Studio 2+                                            |
+
 
 > [!NOTE]
 > Surface Pro X doesn't support DFCI settings management for built-in camera, audio, and Wi-Fi/Bluetooth. Some newer settings are only supported on the latest devices.
@@ -75,8 +82,8 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 | **Simultaneous multithreading** | This setting lets you manage whether simultaneous multithreading (SMT) support is enabled on eligible devices. SMT supports Intel hyperthreading technology, which provides two logical processors for each physical core.<br><br>- If you enable this setting, SMT is turned on in the UEFI layer.<br>- If you disable this setting, SMT is turned off in the UEFI layer. <br>- If you don't configure this setting, SMT is enabled. | All eligible devices |
 | **Cameras** | | |
 | **Cameras** | This setting lets you manage whether the built-in camera can function on eligible devices.<br><br>- If you enable this setting, all built-in cameras are allowed. Peripherals, like USB cameras, aren't affected.<br>- If you disable this setting, all built-in cameras are disabled. Peripherals, like USB cameras, aren't affected.<br>- If you don't configure this setting, all built-in cameras are enabled. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
-| **Front Camera** | This setting lets you manage whether the Front camera can function on eligible devices.<br><br>- If you enable this setting, the Front camera is allowed. Peripherals, like USB cameras, aren't affected.<br>- If you disable this setting, the Front camera is disabled. Peripherals, like USB cameras, aren't affected.<br>- If you don't configure this setting, the Front camera is enabled. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
-| **Rear Camera** | This setting lets you manage whether the Rear camera can function on eligible devices.<br><br>- If you enable this setting, the Rear camera is allowed. Peripherals, like USB cameras, aren't affected.<br>- If you disable this setting, the Rear camera is disabled. Peripherals, like USB cameras, aren't affected.<br>- If you don't configure this setting, the Rear camera is allowed. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
+| **Front Camera** | This setting lets you manage whether the front camera can function on eligible devices.<br><br>- If you enable this setting, the front camera is allowed. Peripherals, like USB cameras, aren't affected.<br>- If you disable this setting, the front camera is disabled. Peripherals, like USB cameras, aren't affected.<br>- If you don't configure this setting, the front camera is enabled. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
+| **Rear Camera** | This setting lets you manage whether the rear camera can function on eligible devices.<br><br>- If you enable this setting, the rear camera is allowed. Peripherals, like USB cameras, aren't affected.<br>- If you disable this setting, the rear camera is disabled. Peripherals, like USB cameras, aren't affected.<br>- If you don't configure this setting, the rear camera is allowed. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
 | **Infrared (IR) Camera** | This setting lets you manage whether the Infrared camera can function on eligible devices.<br><br>- If you enable this setting, the Infrared camera is allowed. Peripherals, like USB cameras, aren't affected.<br>- If you disable this setting, the Infrared camera is disabled. Peripherals, like USB cameras, aren't affected.<br>- If you don't configure this setting, the Infrared camera is  allowed. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
 | **Microphones and speakers** | | |
 | **Microphones and speakers** | This setting lets you manage whether on-board audio can function on eligible devices.<br><br>- If you enable this setting, all built-in microphones and speakers are allowed. Peripherals, like USB devices, aren't affected.<br>- If you disable this setting, all built-in microphones and speakers are disabled. Peripherals, like USB devices, aren't affected.<br>- If you don't configure this setting, microphones and speakers are enabled. | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices. |
@@ -84,12 +91,12 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 | **Radios** | | |
 | **Radios (Bluetooth, Wi-Fi, NFC, etc.)** |This setting lets you manage whether built-in Bluetooth, Wi-Fi, or 5G wireless can function on eligible devices. <br><br>- If you enable this setting, all built-in radios are allowed. Peripherals, like USB devices, aren't affected. <br>- If you disable this setting, all built-in radios are disabled. Peripherals, like USB devices, aren't affected. <br>- If you don't configure this setting, all built-in radios are enabled. <br><br> **TIP:** Configure the category setting **Radios (Bluetooth, Wi-Fi, NFC, etc.)** or the granular settings **Bluetooth, Wi-Fi**. If you configure all the settings, these settings can cause a conflict. For more information, go to [DFCI profile overview: Conflicts](/mem/intune/configuration/device-firmware-configuration-interface-windows#conflicts).<br><br>**CAUTION:** The **Disable** setting should only be used on devices with a wired Ethernet connection. | - Not supported on Surface Pro X. <br>- Supported on all other eligible devices. |
 | **Bluetooth**                                           | This setting lets you manage whether built-in Bluetooth can function on eligible devices.<br><br>- If you enable this setting, Bluetooth is enabled.<br>- If you disable this setting,  Bluetooth is disabled.<br>- If you don't configure this setting,  Bluetooth is enabled.                                                                                                                                                                                                                                                                                                   | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices.  |
-| **WWAN**                                                | This setting lets you manage whether built-in WWAN (5G wireless) can function on eligible devices<br><br>- If you enable this setting,  WWAN is enabled.<br>- If you disable this setting,  WWAN is disabled.<br>- If you don't configure this setting,  WWAN is enabled.                                                                                                                                                                                                                                                                                                              | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices.  |
+| **WWAN**                                                | This setting lets you manage whether built-in WWAN (5G wireless) can function on eligible devices<br><br>- If you enable this setting, WWAN is enabled.<br>- If you disable this setting, WWAN is disabled.<br>- If you don't configure this setting, WWAN is enabled.                                                                                                                                                                                                                                                                                                              | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices.  |
 | **Wi-Fi**                                               | This setting lets you manage whether built-in Wi-Fi can function on eligible devices<br><br>- If you enable this setting,  Wi-Fi is enabled.<br>- If you disable this setting,  Wi-Fi is disabled.<br>- If you don't configure this setting,  Wi-Fi is enabled.                                                                                                                                                                                                                                                                                                              | - Not supported on Surface Pro X.<br>- Supported on Surface Pro 9 with 5G and all other eligible devices.  |
 | **Boot options** | | |
 | **Boot from external media (USB, SD)** | This setting lets you manage whether eligible devices can be booted from external media.<br><br>- If you enable this setting, end users can boot the device from USB flash drives or other non-hard drive storage technologies. <br>- If you disable this setting, end users can't boot the device from USB flash drives or other non-hard drive storage technologies. <br>- If you don't configure this setting, end users can boot the device from USB flash drives or other non-hard drive storage technologies. | All eligible devices |
 | **Ports** | | |
-| **USB type A**                                          | This setting lets you manage how devices can utilize USB-A connections.<br><br>- If you enable this setting,  USB-A data connections can function on eligible devices.<br>- If you disable this setting, USB-A data connections can't function on eligible devices.<br><br>- If you don't configure this setting, USB-A data connections can function on all devices.<br> <br> **CAUTION:** If you disable both **Boot from external media** and **USB type A**—and the device becomes unbootable for any reason—you won't be able to recover the device without replacing the SSD. You'll be unable to boot from external media and perform a PXE boot or DFCI refresh from the network.                                                                                                               | Supported only on Surface Laptop Go 2 and later (devices released after 1 June, 2022).                                |
+| **USB type A**                                          | This setting lets you manage how devices can utilize USB-A connections.<br><br>- If you enable this setting,  USB-A data connections can function on eligible devices.<br>- If you disable this setting, USB-A data connections can't function on eligible devices.<br><br>- If you don't configure this setting, USB-A data connections can function on all devices.<br> <br> **CAUTION:** If you disable both **Boot from external media** and **USB type A**—and the device becomes unbootable for any reason—you won't be able to recover the device without replacing the SSD. You'll be unable to boot from external media and perform a PXE boot or DFCI refresh from the network.                                                                                                               | Supported only on Surface Laptop Go 2 and later (devices released after June 1, 2022).                                |
 | **Wake settings**                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                 |
 | **Wake-on-LAN**                                         | This setting lets you manage whether eligible devices can be remotely started from Modern Standby or Hibernate.<br><br>- If you enable this setting, eligible devices can be configured to remotely Wake-on-LAN. <br>- If you disable this setting, eligible devices can't be configured to remotely wake on LAN.<br>- If you don't configure this setting, eligible devices can be configured to remotely wake on LAN.                                                                                                                     | Supported only on Surface Laptop Go 2 and later (devices released after 1 June, 2022).                                |
 | **Wake-on-Power**                                       | This setting lets you manage whether eligible devices can be automatically started from hibernation or powered-off states when connected to power. <br><br>- If you enable this setting, eligible Surface devices can be configured to automatically start when connected to power<br>- If you disable this setting, eligible Surface devices can't be configured to automatically start when connected to power. <br>- If you don't configure this setting, eligible Surface devices can't be configured to automatically start when reconnected to power.                                                                        | Supported only on Surface Laptop Go 2 and later (devices released after 1 June, 2022).                                |
@@ -102,7 +109,7 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 1. Sign in to your tenant at [intune.microsoft.com](https://intune.microsoft.com).
 2. In the Microsoft Intune admin center, select **Devices > Configuration profiles > Create profile**.
 3. Under Platform, select **Windows 10 and later**.
-4. Under Profile type, select **Templates** > **Device Firmware Configuration Interface** and then select **Create.**
+4. Under Profile type, select **Templates** > **Device Firmware Configuration Interface** and then select **Create**.
 
    :::image type="content" source="images/dfci-start.png" alt-text="Start creating DFCI profile":::
 
@@ -116,7 +123,7 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 
 ## Prevent users from changing UEFI settings
 
-For many customers, the ability to block users from changing UEFI settings is critically important and a primary reason to use DFCI. As listed above in Table 1, this functionality is managed via the setting **Allow local user to change UEFI settings**. If you don't edit or configure this setting, the local user can change any UEFI setting not managed by Intune. Therefore, it's highly recommended to set **Allow local user to change UEFI settings** to **None.**
+For many customers, the ability to block users from changing UEFI settings is critically important and a primary reason to use DFCI. As listed above in Table 1, this functionality is managed via the setting **Allow local user to change UEFI settings**. If you don't edit or configure this setting, the local user can change any UEFI setting not managed by Intune. Therefore, it's highly recommended to set **Allow local user to change UEFI settings** to **None**.
 
 :::image type="content" source="images/dfci-configure.png" alt-text="Block user access to change UEFI settings":::
 
@@ -134,7 +141,7 @@ In a test environment, you can verify settings in the Surface UEFI interface.
 
    > [!NOTE]
    > - The settings are grayed out (inactive) because **Allow local user to change UEFI setting** is set to **None**.
-   > - On-board Audio is set to off because the **Microphones and speakers** policy is set to **Disabled**.
+   > - On-board audio is set to off because the **Microphones and speakers** policy is set to **Disabled**.
 
 ## Remove DFCI policy settings
 
@@ -145,7 +152,7 @@ When you create a DFCI profile, all configured settings will remain in effect ac
 **To remove DFCI management and return device to factory new state:**
 
 1. Retire the device from Intune:
-   1. In Microsoft Intune at intune.microsoft.com,, choose **Devices** > **All Devices**.
+   1. In Microsoft Intune at intune.microsoft.com, choose **Devices** > **All Devices**.
    1. Select the device you want to retire, then choose **Retire/Wipe.**
    To learn more, see [Remove devices by using wipe, retire, or manually unenrolling the device](/mem/intune/remote-actions/devices-wipe).
 2. Delete the Autopilot registration from Intune:
