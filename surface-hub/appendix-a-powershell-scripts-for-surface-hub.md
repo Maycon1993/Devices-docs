@@ -35,7 +35,7 @@ appliesto:
 
 ## Prerequisites
 
-To successfully execute these PowerShell scripts, you  need to install the following prerequisites:
+To successfully run these PowerShell scripts, you  need to install the following prerequisites:
 
 - Microsoft Online Services Sign-in Assistant for IT Professionals RTW
 - [Microsoft Azure Active Directory module for Windows PowerShell (64-bit version)](https://www.powershellgallery.com/packages/MSOnline/1.1.183.17)

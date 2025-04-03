@@ -1,13 +1,12 @@
 ---
-title: "Surface Hub 2S 85-inch"
-description: "This article introduces Surface Hub 2S 85-inch."
+title: Surface Hub 2S 85-inch
+description: Explore the Surface Hub 2S 85", designed for larger spaces with a 4K display, collaboration tools, and Microsoft Teams integration
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 manager: frankbu
-
 ms.topic: how-to
-ms.date: 01/11/2022
+ms.date: 03/31/2025
 ms.localizationpriority: Medium
 ---
 
@@ -18,6 +17,8 @@ The 85" version of the Surface Hub family brings the Surface Hub 2S experience t
 - **Designed for group collaboration.** Invites simultaneous inking in Microsoft Whiteboard plus larger-than-life remote attendees in Microsoft Teams.
 - **Consistent Surface Hub 2S experience.** Provides the same premium design, 4K display technology, touch, pen/ink, compute cartridge, and camera support as Surface Hub 2S 50”.
 - **Integration with existing and new A/V systems.** Combines with Microsoft Teams certified peripherals and integrates with Microsoft Teams Rooms.
+
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
 
 ![Surface Hub 2S 85".](images/hub-2s-85.png)
 
