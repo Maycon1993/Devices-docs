@@ -1,11 +1,11 @@
 ---
 title: Miracast on existing wireless network or LAN
-description: Windows 10 enables you to send a Miracast stream over a local network.
+description: Use Miracast over LAN or secure Wi-Fi to wirelessly project and interact with content on Surface Hub without extra hardware or setup. 
 ms.service: surface-hub
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 04/24/2020
+ms.date: 03/31/2025
 ms.reviewer: 
 manager: frankbu
 ms.localizationpriority: medium
@@ -24,6 +24,14 @@ Miracast on your wireless network or LAN offers many benefits:
 - No changes to current wireless drivers or PC hardware are required.
 - It works well with older wireless hardware not optimized for Miracast over Wi-Fi Direct.
 - It uses an existing connection, which reduces the time to connect and provides a stable stream.
+
+---
+
+## Miracast support on Surface Hub 3
+
+Microsoft [announced in January 2025](https://techcommunity.microsoft.com/blog/SurfaceITPro/introducing-edge-and-miracast-on-surface-hub-3/4365746) that for the first time ever, Teams Rooms on Windows – including Surface Hub 3 – will add support for Miracast wireless projection. Beyond simply sharing content, Miracast will also enable you to interact with the content on the Hub 3 display, with touch and pen input translated back to your PC. Surface Hub 3 will be able to desktop share Miracast-projected content into Teams meetings. Together with wired content sharing from PCs via center-of-table consoles (see next section), as well as Teams Cast and desktop sharing from PC over a Teams meeting, customers will now have an even more versatile and flexible set of options for sharing and collaborating on content with Surface Hub. Miracast support is committed; stay tuned for updates on availability timing.
+
+---
 
 ## How it works
 
