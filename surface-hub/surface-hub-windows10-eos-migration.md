@@ -17,6 +17,8 @@ This article provides step-by-step guidance for Surface Hub customers affected b
 
 > [!IMPORTANT]
 > The [free seamless software migration service](surface-hub-2s-migrate-to-mtr-w.md) for Surface Hub 2S is available until October 14, 2025. After this date, migrating your device requires a [more manual process using the Surface Enterprise Management Mode (SEMM) process](/surface/surface-enterprise-management-mode). We strongly recommend completing the software migration now to avoid extra steps and ensure a smooth transition.
+>
+> **Note:** Unlike standard Windows 10 editions, Windows 10 Team doesn't have an extended support option beyond this date.
 
 ## End of support overview
 
@@ -27,8 +29,7 @@ This article provides step-by-step guidance for Surface Hub customers affected b
 - The Microsoft Teams app will no longer be accessible on **Surface Hub v1** and **Surface Hub 2S** devices running Windows 10 Team Edition.
 - The Microsoft Teams app (that preceded Microsoft Teams Rooms on Windows) has been deprecated. To learn more, see [Microsoft Teams App End of Availability on Surface Hub v1 and 2S Running Windows 10 Team Edition](/microsoftteams/rooms/rooms-lifecycle-support#microsoft-teams-app-end-of-availability-on-surface-hub-v1-and-2s-running-windows-10-team-edition).
 
->
-> **Note:** Unlike standard Windows 10 editions, Windows 10 Team doesn't have an extended support option beyond this date.
+
 
 ## What this means for your organization
 
