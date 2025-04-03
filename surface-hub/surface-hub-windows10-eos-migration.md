@@ -18,7 +18,7 @@ This article provides step-by-step guidance for Surface Hub customers affected b
 ## End of support overview
 
 - Windows 10 Team Edition reaches end of support on **October 14, 2025**.
-- Devices still running Team Edition must be migrated to Microsoft Teams Rooms on Windows to continue receiving updates and support.
+- Surface Hub 2S devices still running Team Edition must be migrated to Microsoft Teams Rooms on Windows to continue receiving updates and support. Surface Hub v1 devices cannot be migrated. 
 - Microsoft Teams Rooms and Teams Rooms Pro Management software will also stop supporting Windows 10 after this date.
 - The Microsoft Teams app will no longer be accessible on **Surface Hub v1** and **Surface Hub 2S** devices running Windows 10 Team Edition.
 - The Microsoft Teams 1.0 client is deprecated; devices relying on it are no longer functional.
@@ -45,7 +45,7 @@ supported Teams experience.​
 Surface Hub 2S devices should transition to a supported Windows 11-based platform to continue using Teams and receive the latest updates. You have three options:
 
 1. **Hardware upgrade**:
-   - The easiest path is to install a [Surface Hub 3 Compute Cartridge](surface-hub-3-compute-cartridge-overview.md), which comes preloaded with the Windows 11-based Microsoft Teams Rooms on Windows platform. This cartridge also provides the best experience of Teams Rooms on Surface Hub due to the enhanced performance capabilities of Surface Hub 3 ([as detailed at the end of this blog post](https://techcommunity.microsoft.com/t5/surface-it-pro-blog/what-s-new-for-surface-hub-3/ba-p/3962801)).
+   - The easiest path is to install the [Surface Hub 3 Compute Cartridge](install-manage-surface-hub-3-compute-cartridge.md), which comes preloaded with the Windows 11-based Microsoft Teams Rooms on Windows platform. This cartridge also provides the best experience of Teams Rooms on Surface Hub due to the enhanced performance capabilities of Surface Hub 3 ([as detailed at the end of this blog post](https://techcommunity.microsoft.com/t5/surface-it-pro-blog/what-s-new-for-surface-hub-3/ba-p/3962801)).
 
 2. **Software migration** *(available only until October 14, 2025)*:
    - Surface Hub 2S devices can also be software-migrated to the Microsoft Teams Rooms platform using the process outlined in [Migrate Surface Hub 2S to Microsoft Teams Rooms on Windows](surface-hub-2s-migrate-to-mtr-w.md).
