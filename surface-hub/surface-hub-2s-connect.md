@@ -15,6 +15,8 @@ appliesto:
 
 # Connect devices to Surface Hub 2S
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 Surface Hub 2S supports flexible device connectivity for seamless collaboration and content sharing. You can connect external devices, mirror displays, and use third-party peripherals like video conference cameras, conference phones, and room system devices. Surface Hub 2S enables interactive controls through TouchBack and InkBack, enhancing collaboration during meetings.
 
 ## Connection options and configurations

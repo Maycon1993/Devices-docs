@@ -44,7 +44,7 @@ Additionally:
 
 ## General-purpose Surface devices and LTSC
 
-Surface devices that run **productivity apps like Microsoft Office**, **access Microsoft Store apps**, or **browse the internet** should remain on **Windows 11 Pro or Enterprise**, using the Semi-Annual Channel to receive the latest features and security patches.
+Surface devices that run **productivity apps like Microsoft Office**, **access Microsoft Store apps**, or **browse the Internet** should remain on **Windows 11 Pro or Enterprise**, using the Semi-Annual Channel to receive the latest features and security patches.
 
 > [!NOTE]  
 > Organizations using a specific LTSC version may need to upgrade to newer LTSC releases or switch to **Windows 11 Pro or Enterprise** to maintain compatibility with new Surface hardware, such as **Surface Pro 10** or **Surface Laptop 6**. For more information, see [Windows LTSC Lifecycle FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel--ltsc--).

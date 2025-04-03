@@ -43,7 +43,7 @@ To install released apps:
 To evaluate apps on an individual Surface Hub, you can use the Microsoft Store app on Surface Hub to browse and download apps.
 
 > [!NOTE]
-> Using the Microsoft Store app is not the recommended method of deploying apps at scale to your organization. In an enterprise enviroment with multiple Surface Hubs, deploy apps with a [provisioning package](#install-offline-licensed-apps-via-provisioning-package) or via an [MDM provider](#supported-mdm-provider), such as Microsoft Intune.
+> Using the Microsoft Store app is not the recommended method of deploying apps at scale to your organization. In an enterprise environment with multiple Surface Hubs, deploy apps with a [provisioning package](#install-offline-licensed-apps-via-provisioning-package) or via an [MDM provider](#supported-mdm-provider), such as Microsoft Intune.
 >
 > - To download apps, you must sign in to the Microsoft Store app with a Microsoft account or organizational account. However, you can only connect an account to a maximum of 10 devices at once. If you have more than 10 Surface Hubs, you will need to create multiple accounts or remove devices from your account between app installations.
 > - To install apps, you will need to manually sign in to the Microsoft Store app on each Surface Hub you own.
