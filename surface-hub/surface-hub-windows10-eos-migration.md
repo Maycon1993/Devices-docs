@@ -26,7 +26,6 @@ This article provides step-by-step guidance for Surface Hub v1 and 2S customers 
 - Surface Hub 2S devices must be on a Windows-11 based platform, such as [Microsoft Teams Rooms on Windows](surface-hub-2s-migrate-to-mtr-w.md), in order to continue receiving updates and support. 
 - Surface Hub v1 devices will no longer be supported. It's recommended to upgrade to a newer Surface Hub device. 
 - Microsoft Teams Rooms and the [Teams Rooms Pro Management Portal](/microsoftteams/rooms/managed-meeting-rooms-portal) will also stop supporting Windows 10 after this date.
-- The Microsoft Teams app will no longer be accessible on **Surface Hub v1** and **Surface Hub 2S** devices running Windows 10 Team Edition.
 - The Microsoft Teams app (that preceded Microsoft Teams Rooms on Windows) has been deprecated and will no longer be accessible on **Surface Hub v1** and **Surface Hub 2S** devices running Windows 10 Team edition after October 14, 2025. To learn more, see [Microsoft Teams App End of Availability on Surface Hub v1 and 2S Running Windows 10 Team edition](/microsoftteams/rooms/rooms-lifecycle-support#microsoft-teams-app-end-of-availability-on-surface-hub-v1-and-2s-running-windows-10-team-edition).
 
 
