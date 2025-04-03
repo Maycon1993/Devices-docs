@@ -81,7 +81,7 @@ Azure Virtual Desktop on Surface helps customers meet increasingly complex busin
 
 ### Offline and on-device access for more productive experiences
 
-Traditionally, VDI solutions only work when the endpoint is connected to the internet. But what happens when the internet or power is unavailable?
+Traditionally, VDI solutions only work when the endpoint is connected to the Internet. But what happens when the Internet or power is unavailable?
 
 To support business continuity and help employees be productive, Microsoft designed Surface devices to augment the virtual desktop experience with offline access to files, Microsoft 365 and third-party applications. Traditional apps like Microsoft Office, available across multiple platforms (x86, x64, Universal Windows Platform, ARM), enable users to stay productive in offline mode. Files from the virtual desktop cloud environment can be synced locally on Surface using OneDrive for Business for offline access. You can be confident that all locally cached information is up-to-date and secure.
 
@@ -121,7 +121,7 @@ Security and management features delivered with Azure Virtual Desktop on Surface
 - **Modern firmware management** -Using Device Firmware Configuration Interface (DFCI), IT administrators can remotely disable hardware elements at a firmware level such as mics, USB ports, SD card slots, cameras, and Bluetooth, which removes power to the peripheral. Windows Defender Credential Guard uses virtualization-based security so that only privileged system software can access them.
 - **Backward and forward compatibility.** Windows 10 and Windows 11 devices provide backward and forward compatibility across hardware, software and services. Microsoft has a strong history of maintaining legacy support of hardware, peripherals, software and services while incorporating the latest technologies. Businesses can plan IT investments to have a long useful life.
 - **Bridge for legacy Windows 7 workloads.** For solution scenarios dependent on legacy Windows OS environments, enterprises can use VDI instances of Windows 7 running in Azure. This enables support on modern devices like Surface without the risk of relying on older Windows 7 machines that no longer receive the latest security updates. In addition to these "future-proofing" benefits, migration of any legacy workloads becomes greatly simplified when modern Windows 11 hardware is already deployed.
-- **Zero-Touch Deployment.** Autopilot is the recommended modern management deployment option for Surface devices. You can use Windows Autopilot on Surface to remotely deploy and configure devices in a zero-touch process right out of the box. Windows Autopilot-registered devices are identified over the internet at first startup through a unique device signature called a hardware hash. They're automatically enrolled and configured using modern management solutions such as Microsoft Entra ID and mobile device management.
+- **Zero-Touch Deployment.** Autopilot is the recommended modern management deployment option for Surface devices. You can use Windows Autopilot on Surface to remotely deploy and configure devices in a zero-touch process right out of the box. Windows Autopilot-registered devices are identified over the Internet at first startup through a unique device signature called a hardware hash. They're automatically enrolled and configured using modern management solutions such as Microsoft Entra ID and mobile device management.
 
 ### Surface devices: Minimizing environmental impacts
 

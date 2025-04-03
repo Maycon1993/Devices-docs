@@ -1,6 +1,6 @@
 ---
 title: Troubleshoot access to Settings app on Surface Hub
-description: If unable to access Settings on Surface Hub, try these troubleshooting steps.
+description: Troubleshoot issues accessing the Settings app on Surface Hub 2S or Hub 3 based on device affiliation, admin roles, & policy configuration.
 manager: frankbu
 ms.service: surface-hub
 author: coveminer
@@ -29,7 +29,7 @@ By default, when Surface Hub is joined to Microsoft Entra ID, only an account de
 
 - Is the account a Global Admin account?
 - Is the password expired? Try resetting the password.
-- Is Surface Hub connected to the internet?
+- Is Surface Hub connected to the Internet?
 - Is Surface Hub behind a proxy or firewall that blocks access to Microsoft Entra ID?
 - Did you or another admin configure [non-Global Admin policy](surface-hub-2s-nonglobal-admin.md) for Surface Hub? If yes, see the following section.
 
@@ -45,7 +45,7 @@ When joined to Microsoft Entra ID and auto-enrolled in Intune, you can configure
 If Intune shows the non-Global Admin policy setting is successfully applied to Surface Hub:
 
 - Is the account attempting to sign in a member of the security group designated for this policy?
-- Is the Surface Hub connected to the internet?
+- Is the Surface Hub connected to the Internet?
 - If a GA account is being used, is it a member of the security group configured on the Surface Hub? GA accounts must also be added to this security group. Otherwise, if non-Global Admin policy is applied to Surface Hub, the GA can no longer access Settings.
 
 #### Policy fails: Intune error

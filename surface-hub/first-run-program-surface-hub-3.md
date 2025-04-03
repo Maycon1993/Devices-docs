@@ -43,17 +43,17 @@ Upon startup, Surface Hub automatically enters first-time Windows setup mode, fo
 ## Begin first-time setup
 
 > [!TIP]
-> When you run first-time setup, ensure an internet connection is maintained throughout the setup to automatically download required updates for an optimal user experience.
+> When you run first-time setup, ensure an Internet connection is maintained throughout the setup to automatically download required updates for an optimal user experience.
 
 1. Press the power button to start the device.
 
    ![Screenshot of Surface Hub 3 startup.](images/surface-hub-3-oobe-fig1.png)
 
-2. **Select your region.** Confirm the autodetected region and select **Yes**. If you wish to [use a provisioning pack](#use-provisioning-packages-in-enterprise-environments), insert the USB thumb drive into one of the USB ports.
+2. **Select your region**. Confirm the autodetected region and select **Yes**. If you wish to [use a provisioning pack](#use-provisioning-packages-in-enterprise-environments), insert the USB thumb drive into one of the USB ports.
 
    ![Screenshot of Select your region.](images/surface-hub-3-oobe-fig1a.png)
 
-3. **Confirm keyboard layout.** Select **Yes**.
+3. **Confirm keyboard layout**. Select **Yes**.
 
    ![Screenshot of Confirm keyboard layout.](images/surface-hub-3-oobe-fig1b.png)
 
@@ -75,13 +75,13 @@ Upon startup, Surface Hub automatically enters first-time Windows setup mode, fo
 
 Now, you're ready to begin the Microsoft Teams Rooms setup experience.
 
-1. Agree to Microsoft Software License Terms and acknowledgment of the privacy statement at [https://aka.ms/privacy](https://aka.ms/privacy). Select **Accept**.
-2. If you received a one-time passcode, enter it and select **Continue.** Otherwise, select **Manual setup** and enter your Teams resource account and password.
+1. Agree to Microsoft Software License Terms and acknowledgment of the privacy statement at [https://aka.ms/privacy](https://aka.ms/privacy). Select **Accept** to continue.
+2. If you received a one-time passcode, enter it and select **Continue**. Otherwise, select **Manual setup** and enter your Teams resource account and password.
 3. Select **Finish** to complete the Microsoft Teams Rooms setup.
 
 ## Use provisioning packages in Enterprise environments
 
-Alternatively, you can automate the setup process with a provisioning package to ensure a consistent experience across multiple Surface Hubs. This optional technology allows for a streamlined setup process that can be performed without extensive IT intervention, saving time and resources in organizational and enterprise environments.
+Alternatively, you can automate the setup process with a provisioning package to ensure a consistent experience across multiple Surface Hubs. This optional technology allows for a streamlined setup process that can be performed without extensive IT intervention, saving time and resources in enterprise environments.
 
 Surface Hub running Teams Rooms on Windows supports a subset of provisioning pack features available in Windows 10 Team edition (for example, you can't use a provisioning pack to install apps on Surface Hub running Teams Rooms on Windows). Specifically, provisioning packs allow you to automatically configure the following features:
 
@@ -101,7 +101,7 @@ Your Surface Hub is configured with a Skype profile and an Administrator profile
 
 ### Skype profile
 
-The Skype profile automatically logs in when you start Surface Hub. It operates in a custom kiosk mode, where the Microsoft Teams Rooms application is the only user-accessible feature for nonadmins. There's no password for this account. If prompted for a password when switching between Windows accounts, press **Enter.**
+The Skype profile automatically logs in when you start Surface Hub. It operates in a custom kiosk mode, where the Microsoft Teams Rooms application is the only user-accessible feature for nonadmins. There's no password for this account. If prompted for a password when switching between Windows accounts, press **Enter**.
 
 ### Administrator profile
 
