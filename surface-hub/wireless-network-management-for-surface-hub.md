@@ -17,7 +17,7 @@ Microsoft Surface Hub offers two options for network connectivity to your corpor
 
 ## Modifying, adding, or reviewing a network connection
 
-If a wired network connection is not available, the Surface Hub can use a wireless network for internet access. A properly connected and configured Wi-Fi access point must be available and within range of the Surface Hub.
+If a wired network connection is not available, the Surface Hub can use a wireless network for Internet access. A properly connected and configured Wi-Fi access point must be available and within range of the Surface Hub.
 
 ### Choose a wireless access point
 

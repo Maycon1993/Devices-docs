@@ -158,7 +158,7 @@ When you create a DFCI profile, all configured settings will remain in effect ac
 2. Delete the Autopilot registration from Intune:
    1. Choose **Device enrollment > Windows enrollment > Devices**.
    2. Under Windows Autopilot devices, choose the devices you want to delete, then choose **Delete**.
-3. Connect the device to wired internet with a Surface-branded ethernet adapter. Restart the device and open the UEFI menu (press and hold the volume-up button while also pressing and releasing the power button).
+3. Connect the device to wired Internet with a Surface-branded ethernet adapter. Restart the device and open the UEFI menu (press and hold the volume-up button while also pressing and releasing the power button).
 4. Select **Management > Configure > Refresh from Network**, and then choose **Opt-out.**
 
 To manage the device with Intune but without DFCI management, self-register it to Autopilot and enroll it in Intune. DFCI won't be applied to self-registered devices.

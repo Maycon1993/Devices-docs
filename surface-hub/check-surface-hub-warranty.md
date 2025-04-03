@@ -14,6 +14,8 @@ appliesto:
 ---
 # Check Surface Hub warranty status
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 You can check the warranty status directly from Surface Hub or from the cloud, via the Surface Support for Business Online Service Center or the Microsoft Intune admin center.
 
 ## Check warranty status from Surface Hub
