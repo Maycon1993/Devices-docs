@@ -362,6 +362,10 @@
         - name: Surface Hub v1
           expanded: true
           items:
+            - name: Migrate
+              items: 
+               - name: End of support options & migration
+                 href:  surface-hub-windows10-eos-migration.md        
             - name: Tech specs
               items: 
                - name: Surface Hub v1 55" tech specs
