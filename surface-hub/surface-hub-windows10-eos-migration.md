@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 This article provides step-by-step guidance for Surface Hub v1 and 2S customers affected by the Windows 10 Team edition end of support. It explains available options based on your current configuration and highlights key dates, actions, and technical pathways to maintain a supported and functional device.
 
 > [!IMPORTANT]
-> The [free seamless software migration offering service](surface-hub-2s-migrate-to-mtr-w.md) for Surface Hub 2S is available until October 14, 2025. After this date, migrating your device requires a [more manual process using the Surface Enterprise Management Mode (SEMM) process](surface-hub\surface-hub-2s-migrate-os.md). We strongly recommend completing the software migration now to avoid extra steps and ensure a smooth transition.
+> The [free seamless software migration offering service](surface-hub-2s-migrate-to-mtr-w.md) for Surface Hub 2S is available until October 14, 2025. After this date, migrating your device requires a [more manual process using the Surface Enterprise Management Mode (SEMM) process](surface-hub-2s-migrate-os.md). We strongly recommend completing the software migration now to avoid extra steps and ensure a smooth transition.
 >
 > **Note:** Unlike standard Windows 10 editions, Windows 10 Team doesn't have an extended support option beyond this date.
 
