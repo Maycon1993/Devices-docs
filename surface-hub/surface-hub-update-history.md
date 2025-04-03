@@ -21,7 +21,7 @@ Most Windows updates focus on performance and security improvements. In the foll
 
 ## Windows 10 Team 2022 Update (22H2)
 
-### March 7, 2025 - update for Surface Hub 2S
+### March 13, 2025 - update for Surface Hub 2S
 
 This update is specific to the Surface Hub 2S and provides the driver and firmware updates outlined below:
 
