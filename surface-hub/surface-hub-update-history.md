@@ -16,6 +16,8 @@ Surface Hub (v1) and Hub 2S devices ship with Windows 10 Team edition. Windows w
 
 Most Windows updates focus on performance and security improvements. In the following list, the most recent Windows 10 update with Surface Hub-specific improvements is listed first. Updates are cumulative, so installing the latest available Windows update (even if it isn't on the list below) ensures that you also benefit from improvements in any previous updates. Microsoft Store apps are also updated automatically in the background. Details about app updates are provided on a per-app basis.
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 > [!TIP]
 > This page is refreshed as new updates are released.
 
