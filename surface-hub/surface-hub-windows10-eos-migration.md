@@ -46,7 +46,7 @@ supported Teams experience.​
 Surface Hub 2S devices should transition to a supported Windows 11-based platform to continue using Teams and receive the latest updates. You have three options:
 
 1. **Hardware upgrade**:
-   - The easiest path is to install the [Surface Hub 3 Compute Cartridge](install-manage-surface-hub-3-compute-cartridge.md), which comes preloaded with the Windows 11-based Microsoft Teams Rooms on Windows platform. This cartridge also provides the best experience of Teams Rooms on Surface Hub due to the enhanced performance capabilities of Surface Hub 3 ([as outlined this blog post](https://techcommunity.microsoft.com/blog/SurfaceITPro/enhancing-collaboration-with-microsoft-teams-rooms-and-surface-hub-3/4292453#community-4292453-transition)).
+   - The easiest path is to install the [Surface Hub 3 Compute Cartridge](install-manage-surface-hub-3-compute-cartridge.md), which comes preloaded with the Windows 11-based Microsoft Teams Rooms on Windows platform. This cartridge also provides the best experience of Teams Rooms on Surface Hub due to the enhanced performance capabilities of Surface Hub 3 ([as outlined this blog post](https://techcommunity.microsoft.com/blog/surfaceitpro/now-available-surface-hub-2s-migration-to-microsoft-teams-rooms-on-windows/4064081#community-4064081-surface-hub-2s-migration-reminders)).
 
 2. **Software migration** *(available only until October 14, 2025)*:
    - Surface Hub 2S devices can also be software-migrated to the Microsoft Teams Rooms platform using the process outlined in [Migrate Surface Hub 2S to Microsoft Teams Rooms on Windows](surface-hub-2s-migrate-to-mtr-w.md).
