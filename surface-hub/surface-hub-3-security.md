@@ -165,7 +165,7 @@ For settings descriptions, see [SEMM UEFI settings reference](/surface/surface-i
 
 ### Simultaneous Multi-Threading (SMT)
 
-Commonly known as hyperthreading in Intel processors, SMT allows a single physical CPU core to execute multiple threads concurrently. This can improve performance in multi-threaded applications. However, there are specific scenarios where you might want to control the SMT setting.
+Commonly known as hyperthreading in Intel processors, SMT allows a single physical CPU core to run multiple threads concurrently. This can improve performance in multi-threaded applications. However, there are specific scenarios where you might want to control the SMT setting.
 Some vulnerabilities, like speculative execution side-channel attacks (for example, L1 Terminal Fault, MDS vulnerabilities), can potentially exploit SMT to access sensitive data. Disabling SMT can mitigate the risk associated with these vulnerabilities, although at the cost of some performance. SMT is enabled by default.
 
 ### IPv6 for PXE Boot

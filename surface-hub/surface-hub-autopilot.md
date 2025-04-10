@@ -25,6 +25,8 @@ While Windows Autopilot has been available for years to enable streamlined deplo
 
 Microsoft Teams Rooms on Windows now supports streamlined deployment via a combination of Windows Autopilot and a new Auto-login capability for Teams Rooms. Together, these two components offer customers a seamless end-to-end deployment experience of Teams Rooms on Windows devices using consistent IT management interfaces – Microsoft Intune and the Teams Rooms Pro Management Portal.
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 ## Prerequisites
 
 If you're new to Autopilot, we recommend review of the following articles:
