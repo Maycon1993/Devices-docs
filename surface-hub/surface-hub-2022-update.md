@@ -16,6 +16,8 @@ appliesto:
 
 An updated version of the Surface Hub operating system, **Windows 10 Team 2022 Update**, based on [Windows 10 version 22H2](/windows/release-health/release-information), is available for Surface Hub 2S and the original Surface Hub (v1).
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 ## Distribution
 
 You can obtain the 2022 Update for Windows 10 Team via Windows Update or Windows Update for Business (governed by [WUfB policy configuration](/windows/deployment/update/waas-configure-wufb#configure-when-devices-receive-feature-updates).) 

@@ -53,8 +53,6 @@ The following table shows the release and end-of-servicing dates for Surface dev
 | -------------------------------------- | ------------------- | -------------------------------------------- |
 | Surface Pro 7                          | October 22, 2019    | October 30, 2025                             |
 | Surface Pro X SQ1                      | November 5, 2019    | August 10, 2025                              |
-| Surface Go 2                           | May 6, 2020         | December 30, 2024                            |
-| Surface Book 3                         | May 26, 2020        | April 1, 2025                                |
 | Surface Pro X SQ2                      | October 13, 2020    | August 10, 2025                              |
 | Surface Pro 7+                         | January 15, 2021    | January 15, 2027                             |
 | Surface Laptop 4                       | April 15, 2021      | April 15, 2027                               |
@@ -107,6 +105,8 @@ The following table lists products that have passed their end-of-servicing date 
 | Surface Studio 2                           | October 2, 2018    | October 2, 2024                              |
 | Surface Laptop 3                           | October 22, 2019    | July 30, 2024                                |
 | Surface Laptop Go                      | October 13, 2020    | October 13, 2024                             |
+| Surface Go 2                           | May 6, 2020         | December 30, 2024                            |
+| Surface Book 3                         | May 26, 2020        | April 1, 2025                                |
 
 ## Learn more
 

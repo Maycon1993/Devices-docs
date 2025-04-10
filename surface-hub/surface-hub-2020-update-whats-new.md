@@ -22,6 +22,8 @@ Surface Hub receives periodic updates to enhance features and functionality. The
 
 ## Windows 10 Team 2020 Update 2
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 ### Display and preferred language support
 
 Admins can now enable end users to [change the display language](change-language-on-surface-hub.md) from installed languages on the device. Ensure that Surface Hub is running [KB5023773](https://support.microsoft.com/help/5023773) or a later Windows update. For more details, visit the [Surface Hub update history](surface-hub-update-history.md).  
