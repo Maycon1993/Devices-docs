@@ -30,6 +30,8 @@ The following devices include SN QR codes only on units manufactured after the l
 - **Surface Pro for Business, 11th Edition (Arm processor)** – Units manufactured after **March 21, 2025**
 - **Surface Pro for Business, 10th Edition (Intel processor)** – Units manufactured after **March 12, 2025**
 
+:::image type="content" source="images/surface-sn-qr-code.png" alt-text="Screenshot of a Surface device engraving showing the Microsoft logo, a placeholder serial number, and a QR code beneath it.":::
+
 ## Benefits of Serial Number QR codes
 
 - **Streamlined deployment** – Accelerates inventory management and device setup.
