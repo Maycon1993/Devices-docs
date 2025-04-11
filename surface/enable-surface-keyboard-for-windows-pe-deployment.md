@@ -48,23 +48,6 @@ This article provides information necessary to enable the keyboard and trackpad 
 
 Import the following folders as appropriate for your Surface device.You will need to import these drivers into Windows PE if you need to use the keyboard or trackpad during early parts of your OS deployment.  
 
-| Device                           | Import folders        | More information  |
-| ------------------------------- | ------------------------ | -----------------------|
-| **Surface Laptop 7 (Intel)**            |           ---              |     Coming soon   |
-| **Surface Laptop 6** | ialpss2gpio2mtl<br>ialpss2i2cmtl<br>ialpss2spimtl<br>ialpss2uart2mtl<br>intcpmt<br>intelquickspi<br>msu53cx22x64sta<br>msu56cx22x64sta<br>surfaceacpiplatformextension<br>surfacebattery<br>surfacebutton<br>surfacedockintegration<br>surfacehidminidriverwinre<br>surfacehotplug<br>surfaceintegrationdriver<br>surfacepanel<br>surfacepen217integration<br>surfacepenblelcaddradaptationdriver<br>surfaceserialhub<br>surfaceservicenulldriver<br>surfacesptclient<br>surfacetimealarmacpifilter<br>surfacetouchpenprocessor0c88update<br>surfacetouchpenprocessor0c89update<br>surfaceucmucsihidclient<br>tbtslimhostcontroller |If you're using a Windows 10 version of Windows PE and you need Surface Ethernet connectivity, you also need to import the folder “msump64x64sta” from the Windows 10 MSI.|
-| **Surface Pro 11 (Intel)**           | ---  |Coming soon|
-| **Surface Pro 10** | acpiplatformextension<br>Battery<br>DockIntegration<br>HidMini<br>HotPlug<br>ialpss2gpio2mtl<br>ialpss2i2cmtl<br>ialpss2spimtl<br>ialpss2uart2mtl<br>Integration<br>IntelQuickSPI<br>msu53cx22x64sta<br>msu56cx22x64sta<br>penwirelesschargerhotkey<br>SarManager<br>SerialHub<br>Service<br>SMFClient<br>smfdisplayclient<br>timealarmacpifilter<br>UcmUcsiHidClient|If you're using a Windows 10 version of Windows PE and you need Surface Ethernet connectivity, you also need to import the folder “msump64x64sta” from the Windows 10 MSI.|
-| **Surface Pro 9 with Intel processor** | adlserial<br>alderlakepchpsystem<br>alderlakesystem<br>gna<br>intelprecisetouch<br>managementengine<br>msump64x64sta<br>surfaceacpiplatformextension<br>surfacebattery<br>surfacedockintegration<br>surfacehidmini<br>surfacehotplug<br>surfaceintegrationdriver<br>surfacesarmanager<br>surfaceserialhubdriver<br>surfaceservicenulldriver<br>surfacetimealarmacpifilter<br>surfaceucmucsihidclient<br>tbtslimhostcontroller |n/a |
-| **Surface Laptop Studio 2**     | Adl-rplserialLPSS<br>cardreader<br>heci<br>intelquickspi<br>msu53cx22x64sta<br>realtekEthernet<br>surfaceacpiplatformextension<br>surfacebattery<br>surfacedockintegration<br>surfacehidminidriver<br>surfacehotplug<br>surfaceintegrationdriver<br>surfacepenwirelesschargerhotkey<br>surfacesarmanager<br>surfaceserialhub<br>surfacesptclient<br>surfacetimealarmacpifilter<br>surfaceucmucsihidclient<br>surfacewakeontouchcontrol<br>wotquickspiextensionport1 | n/a     |
-| **Surface Laptop Studio**     | intelthcbase <br>managementengine <br>surfaceacpiplatformextension <br>surfacebattery <br>SurfaceEthernetAdapter <br>surfacehidmini  <br>surfacehotplug <br>surfaceintegration <br>surfacesar <br>surfaceserialhub <br>surfacesmfclient <br>surfacesmfdisplayclient <br>surfacesptclient <br>surfacetimealarmacpifilter <br>surfacevirtualfunctionenum <br>tbtslimhostcontroller <br>tglchipset <br>tglserial <br>   | n/a     |
-| **Surface Pro 8**       | intelthcbase <br> ManagementEngine <br> surfaceacpiplatformextension <br> SurfaceBattery <br> SurfaceCoverClick <br> SurfaceEthernetAdapter <br> SurfaceHidMini <br> SurfaceHotPlug <br> surfaceintegrationdriver <br> SurfaceSar <br> SurfaceSerialHub <br> surfacetimealarmacpifilter <br> surfacetypecoverv7fprude <br> SurfaceUcmUcsiHidClient <br> surfacevirtualfunctionenum <br> tbtslimhostcontroller <br> TglChipset <br> TglSerial| n/a  |
-| **Surface Laptop 5 with Intel processor**| adlserial <br> alderlakepchpsystem <br> gna <br> heci <br> intelprecisetouch <br> msump64x64sta <br> surfaceacpiplatformextensiondriver <br> surfacebattery <br> surfacebutton <br> surfacedockintegration <br> surfacehidminidriver <br> surfacehotplug <br> surfaceintegration <br> surfaceserialhubdriver <br> surfacetimealarmacpifilter <br> tbtslimhostcontroller      |  n/a |
-| **Surface Laptop 4 with Intel processor** | TglSerial <br> IntelPreciseTouch <br> SurfaceEthernetAdapter <br> SurfaceBattery <br> SurfaceHidMini <br> SurfaceHotPlug <br> SurfaceSerialHub <br> SurfaceTconDriver <br> surfacetimealarmacpifilter <br> surfacevirtualfunctionenum <br> TglChipset <br> ManagementEngine          | n/a    |
-| **Surface Laptop 4 with AMD processor**| U0361415 <br> AMDfendr <br> AMDGpio2 <br> AMDI2c <br> AMDLpcFilterDriverAMDMicroPEP <br> AMDPsp <br> AMDSmf <br> AMDSpi <br> AMDUart <br> SurfaceEthernetAdapter <br> SMBUS <br> SurfaceBattery <br> SurfaceButton <br> SurfaceDigitizerHidSpiExtnPackage <br> SurfaceHIDFriendlyNames <br> SurfaceHidMini <br> SurfaceHotPlug <br> SurfaceOemPanel <br> SurfacePowerMeter <br> SurfacePowerTrackerCore <br> SurfaceSerialHub <br> SurfaceSMFClient <br> SurfaceSmfDisplayClient <br> SurfaceSystemManagementFramework <br> SurfaceTconDriver <br> SurfaceThermalPolicy <br> Surfacetimealarmacpifilter <br> SurfaceUcmUcsiHidClient | n/a       |
-| **Surface Laptop 3 with Intel processor** | SurfaceUpdate\SerialIOGPIO <br> SurfaceUpdate\SerialIOI2C <br> SurfaceUpdate\SerialIOSPI <br> SurfaceUpdate\SerialIOUART <br> SurfaceUpdate\SurfaceHidMini <br> SurfaceUpdate\SurfaceSerialHub <br> SurfaceUpdate\SurfaceHotPlug <br> SurfaceUpdate\Itouch   | Importing the following folders enables full keyboard, trackpad, and touch functionality in PE: <br>  <br> SerialIOGPIO <br> SerialIOI2C <br> SerialIOSPI <br> SerialIOUART <br> itouch <br> Chipset <br> ChipsetLPSS <br> ChipsetNorthpeak <br> ManagementEngine <br> SurfaceAcpiNotify <br> SurfaceBattery <br> SurfaceDockIntegration <br> SurfaceHidMini <br> SurfaceHotPlug <br> SurfaceIntegration <br> SurfaceSerialHub <br> SurfaceService <br> SurfaceStorageFwUpdat |
-| **Surface Laptop 2**| SurfacePlatformInstaller\Drivers\System\GPIO <br> SurfacePlatformInstaller\Drivers\System\SurfaceHIDMiniDriver <br> SurfacePlatformInstaller\Drivers\System\SurfaceSerialHubDriver <br> SurfacePlatformInstaller\Drivers\System\I2C <br> SurfacePlatformInstaller\Drivers\System\SPI <br> SurfacePlatformInstaller\Drivers\System\UART <br> SurfacePlatformInstaller\Drivers\System\PreciseTouch  | For newer .msi files beginning with "SurfaceUpdate", use: <br>  <br> SurfaceUpdate\SerialIOGPIO <br> SurfaceUpdate\serialioi2c <br> SurfaceUpdate\SerialIOSPI <br> SurfaceUpdate\SerialIOUART <br> SurfaceUpdate\SurfaceHidMini <br> SurfaceUpdate\SurfaceSerialHub <br> SurfaceUpdate\Itouch      |
-| **Surface Laptop (1st Gen)**  | SurfacePlatformInstaller\Drivers\System\GPIO <br> SurfacePlatformInstaller\Drivers\System\SurfaceHidMiniDriver <br> SurfacePlatformInstaller\Drivers\System\SurfaceSerialHubDriver <br> SurfacePlatformInstaller\Drivers\System\PreciseTouch   | For newer .msi files beginning with **"SurfaceUpdate"**, use: <br>  <br> SurfaceUpdate\SerialIOGPIO <br> SurfaceUpdate\SurfaceHidMiniDriver <br> SurfaceUpdate\SurfaceSerialHubDriver <br> SurfaceUpdate\Itouch    |
-
 ### Surface Pro 11 - Intel
 
 In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this downloadable zip file. The included `Readme.txt` contains additional information.
@@ -645,3 +628,207 @@ surfacewakeontouchcontrol
 wotquickspiextensionport1
 ```
 </details>
+---
+
+### Surface Laptop Studio
+
+<details>
+<summary>Import folders</summary>
+
+```
+intelthcbase
+managementengine
+surfaceacpiplatformextension
+surfacebattery
+SurfaceEthernetAdapter
+surfacehidmini
+surfacehotplug
+surfaceintegration
+surfacesar
+surfaceserialhub
+surfacesmfclient
+surfacesmfdisplayclient
+surfacesptclient
+surfacetimealarmacpifilter
+surfacevirtualfunctionenum
+tbtslimhostcontroller
+tglchipset
+tglserial
+```
+</details>
+
+---
+
+### Surface Pro 8
+
+<details>
+<summary>Import folders</summary>
+
+```
+intelthcbase
+ManagementEngine
+surfaceacpiplatformextension
+SurfaceBattery
+SurfaceCoverClick
+SurfaceEthernetAdapter
+SurfaceHidMini
+SurfaceHotPlug
+surfaceintegrationdriver
+SurfaceSar
+SurfaceSerialHub
+surfacetimealarmacpifilter
+surfacetypecoverv7fprude
+SurfaceUcmUcsiHidClient
+surfacevirtualfunctionenum
+tbtslimhostcontroller
+TglChipset
+TglSerial
+```
+</details>
+
+---
+
+### Surface Laptop 5 with Intel processor
+
+<details>
+<summary>Import folders</summary>
+
+```
+adlserial
+alderlakepchpsystem
+gna
+heci
+intelprecisetouch
+msump64x64sta
+surfaceacpiplatformextensiondriver
+surfacebattery
+surfacebutton
+surfacedockintegration
+surfacehidminidriver
+surfacehotplug
+surfaceintegration
+surfaceserialhubdriver
+surfacetimealarmacpifilter
+tbtslimhostcontroller
+```
+</details>
+
+---
+
+### Surface Laptop 4 with Intel processor
+
+<details>
+<summary>Import folders</summary>
+
+```
+IntelPreciseTouch
+ManagementEngine
+SurfaceBattery
+SurfaceEthernetAdapter
+SurfaceHidMini
+SurfaceHotPlug
+SurfaceSerialHub
+SurfaceTconDriver
+surfacetimealarmacpifilter
+surfacevirtualfunctionenum
+TglChipset
+TglSerial
+```
+</details>
+
+---
+
+### Surface Laptop 4 with AMD processor
+
+<details>
+<summary>Import folders</summary>
+
+```
+AMDfendr
+AMDGpio2
+AMDI2c
+AMDLpcFilterDriverAMDMicroPEP
+AMDPsp
+AMDSmf
+AMDSpi
+AMDUart
+SMBUS
+SurfaceBattery
+SurfaceButton
+SurfaceDigitizerHidSpiExtnPackage
+SurfaceEthernetAdapter
+SurfaceHIDFriendlyNames
+SurfaceHidMini
+SurfaceHotPlug
+SurfaceOemPanel
+SurfacePowerMeter
+SurfacePowerTrackerCore
+SurfaceSerialHub
+SurfaceSMFClient
+SurfaceSmfDisplayClient
+SurfaceSystemManagementFramework
+SurfaceTconDriver
+SurfaceThermalPolicy
+Surfacetimealarmacpifilter
+SurfaceUcmUcsiHidClient
+U0361415
+```
+</details>
+
+---
+
+### Surface Laptop 3 with Intel processor
+
+<details>
+<summary>Import folders</summary>
+
+```
+SurfaceUpdate\Itouch
+SurfaceUpdate\SerialIOGPIO
+SurfaceUpdate\SerialIOI2C
+SurfaceUpdate\SerialIOSPI
+SurfaceUpdate\SerialIOUART
+SurfaceUpdate\SurfaceHidMini
+SurfaceUpdate\SurfaceHotPlug
+SurfaceUpdate\SurfaceSerialHub
+```
+</details>
+
+**More information**: Importing the following folders enables full keyboard, trackpad, and touch functionality in PE: SerialIOGPIO, SerialIOI2C, SerialIOSPI, SerialIOUART, itouch, Chipset, ChipsetLPSS, ChipsetNorthpeak, ManagementEngine, SurfaceAcpiNotify, SurfaceBattery, SurfaceDockIntegration, SurfaceHidMini, SurfaceHotPlug, SurfaceIntegration, SurfaceSerialHub, SurfaceService, SurfaceStorageFwUpdat
+
+---
+
+### Surface Laptop 2
+
+<details>
+<summary>Import folders</summary>
+
+```
+SurfacePlatformInstaller\Drivers\System\GPIO
+SurfacePlatformInstaller\Drivers\System\I2C
+SurfacePlatformInstaller\Drivers\System\PreciseTouch
+SurfacePlatformInstaller\Drivers\System\SPI
+SurfacePlatformInstaller\Drivers\System\SurfaceHIDMiniDriver
+SurfacePlatformInstaller\Drivers\System\SurfaceSerialHubDriver
+SurfacePlatformInstaller\Drivers\System\UART
+```
+</details>
+
+**More information**: For newer .msi files beginning with "SurfaceUpdate", use: SurfaceUpdate\SerialIOGPIO, SurfaceUpdate\serialioi2c, SurfaceUpdate\SerialIOSPI, SurfaceUpdate\SerialIOUART, SurfaceUpdate\SurfaceHidMini, SurfaceUpdate\SurfaceSerialHub, SurfaceUpdate\Itouch
+
+---
+
+### Surface Laptop (1st Gen)
+
+<details>
+<summary>Import folders</summary>
+
+```
+SurfacePlatformInstaller\Drivers\System\GPIO
+SurfacePlatformInstaller\Drivers\System\PreciseTouch
+SurfacePlatformInstaller\Drivers\System\SurfaceHidMiniDriver
+SurfacePlatformInstaller\Drivers\System\SurfaceSerialHubDriver
+```
+</details>
+
+**More information**: For newer .msi files beginning with **"SurfaceUpdate"**, use: SurfaceUpdate\SerialIOGPIO, SurfaceUpdate\SurfaceHidMiniDriver, SurfaceUpdate\SurfaceSerialHubDriver, SurfaceUpdate\Itouch
