@@ -27,7 +27,7 @@ To improve asset management for IT departments, Microsoft is introducing Serial 
 The following devices include SN QR codes only on units manufactured after the listed dates:
 
 - **Surface Laptop for Business, 7th Edition (Intel processor)** – Units manufactured after **March 31, 2025**
-- **Surface Pro for Business, 11th Edition (Arm processor)** – Units manufactured after **March 21, 2025**
+- **Surface Pro for Business, 11th Edition (Snapdragon processor)** – Units manufactured after **March 21, 2025**
 - **Surface Pro for Business, 10th Edition (Intel processor)** – Units manufactured after **March 12, 2025**
 
 :::image type="content" source="images/surface-sn-qr-code.png" alt-text="Screenshot of a Surface device engraving showing the Microsoft logo, a placeholder serial number, and a QR code beneath it.":::
