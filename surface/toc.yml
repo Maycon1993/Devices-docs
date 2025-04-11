@@ -174,7 +174,7 @@
           href: microsoft-surface-deployment-accelerator.md
         - name: Prepare Surface deployment with MDT
           href: deploy-windows-10-to-surface-devices-with-mdt.md
-        - name: Enable the Surface Laptop keyboard during MDT deployment
+        - name: Enable keyboards during Windows deployment
           href: enable-surface-keyboard-for-windows-pe-deployment.md
         - name: Customize the OOBE for Surface deployments
           href: customize-the-oobe-for-surface-deployments.md          
