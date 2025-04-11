@@ -15,6 +15,7 @@ appliesto:
 - Surface Pro 8
 - Surface Pro 9
 - Surface Pro 10
+- Surface Pro 11
 - Windows 10
 - Windows 11
 ---
