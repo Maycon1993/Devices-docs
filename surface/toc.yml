@@ -236,8 +236,10 @@
           href: surface-wireless-connect.md 
         - name: Surface DMA Protection
           href: dma-protect.md   
-        - name: Considerations for Surface & Configuration Manager
+        - name: Considerations for Configuration Manager
           href: considerations-for-surface-and-system-center-configuration-manager.md
+        - name: Streamline asset management with SN QR codes
+          href: surface-sn-qr-codes-for-asset-management.md
       - name: Arm devices
         items:          
         - name: Deploy, manage, & service Arm-based Surface devices
