@@ -19,9 +19,9 @@ appliesto:
 - Windows 11
 ---
 
-# How to enable the Surface Laptop keyboard during MDT deployment
+# How to enable a Surface Laptop keyboard, Surface Pro Keyboard, or Surface Pro Type Cover during Windows deployment
 
-This article addresses a deployment approach that uses Microsoft Deployment Toolkit (MDT). You can also apply this information to other deployment methodologies. On most types of Surface devices, the keyboard should work during Lite Touch Installation (LTI). However, Surface Laptop requires some extra drivers to enable the keyboard. For Surface Laptop  and Surface Laptop 2 devices, you must prepare the folder structure and selection profiles that allow you to specify keyboard drivers for use during the Windows Preinstallation Environment (Windows PE) phase of LTI. For more information about this folder structure, see [Deploy a Windows 10 image using MDT: Step 5: Prepare the drivers repository](/windows/deployment/deploy-windows-mdt/deploy-a-windows-10-image-using-mdt?redirectedfrom=MSDN#step-5-prepare-the-drivers-repository).
+This article provides information necessary to enable the keyboard and trackpad on some Surface devices when using a Windows deployment process like System Center Configuration Manager (SCCM) operating system deployment (OSD), or other deployment methodologies.   
 
 > [!TIP]
 > When using keyboard drivers for Surface Laptop 2 and Surface Laptop 3 in the same Windows PE boot instance, you might need to manually reset the firmware if the keyboard or touchpad don’t work in Windows PE:
@@ -31,26 +31,22 @@ This article addresses a deployment approach that uses Microsoft Deployment Tool
 > [!IMPORTANT]
 > If you're deploying a Windows 10 image to a Surface Laptop that has Windows 10 in S mode preinstalled, see KB [4032347, Problems when deploying Windows to Surface devices with preinstalled Windows 10 in S mode](https://support.microsoft.com/help/4032347/surface-preinstall-windows10-s-mode-issues).
 
-## Add keyboard drivers to the selection profile
+## Download and extract keyboard drivers
 
-1. Download the latest Surface Laptop .msi file from the following page: [Manage & deploy Surface driver & firmware updates](manage-surface-driver-and-firmware-updates.md).
+1. Download the latest Surface .msi file for your Surface device from the following page: [Manage & deploy Surface driver & firmware updates](manage-surface-driver-and-firmware-updates.md).
 
-2. Extract the contents of the Surface Laptop .msi file to a folder that you can easily locate (for example, c:\surface_laptop_drivers). To extract the contents, open an elevated Command Prompt window and run the command from the following example:
+2. Extract the contents of the Surface .msi file to a folder that you can easily locate (for example, c:\surface_drivers). To extract the contents, open an elevated Command Prompt window and run the command from the following example:
 
    ```cmd
-   Msiexec.exe /a SurfaceLaptop_Win10_15063_1703008_1.msi targetdir=c:\surface_laptop_drivers /qn
+   Msiexec.exe /a SurfaceLaptop_Win10_15063_1703008_1.msi targetdir=c:\surface_drivers /qn
    ```
 
-3. Open the Deployment Workbench and expand the **Deployment Shares** node and your deployment share, then navigate to the **WindowsPEX64** folder.
-4. Right-click the **WindowsPEX64** folder and select **Import Drivers**.
-5. Follow the instructions in the Import Driver Wizard to import the driver folders into the WindowsPEX64 folder.
-
  > [!NOTE]
- > Check the downloaded .msi package to determine the format and directory structure. The directory structure starts with either SurfacePlatformInstaller (older .msi files) or SurfaceUpdate (newer .msi files) depending on when the .msi file was released.
+ > Check the extracted .msi package to determine the format and directory structure. The directory structure starts with either SurfacePlatformInstaller (older .msi files) or SurfaceUpdate (newer .msi files) depending on when the .msi file was released.
 
 ## Import drivers for Surface devices
 
-Import the following folders as appropriate for your Surface Laptop device.
+Import the following folders as appropriate for your Surface device.You will need to import these drivers into Windows PE if you need to use the keyboard or trackpad during early parts of your OS deployment.  
 
 | Device                           | Import folders        | More information  |
 | ------------------------------- | ------------------------ | -----------------------|
@@ -69,28 +65,3 @@ Import the following folders as appropriate for your Surface Laptop device.
 | **Surface Laptop 2**| SurfacePlatformInstaller\Drivers\System\GPIO <br> SurfacePlatformInstaller\Drivers\System\SurfaceHIDMiniDriver <br> SurfacePlatformInstaller\Drivers\System\SurfaceSerialHubDriver <br> SurfacePlatformInstaller\Drivers\System\I2C <br> SurfacePlatformInstaller\Drivers\System\SPI <br> SurfacePlatformInstaller\Drivers\System\UART <br> SurfacePlatformInstaller\Drivers\System\PreciseTouch  | For newer .msi files beginning with "SurfaceUpdate", use: <br>  <br> SurfaceUpdate\SerialIOGPIO <br> SurfaceUpdate\serialioi2c <br> SurfaceUpdate\SerialIOSPI <br> SurfaceUpdate\SerialIOUART <br> SurfaceUpdate\SurfaceHidMini <br> SurfaceUpdate\SurfaceSerialHub <br> SurfaceUpdate\Itouch      |
 | **Surface Laptop (1st Gen)**  | SurfacePlatformInstaller\Drivers\System\GPIO <br> SurfacePlatformInstaller\Drivers\System\SurfaceHidMiniDriver <br> SurfacePlatformInstaller\Drivers\System\SurfaceSerialHubDriver <br> SurfacePlatformInstaller\Drivers\System\PreciseTouch   | For newer .msi files beginning with **"SurfaceUpdate"**, use: <br>  <br> SurfaceUpdate\SerialIOGPIO <br> SurfaceUpdate\SurfaceHidMiniDriver <br> SurfaceUpdate\SurfaceSerialHubDriver <br> SurfaceUpdate\Itouch    |
 
-  > [!TIP]
-  > Check the downloaded .msi package to determine the format and directory structure.  The directory structure starts with either SurfacePlatformInstaller (older .msi files) or SurfaceUpdate (Newer .msi files) depending on when the .msi was released.
-
-## Verify imported drivers & configure Windows PE properties
-
-1. Verify that the WindowsPEX64 folder now contains the imported drivers, as shown in the following figure:
-
-   ![Image that shows the newly imported drivers in the WindowsPEX64 folder of the Deployment Workbench.](./images/surface-laptop-keyboard-2.png)
-1. Configure a selection profile that uses the WindowsPEX64 folder, as shown in the following figure:
-
-   ![Image that shows the WindowsPEX64 folder selected as part of a selection profile.](./images/surface-laptop-keyboard-3.png)
-1. To use the new selection profile, configure the Windows PE properties of the MDT deployment share as follows:
-    - For **Platform**, select **x64**.
-    - For **Selection profile**, select the new profile.
-    - Select **Include all drivers from the selection profile**.
-
-    ![Image that shows the Windows PE properties of the MDT Deployment Share.](./images/surface-laptop-keyboard-4.png)
-4. Verify that you have configured the remaining Surface Laptop drivers by using either a selection profile or a **DriverGroup001** variable.
-    - For Surface Laptop (1st Gen), the model is **Surface Laptop**. The remaining Surface Laptop drivers should reside in the \MDT Deployment Share\Out-of-Box Drivers\Windows10\X64\Surface Laptop folder as shown in the following figure.
-    - For Surface Laptop 2, the model is **Surface Laptop 2**. The remaining Surface Laptop drivers should reside in the \MDT Deployment Share\Out-of-Box Drivers\Windows10\X64\Surface Laptop 2 folder.
-    - For Surface Laptop 3 with Intel processor, the model is Surface Laptop 3. The remaining Surface Laptop drivers are located in the \MDT Deployment Share\Out-of-Box Drivers\Windows10\X64\Surface Laptop 3 folder.
-
-    ![Image that shows the regular Surface Laptop (1st Gen) drivers in the Surface Laptop folder of the Deployment Workbench.](./images/surface-laptop-keyboard-5.png)
-
-After configuring the MDT Deployment Share to use the new selection profile and related settings, continue the deployment process as described in [Deploy a Windows 10 image using MDT: Step 6: Create the deployment task sequence](/windows/deployment/deploy-windows-mdt/deploy-a-windows-10-image-using-mdt#step-6-create-the-deployment-task-sequence).
