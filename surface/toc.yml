@@ -174,7 +174,7 @@
           href: microsoft-surface-deployment-accelerator.md
         - name: Prepare Surface deployment with MDT
           href: deploy-windows-10-to-surface-devices-with-mdt.md
-        - name: Enable the Surface Laptop keyboard during MDT deployment
+        - name: Enable keyboards during Windows deployment
           href: enable-surface-keyboard-for-windows-pe-deployment.md
         - name: Customize the OOBE for Surface deployments
           href: customize-the-oobe-for-surface-deployments.md          
@@ -236,8 +236,10 @@
           href: surface-wireless-connect.md 
         - name: Surface DMA Protection
           href: dma-protect.md   
-        - name: Considerations for Surface & Configuration Manager
+        - name: Considerations for Configuration Manager
           href: considerations-for-surface-and-system-center-configuration-manager.md
+        - name: Streamline asset management with SN QR codes
+          href: surface-sn-qr-codes-for-asset-management.md
       - name: Arm devices
         items:          
         - name: Deploy, manage, & service Arm-based Surface devices
