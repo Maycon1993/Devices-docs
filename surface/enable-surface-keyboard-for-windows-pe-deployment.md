@@ -50,10 +50,10 @@ Import the following folders as appropriate for your Surface device.You will nee
 
 ### Surface Pro 11 - Intel
 
-In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this downloadable zip file. The included `Readme.txt` contains additional information.
+In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information.
 
 <details>
-<summary>Folders</summary>
+<summary>Import folders</summary>
 
 ```
 acpiplatformextension
@@ -92,10 +92,10 @@ wifi
 
 ### Surface Pro 10 5G
 
-In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this downloadable zip file. The included `Readme.txt` contains additional information.
+In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information.
 
 <details>
-<summary>Folders</summary>
+<summary>Import folders</summary>
 
 ```
 5gnrcoexmgr
@@ -147,10 +147,10 @@ ude
 
 ### Surface Laptop 7 - Intel
 
-In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this downloadable zip file. The included `Readme.txt` contains additional information.
+In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information.
 
 <details>
-<summary>Folders</summary>
+<summary>Import folders</summary>
 
 ```
 acpiplatformextension
@@ -189,10 +189,10 @@ wifi
 
 ### Surface Pro 11 and Surface Pro 11 5G - ARM
 
-In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_ARM` from this downloadable zip file. The included `Readme.txt` contains additional information.
+In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_ARM` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information.
 
 <details>
-<summary>Folders</summary>
+<summary>Import folders</summary>
 
 ```
 5gnrcoexmgr
@@ -382,10 +382,10 @@ wbfusbdriver
 
 ### Surface Laptop 7 - ARM
 
-In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_ARM` from this downloadable zip file. The included `Readme.txt` contains additional information.
+In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_ARM` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information.
 
 <details>
-<summary>Folders</summary>
+<summary>Import folders</summary>
 
 ```
 acpiplatformextension
@@ -628,7 +628,7 @@ surfacewakeontouchcontrol
 wotquickspiextensionport1
 ```
 </details>
----
+
 
 ### Surface Laptop Studio
 
