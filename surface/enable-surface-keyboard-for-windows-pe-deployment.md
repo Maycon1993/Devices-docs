@@ -47,7 +47,7 @@ This article provides information necessary to enable the keyboard and trackpad 
 
 ## Import drivers for Surface devices
 
-Import the following folders as appropriate for your Surface device. You will need to import these drivers into Windows PE if you need to use the keyboard or trackpad during early parts of your OS deployment.  
+Import the folders listed for your Surface device. You will need to import these drivers into Windows PE, if you need to use the keyboard or trackpad during early parts of your OS deployment.  
 
 ### Surface Pro 11 - Intel
 
