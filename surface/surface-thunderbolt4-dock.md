@@ -200,12 +200,12 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 
 ### References
 
-1. Surface Enterprise Management Mode for Dock and MAC address passthrough are available on select host devices and supported operating systems.
+1. Surface Enterprise Management Mode for Dock and MAC address passthrough are available on select host devices and supported operating systems. 
 2. When supported by device and display.
 3. USB-C port doesn't charge your Surface device or any  device that requires more than 15 W.
 4. Ocean-bound plastic is plastic waste recovered from oceans and waterways, cleaned, and processed into recycled plastic resin pellets. These recycled pellets are blended in with virgin plastic during the manufacturing process.
 5. In OECD countries/regions, Microsoft operates recycling programs either independently or through third parties covering Microsoft Devices. In addition, check local recycling programs for availability.
-6. Requires device with USB4/Thunderbolt 4 port.
+6. MAC address passthrough is available on the following Surface devices running supported operating systems: Surface Go 4, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Laptop 6 for Business, Surface Pro 10 for Business, Surface Pro 11th Edition (Snapdragon and Intel processors), Surface Laptop 7th Edition (Snapdragon and Intel processors), Surface Pro 11th Edition 5G, and Surface Pro 10 with 5G.
 7. Surface Thunderbolt 4 Dock is supported on Surface Laptop 3 with Intel processor (System SKU: Surface_Laptop_3_1867:1868). For Surface Laptop 3 with AMD processor (System SKU: Surface_Laptop_3_1873), refer to the [Known issues section](#known-issues) of this page.
 8. Software license required for some features. Sold separately.
 9. 4K @ 60 Hz via USB-C requires High Bit Rate 3 (HBR3) support on both display and host computer.
