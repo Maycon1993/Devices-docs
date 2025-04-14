@@ -25,7 +25,7 @@ appliesto:
 This article provides information necessary to enable the keyboard and trackpad on some Surface devices when using a Windows deployment process like System Center Configuration Manager (SCCM) operating system deployment (OSD) or other deployment tools.
 
 > [!TIP]
-> When using keyboard drivers for Surface Laptop 2 and Surface Laptop 3 in the same Windows PE boot instance, you might need to manually reset the firmware if the keyboard or touchpad don’t work in Windows PE:
+> When using keyboard drivers for Surface Laptop 2 and Surface Laptop 3 in the same Windows PE boot instance, you might need to manually reset the firmware if the keyboard or touchpad doesn't work in Windows PE:
 >
 > - Press and hold the Power button for 30 seconds. If you're connected to a power supply unit (PSU), press and hold the Power button until you see the light at the end of the PSU cord briefly turn off before turning back on.
 
@@ -47,7 +47,7 @@ This article provides information necessary to enable the keyboard and trackpad 
 
 ## Import drivers for Surface devices
 
-Import the following folders as appropriate for your Surface device. You will need to import these drivers into Windows PE if you need to use the keyboard or trackpad during early parts of your OS deployment.  
+Import the folders listed for your Surface device. You will need to import these drivers into Windows PE, if you need to use the keyboard or trackpad during early parts of your OS deployment.  
 
 ### Surface Pro 11 - Intel
 
