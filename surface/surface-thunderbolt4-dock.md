@@ -31,7 +31,7 @@ Surface Thunderbolt 4 Dock helps improve IT efficiency and reduce overhead and s
 
 - **SEMM for Dock**. Designed to quickly lock down the ports of your dock in mission-critical environments and restrict functionality to specific devices, enabling organizations to simplify and secure IT management. For more information, see [Secure Surface Dock ports with Surface Enterprise Management Mode](secure-surface-dock-ports-semm.md).
 - **Firmware updates through Windows Update**. Seamlessly keep your dock up to date with automatic updates or downloadable update driver and firmware packs.
-- **MAC address passthrough.**[<sup>6</sup>](#references)Maintain device network identity from one dock to another for ease of management in shared workspaces or dock environments.
+- **MAC address passthrough.**[<sup>6</sup>](#references) Maintain device network identity from one dock to another for ease of management in shared workspaces or dock environments.
 - **Wake-on-LAN from Modern Standby.** IT admins can remotely wake up devices connected to Surface Thunderbolt 4 Dock and automatically perform management tasks.
 - **Windows Management Instrumentation (WMI) support**. IT admins can remotely monitor and manage the latest firmware, policy settings, and related data across Surface Thunderbolt 4 Dock devices. For more information, see [Manage Surface Dock with WMI](surface-dock-wmi.md).
 - **Centralized support & warranty service**. IT admins can get direct support via the [Surface Management Portal](surface-management-portal.md) or [Surface Support Portal](https://admin.microsoft.com/adminportal/home).
@@ -183,12 +183,12 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 
 | Feature                          | Surface Thunderbolt 4                           | Surface Dock 2                                  | USB-C Travel Adapter Hub                                |
 |----------------------------------|-------------------------------------------------|-------------------------------------------------|---------------------------------------------------------|
-| **Connection Type/Protocol**     | Thunderbolt 4                                   | Surflink USB Gen 2 + DP 1.4 HBR3               | USB 3.2 Gen 2 Type-C MFDP                               |
+| **Connection Type/Protocol**     | Thunderbolt 4                                   | Surface Connect USB Gen 2 + DP 1.4 HBR3               | USB 3.2 Gen 2 Type-C MFDP                               |
 | **Display Support**              | 2x 4K UltraHD @ 60 Hz on any 2 of 3 USB-C ports  | 2x 4K UltraHD @ 60 Hz on two rear side USB-C ports | 1x HDMI UltraHD @ 60 Hz or 1x VGA QuadHD @ 60 Hz          |
 | **USB Ports**                    | 3x USB-A with USB 3.2 Gen 2 (10 Gbps)            | 2x USB-A with USB 3.2 Gen 2 (10 Gbps)           | 1x USB-A and 1x USB-C with USB 3.2 Gen 2 (10 Gbps)        |
 | **Ethernet Support**             | 2.5 Gigabit Ethernet                             | Gigabit Ethernet                                   | Giga Ethernet                                            |
 | **Audio Jack**                   | 3.5 mm with stereo output and mic input          | 3.5 mm with stereo output and mic input         | N/A                                                      |
-| **Charging Power**               | USB PD 3.0 with 60 W charging rate               | 120 W Surflink charging                          | N/A                                                      |
+| **Charging Power**               | USB PD 3.0 with 60 W charging rate               | 120 W Surface Connect charging                          | N/A                                                      |
 | **Device Trust**                 | Only trusted devices can access USB data transfer | Only trusted devices can access USB data transfer | N/A                                                      |
 
 ### Learn more
@@ -200,12 +200,12 @@ To daisy chain monitors, you need two or more monitors that support at least **D
 
 ### References
 
-1. Surface Enterprise Management Mode for Dock and MAC address passthrough are available on select host devices and supported operating systems.
+1. Surface Enterprise Management Mode for Dock and MAC address passthrough are available on select host devices and supported operating systems. 
 2. When supported by device and display.
 3. USB-C port doesn't charge your Surface device or any  device that requires more than 15 W.
 4. Ocean-bound plastic is plastic waste recovered from oceans and waterways, cleaned, and processed into recycled plastic resin pellets. These recycled pellets are blended in with virgin plastic during the manufacturing process.
 5. In OECD countries/regions, Microsoft operates recycling programs either independently or through third parties covering Microsoft Devices. In addition, check local recycling programs for availability.
-6. Requires device with USB4/Thunderbolt 4 port.
+6. MAC address passthrough is available on the following Surface devices running supported operating systems: Surface Go 4, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Laptop 6 for Business, Surface Pro 10 for Business, Surface Pro 11th Edition (Snapdragon and Intel processors), Surface Laptop 7th Edition (Snapdragon and Intel processors), Surface Pro 11th Edition 5G, and Surface Pro 10 with 5G.
 7. Surface Thunderbolt 4 Dock is supported on Surface Laptop 3 with Intel processor (System SKU: Surface_Laptop_3_1867:1868). For Surface Laptop 3 with AMD processor (System SKU: Surface_Laptop_3_1873), refer to the [Known issues section](#known-issues) of this page.
 8. Software license required for some features. Sold separately.
 9. 4K @ 60 Hz via USB-C requires High Bit Rate 3 (HBR3) support on both display and host computer.
