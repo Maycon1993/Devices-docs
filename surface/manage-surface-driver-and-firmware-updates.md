@@ -8,7 +8,7 @@ ms.service: surface
 author: coveminer
 ms.author: chauncel
 ms.topic: how-to
-ms.date: 02/20/2025
+ms.date: 04/17/2025
 appliesto:
 - Windows 10
 - Windows 11
@@ -44,6 +44,9 @@ Windows Installer .msi files contain all the required cumulative driver and firm
 
 > [!IMPORTANT]
 > When Windows 10 reaches end of support on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or provide technical support. To learn more, including transition options for organizations needing more time, see [Plan for Windows 10 End of Support with Windows 11, Windows 365, and ESU](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414).
+
+> [!NOTE]
+> Surface Pro 11th Edition with Intel processor and Surface Laptop 7th Edition with Intel processor now support deployment with Windows 11, version 23H2. Factory images for Windows 11 23H2 are not available. Organizations must download and install the OS themselves and integrate the MSI driver and firmware package into their imaging solution. While Windows 11 23H2 expands deployment flexibility, some features supported in Windows 11 24H2 and later are not available in 23H2.
 
 | Surface device                                                                                                                                        | Downloadable .msi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

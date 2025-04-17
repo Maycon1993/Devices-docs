@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 03/03/2025
+ms.date: 04/17/2025
 ms.reviewer: chauncel
 manager: frankbu
 ---
@@ -17,6 +17,9 @@ This article lists the versions of Windows that are supported on the Business an
 
 > [!IMPORTANT]
 > When Windows 10 reaches end of support (EOS) on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or technical support from Microsoft. To learn more, including transition options for organizations needing more time, see [How to prepare for Windows 10 end of support by moving to Windows 11 today](https://blogs.windows.com/windowsexperience/2024/10/31/how-to-prepare-for-windows-10-end-of-support-by-moving-to-windows-11-today/).
+
+> [!NOTE]
+> Surface Pro 11th Edition with Intel processor and Surface Laptop 7th Edition with Intel processor now support deployment with Windows 11, version 23H2. Factory images for Windows 11 23H2 are not available. Organizations must download and install the OS themselves and integrate the MSI driver and firmware package into their imaging solution. While Windows 11 23H2 expands deployment flexibility, some features supported in Windows 11 24H2 and later are not available in 23H2.
 
 ## Surface Pro
 
