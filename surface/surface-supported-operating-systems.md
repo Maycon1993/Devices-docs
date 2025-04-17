@@ -13,7 +13,7 @@ manager: frankbu
 
 # Surface supported operating systems
 
-This article lists the versions of Windows that are supported on the Business and Consumer versions of Microsoft Surface devices, when the devices were released and available for purchase.
+This article lists the versions of Windows that are supported on the Business and Consumer versions of Microsoft Surface devices.
 
 > [!IMPORTANT]
 > When Windows 10 reaches end of support (EOS) on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or technical support from Microsoft. To learn more, including transition options for organizations needing more time, see [How to prepare for Windows 10 end of support by moving to Windows 11 today](https://blogs.windows.com/windowsexperience/2024/10/31/how-to-prepare-for-windows-10-end-of-support-by-moving-to-windows-11-today/).
