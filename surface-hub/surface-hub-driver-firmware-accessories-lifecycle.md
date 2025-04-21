@@ -40,7 +40,7 @@ The device/accessory servicing period defines the period that updates are availa
 
 ### OS version support
 
-OS version support defines the operating system versions Surface supports during the device/accessory servicing period. To see your Surface Hub device's minimum supported OS version, visit the [Surface supported operating systems support page](https://support.microsoft.com/help/2858199/surface-supported-operating-systems). Depending on the model, Surface Hub devices will receive driver and firmware updates for the most recent release of Windows 10, Windows 11, Windows 11 IoT Enterprise or Windows 10 Team edition (Surface Hub).
+OS version support defines the operating system versions Surface supports during the device/accessory servicing period. To see your Surface Hub device's minimum supported OS version, visit the [Surface supported operating systems support page](/surface/surface-supported-operating-systems#surface-hub). Depending on the model, Surface Hub devices will receive driver and firmware updates for the most recent release of Windows 10, Windows 11, Windows 11 IoT Enterprise or Windows 10 Team edition (Surface Hub).
 
 When the Surface Hub device support period concludes at the end-of-servicing date for drivers and firmware, Hub devices will continue to receive Windows OS feature and security updates per the Windows Lifecycle Policy, as described on the [Microsoft Lifecycle Policy support page](https://support.microsoft.com/hub/4095338/microsoft-lifecycle-policy).
 
