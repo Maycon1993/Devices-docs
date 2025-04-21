@@ -6,25 +6,28 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 03/03/2025
+ms.date: 04/17/2025
 ms.reviewer: chauncel
 manager: frankbu
 ---
 
 # Surface supported operating systems
 
-This article lists the versions of Windows that are supported on the Business and Consumer versions of Microsoft Surface devices, when the devices were released and available for purchase.
+This article lists the versions of Windows that are supported on the Business and Consumer versions of Microsoft Surface devices.
 
 > [!IMPORTANT]
 > When Windows 10 reaches end of support (EOS) on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or technical support from Microsoft. To learn more, including transition options for organizations needing more time, see [How to prepare for Windows 10 end of support by moving to Windows 11 today](https://blogs.windows.com/windowsexperience/2024/10/31/how-to-prepare-for-windows-10-end-of-support-by-moving-to-windows-11-today/).
+
+> [!NOTE]
+> Surface Pro 11th Edition with Intel processor, Surface Pro 10 with 5G, and Surface Laptop 7th Edition with Intel processor now support deployment with Windows 11, version 23H2. Factory images for Windows 11 23H2 are not available. Organizations must download and install the OS themselves and integrate the MSI driver and firmware package into their imaging solution. While Windows 11 23H2 expands deployment flexibility, some features supported in Windows 11 24H2 are not available in 23H2.
 
 ## Surface Pro
 
 | Device                               | Windows OS                                                                                                          |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Surface Pro 11th Edition, Intel processor               | - Windows 11, Version 24H2 build 26100 and later                                                               |
+| Surface Pro 11th Edition, Intel processor               | - Windows 11, Version 24H2 build 26100 and later <br>- Windows 11, Version 23H2 build 22631 and later                                                              |
 | Surface Pro 11th Edition, Snapdragon processor               | - Windows 11, Version 24H2 build 26100 and later                                                               |
-| Surface Pro 10 with 5G for Business      | - Windows 11, Version 24H2 build 26100 and later |
+| Surface Pro 10 with 5G for Business      | - Windows 11, Version 24H2 build 26100 and later <br>- Windows 11, Version 23H2 build 22631 and later|
 | Surface Pro 10 for Business              | - Windows 10, Version 22H2 build 19045 and later<br>- Windows 11, Version 23H2 build 22631 and later |
 | Surface Pro 9 with Intel Processor       | - Windows 10, Version 21H2 build 19044 and later<br>- Windows 11, Versions 22H2 build 22621 and later |
 | Surface Pro 9 with 5G (SQ3 Processor)    | - Windows 11, Version 22H2 build 22621 and later                                                               |
@@ -47,7 +50,7 @@ This article lists the versions of Windows that are supported on the Business an
 
 | Device                                    | Windows OS                                                                                                          |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Surface Laptop 7th Edition, Intel processor                  | - Windows 11, Version 24H2 build 26100 and later                                                               |
+| Surface Laptop 7th Edition, Intel processor                  | - Windows 11, Version 24H2 build 26100 and later <br>- Windows 11, Version 23H2 build 22631 and later                                                               |
 | Surface Laptop 7th Edition, Snapdragon processor                  | - Windows 11, Version 24H2 build 26100 and later                                                               |
 | Surface Laptop 6 for Business                 | - Windows 10, Version 22H2 build 19045 and later <br>- Windows 11, Version 23H2 build 22631 and later |
 | Surface Laptop 5                              | - Windows 10, Version 21H2 build 19044 and later<br>- Windows 11, Version 22H2 build 22621 and later  |
