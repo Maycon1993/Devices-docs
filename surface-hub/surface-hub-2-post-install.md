@@ -174,8 +174,6 @@ The Surface Hub pen has a shortcut button sometimes called a "tail select." Conf
 
 You can mount the camera on the top or either side of the device. Mount the camera in a position to optimize the camera angle if you're using the Hub with a desktop stand instead of a cart, or are near the Hub. The camera doesn't autorotate, so you need to have a 2-mm hex key to manually rotate the camera.
 
-For more information on how to side-mount the camera and rotate the camera manually, see [Surface Hub 2S camera lens orientation](https://support.microsoft.com/help/4509729/surface-hub-2s-camera-lens-orientation).
-
 ## Windows Hello configuration
 
 Surface Hub 2S running Windows 10/11 Pro or Enterprise allows the full suite of Win32 desktop applications and biometric Windows Hello options. The Surface Hub Fingerprint Reader accessory can be plugged into any USB-C port on the device.
